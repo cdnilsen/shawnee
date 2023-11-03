@@ -1,22 +1,59 @@
-halawi
+alawi
     VAI 'he hunts'
 
     PA *arawiwa
 
-hanikwa
+anikwa
     NA 'squirrel'
 
     PA *anyikwa
 
-n-iiwa
+**aʔšame·wa
+    VTA 'he feeds him'
+
+    3sg>3' /hotšamahi/: 26.6
+
+**a·miwele·wa
+    VTA 'he carries him off, conveys him'
+
+    1sg>3 /nita·miwela/: 26.2
+
+
+koško
+    NA 'pig, hog'
+
+    prox. /koško/: 26.2
+
+
+n-i·wa
     DNA 'my wife'
 
     PA *ni·wa
 
+nekoti
+    NUM 'one'
+
+    /nekoti/: 26.2
+
+noʔki
+    PT 'again'
+
+    /noʔki/: 26.5
+
+**nʔθe·wa
+    VTA 'he kills him'
+
+    1sg>3 /ninʔθa/: 26.2
+
+šeʔkamika
+    PT 'long ago'
+
+    /šeʔkamika/: 26.1, 27.1
+
 škinwi
     PT 'now'
 
-θaakiči
+θa·kiči
     PT 'outside'
 
     PA *sa·kiči
