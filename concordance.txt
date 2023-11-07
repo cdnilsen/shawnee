@@ -8,15 +8,21 @@ anikwa
 
     PA *anyikwa
 
+
 **aʔšame·wa
     VTA 'he feeds him'
 
-    3sg>3pl' /hotšamahi/: 26.6
+    3sg>4pl /hotšamahi/: 26.6
 
 **a·miwele·wa
     VTA 'he carries him off, conveys him'
 
     1sg>3 /nita·miwela/: 26.2
+
+čiʔθena
+    PT 'finally'
+
+    /čiʔθena/: 23.14
 
 
 koško
@@ -52,6 +58,18 @@ noʔki
 
 škinwi
     PT 'now'
+
+tθani
+    NI 'bed'
+
+    sg. /tθani/: 23.4
+
+    loc. /tθaneki/: 217.1 (x2)
+
+    2sg+ /kitθani/: 23.3 
+    3sg+ /hotθani/: 23.4 
+
+
 
 θa·kiči
     PT 'outside'
