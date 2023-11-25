@@ -61,7 +61,9 @@ miilooθo
 
 ni-kya
     DNA
-    'my mother'
+    'my mother
+    
+    {3sg+} hokeeli
 
 ni-meʔšoomʔθa
     DNA
@@ -133,3 +135,7 @@ tθani
     'bed'
     {2sg poss.} kitθani
     {3sg poss.} hotθani
+
+weela
+    PT
+    'or'

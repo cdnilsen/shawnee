@@ -66,7 +66,7 @@
 23.16.G "this," | she says | her pet | her little dog
 23.16.E "This," she says (pointing) to her pet, her little dog.
 
-23.17.S wo· hiwaki nhoiʔki kilenaweeki neʔkičithwaape hiwaki nili wiʔšiiθali 
+23.17.S wo· hiwaki niʔki kilenaweeki neʔkičithwaape hiwaki nili wiʔšiiθali 
 23.17.G oh | they say | those | old folks | we must kill him | they say | that | her dog
 23.17.E "Oh," those old folks say, "we must kill that dog," they say.
 
@@ -1364,428 +1364,142 @@ yeʔmemekineeletama matayaʔ=tawenoote yooma wiikiwa waapake. matalaakwa wahotat
 202.6.G:
 202.6.E:
 
-203:
-203.1.S:
-203.1.G:
+203: Vision Quest [119] (some of these sentence numbrs seem to be off??)
+203.1.S: taʔpiyeči=neekatamowaači yeeleelemeči nikeʔ kiyaamenaaki waaši hale kamowaači wiyehi wakθoskaakowaači 
+203.1.G ; the place where they come to follow it ; as they got created ; here ; our forefathers, old folk ; so that ; they find it ; somehting ; so that they may be protected by it
 203.1.E:
 
-203.2.S:
-203.2.G:
+203.2.S: hiini weečaʔteeki hokwteletiiwenwa noʔki hiini weeči=haʔteeki waaši pemi=noošaalaači hotapeloʔθemwahi 
+203.2.G ; that's ; how it is ; their laws ; also ; that's ; how it is ; so that ; he may nurse along ; their children
 203.2.E:
 
-203.3.S:
-203.3.G:
+203.3.S: hiini waači mʔkatehowaači taʔniišwaʔθi tθwikatoowiči škilaweʔθiiθa šiškonʔhi
+203.3.G ; that's ; why ; they get painted black ; place whe[n] 7 ; [migrontly they are in yews [??]] ; boys [?] ; [not in text?]
 203.3.E:
 
-203.4.S:
-203.4.G:
+203.4.S: hiine howe mkate[=]hooθo  
+203.4.G ; then ; now ; he is painted black
 203.4.E:
 
-203.5.S:
-203.5.G:
+203.5.S: taʔmayowaapaki howe haameškooθo 
+203.5.G ; towards morning ; now ; he is driven away
 203.5.E:
 
-203.6.S:
-203.6.G:
+203.6.S: teki keʔpiya tepeʔki[=]ke 
+203.6.G ; don't ; you mustn't come ; until night 
 203.6.E:
 
-203.7.S:
-203.7.G:
+203.7.S: čiine keʔpiya 
+203.7.G ; the[re] ; you will [come]
 203.7.E:
 
-203.8.S:
-203.8.G:
+203.8.S: teki noʔki keʔwiišawiʔθeni 
+203.8.G ; don't ; also ; you [must] eat
 203.8.E:
 
-203.9.S:
-203.9.G:
+203.9.S: teki noʔki keʔmene neekatamane yooma yeeleeletaki hina meemiilelakwe yooma 
+203.9.G ; don't ; also ; you must drink ; when you follow it ; this ; the what she created ; that ; one who give[s] it to [us] ; this
 203.9.E:
 
-203.10.S:
-203.10.G:
+203.10.S: hinoki waaša mkamani kamooči keʔkiteminaakweelemekwa wiyehi ši kimeʔšoomʔθena 
+203.10.G ; now ; so that ; you will find ; maybe ; you will be pitied by him ; some kind ; [of] ; our grandfather
 203.10.E:
 
-203.11.S:
-203.11.G:
+203.11.S: hiini wahotatenamani hileniwiiwe niičaphi yooni yeešipiyečiteepileθiwaači niʔki neemʔkakki 
+203.11.G ; that where you get it from ; manhood, power ; sure enough ; here ; as they come to be strong enough ; those ; ones who find it 
 203.11.E:
 
-203.12.S:
-203.12.G:
+203.12.S: nekotiʔkala škilaweʔθiiθa haameškooθo 
+203.12.G ; the one ; boy ; he is driven away
 203.12.E:
 
-203.13.S:
-203.13.G:
+203.13.S: mšee[l]wa koona 
+203.13.G ; he is plentiful ; snow
 203.13.E:
 
-203.14.S:
-203.14.G:
+203.14.S: weepi noʔki šeškikaʔkwane noʔki šeškalʔθete 
+203.14.G ; it is cold ; also ; he is bare-legged ; also ; he is barefooted
 203.14.E:
 
-203.15.S:
-203.15.G:
+203.15.S: paalohi laakwa taʔpaamʔθeeči wiiša=θookači 
+203.15.G ; finally ; at [time?] ; whe[n] travels ; he will freeze to death
 203.15.E:
 
-203.16.S:
-203.16.G:
+203.16.S: howekeela neʔθookači šitehe yaayopi nišipiyeewa šootkwi taʔkawaškaaki 
+203.16.G ; "now indeed ; I'll freeze to death" ; he thinks ; they say ; there comes ; big log ; place where it fell
 203.16.E:
 
-203.17.S:
+203.17.S: yaama kiišaʔθwa weečipemʔθeeči tekawihi hapenooya 
 203.17.G:
 203.17.E:
 
-203.18.S:
+203.18.S: howe θapa nišišekšinwa howekeela yooni wetaʔθookačiya šitehe 
 203.18.G:
 203.18.E:
 
-203.19.S:
+203.19.S: paapekwa hopiyeči nootawahi škilaweʔθiiθhi 
 203.19.G:
 203.19.E:
 
-203.20.S:
+203.20.S: peeleko yeʔθaapiikwiilekhi čeʔyooma niipawihi hoomata kitaʔθookači 
 203.20.G:
 203.20.E:
 
-203.21.S:
+203.21.S: neʔnekamope 
 203.21.G:
 203.21.E:
 
-203.22.S:
+203.22.S: keʔkaweʔtawipe 
 203.22.G:
 203.22.E:
 
-203.23.S:
+203.23.S: paalohi niyeewi nekamoowena homiilekohi 
 203.23.G:
 203.23.E:
 
-203.24.S:
+203.24.S: hiini wahaalekomooyani katemoyane holemiwaʔkanakiyaake kiileʔθa hiine kehošto looθowikamekwi
 203.24.G:
 203.24.E:
 
-203.25.S:
+203.25.S: keʔnatawʔθa hina yeeyahkwilakeeta 
 203.25.G:
 203.25.E:
 
-203.26.S:
+203.26.S: howelayooma honinʔkonaawa 
 203.26.G:
 203.26.E:
 
-203.27.S:
+203.27.S: waʔkanakiya hini wiyehi 
 203.27.G:
 203.27.E:
 
-203.28.S:
+203.28.S: nkonano hotekohi 
 203.28.G:
 203.28.E:
 
-203.29.S:
+203.29.S: honʔkona 
 203.29.G:
 203.29.E:
 
-203.30.S:
+203.30.S: kotano hotekooli 
 203.30.G:
 203.30.E:
 
+203.31.S: hokota 
+
+203.32.S: howe yooma keinʔθeeleta
+
+203.33.S: čiʔθeno nahiiko piyečinaakoθiigane wehi keʔwaapamipe 
+
+203.34.S: peeleko yeʔθaap[i] kweeleki čeʔyoomo šiikonaki 
+
+203.35.S: hiini waʔši hawaawaači neyanatawʔčikeečki 
+
+203.36.S: nihi šiikonʔhi 
+
+203.37.S: mata kamooči neeloʔči hotaʔkišiθhwahi nihi ši[ʔ]konʔhi
+
 204: Woman in Quest
-204.1.S: yoʔkoma ykweeki hiini haayahi yeeši noosaaletiči hapiiki niʔki paapiyecimʔkateʔhwaački ški[v]eʔθeeθhi taʔnirswaʔθi Kkatoowici hiine howe mkate hooθo paalohi nahiika taʔpiyeeYaaki tepaane tahapici hiini yeʔkwi mʔkatehooθoci hiine tahotenaweeci yaama magaaniyʔkwe laʔmawihʔθokomakiki kwena wiiša wiʔθeni wiyeeθali hokaloolekooli miyeʔlaapici škoteeki honeewaali lenaweeli howekeela keʔkitemin[aakw]eelemele hotekooli hiine keenalu hiini kveʔšiteepiileθiyani teepi keʔnaatamawaaki kooš kiimaki naaneeme yame yooma mešikatwi niiswi kiilawa halaaneeki nekoti noʔhi mayaaniyʔkwe hiini yaška yeeši kiteminaakweelemaki hiina keʔnaaniišθeepwa hiine kelnatii mata keelo laakwa howe honeemenaawa hinte taʔnoočheteki hiine liikiiki saʔsaakitwiiki lalakwi heeki taʔpemotiki hiine caaki metʔkaakwiiki nihi neenoočhetiimaawaaci halayini yeesinaa tamawaači hoškiimuohi kšake hiini yeesimiilekowaaci nili peepawaalaawaači kšake manetooui noʔki tuʔkiteminaakweelemeci howe hoʔkwaawi si[ ?]manetoowi yaalaačimopi
-204.1.G:
-204.1.E:
-
-204.2.S:
-204.2.G:
-204.2.E:
-
-204.3.S:
-204.3.G:
-204.3.E:
-
-204.4.S:
-204.4.G:
-204.4.E:
-
-204.5.S:
-204.5.G:
-204.5.E:
-
-204.6.S:
-204.6.G:
-204.6.E:
-
-204.7.S:
-204.7.G:
-204.7.E:
-
-204.8.S:
-204.8.G:
-204.8.E:
-
-204.9.S:
-204.9.G:
-204.9.E:
-
-204.10.S:
-204.10.G:
-204.10.E:
-
-204.11.S:
-204.11.G:
-204.11.E:
-
-204.12.S:
-204.12.G:
-204.12.E:
-
-204.13.S:
-204.13.G:
-204.13.E:
-
-204.14.S:
-204.14.G:
-204.14.E:
-
-204.15.S:
-204.15.G:
-204.15.E:
-
-205:
-205.1.S:
-205.1.G:
-205.1.E:
-
-205.2.S:
-205.2.G:
-205.2.E:
-
-205.3.S:
-205.3.G:
-205.3.E:
-
-205.4.S:
-205.4.G:
-205.4.E:
-
-205.5.S:
-205.5.G:
-205.5.E:
-
-205.6.S:
-205.6.G:
-205.6.E:
-
-205.7.S:
-205.7.G:
-205.7.E:
-
-205.8.S:
-205.8.G:
-205.8.E:
-
-205.9.S:
-205.9.G:
-205.9.E:
-
-205.10.S:
-205.10.G:
-205.10.E:
-
-205.11.S:
-205.11.G:
-205.11.E:
-
-205.12.S:
-205.12.G:
-205.12.E:
-
-205.13.S:
-205.13.G:
-205.13.E:
-
-205.14.S:
-205.14.G:
-205.14.E:
-
-205.15.S:
-205.15.G:
-205.15.E:
-
-205.16.S:
-205.16.G:
-205.16.E:
-
-205.17.S:
-205.17.G:
-205.17.E:
-
-205.18.S:
-205.18.G:
-205.18.E:
-
-205.19.S:
-205.19.G:
-205.19.E:
-
-205.20.S:
-205.20.G:
-205.20.E:
-
-205.21.S:
-205.21.G:
-205.21.E:
-
-205.22.S:
-205.22.G:
-205.22.E:
-
-205.23.S:
-205.23.G:
-205.23.E:
-
-205.24.S:
-205.24.G:
-205.24.E:
-
-205.25.S:
-205.25.G:
-205.25.E:
-
-205.26.S:
-205.26.G:
-205.26.E:
-
-205.27.S:
-205.27.G:
-205.27.E:
-
-205.28.S:
-205.28.G:
-205.28.E:
-
-205.29.S:
-205.29.G:
-205.29.E:
-
-205.30.S:
-205.30.G:
-205.30.E:
-
-205.31.S:
-205.31.G:
-205.31.E:
-
-205.32.S:
-205.32.G:
-205.32.E:
-
-205.33.S:
-205.33.G:
-205.33.E:
-
-205.34.S:
-205.34.G:
-205.34.E:
-
-205.35.S:
-205.35.G:
-205.35.E:
-
-205.36.S:
-205.36.G:
-205.36.E:
-
-205.37.S:
-205.37.G:
-205.37.E:
-
-205.38.S:
-205.38.G:
-205.38.E:
-
-205.39.S:
-205.39.G:
-205.39.E:
-
-205.40.S:
-205.40.G:
-205.40.E:
-
-205.41.S:
-205.41.G:
-205.41.E:
-
-205.42.S:
-205.42.G:
-205.42.E:
-
-205.43.S:
-205.43.G:
-205.43.E:
-
-205.44.S:
-205.44.G:
-205.44.E:
-
-205.45.S:
-205.45.G:
-205.45.E:
-
-205.46.S:
-205.46.G:
-205.46.E:
-
-205.47.S:
-205.47.G:
-205.47.E:
-
-205.48.S:
-205.48.G:
-205.48.E:
-
-205.49.S:
-205.49.G:
-205.49.E:
-
-205.50.S:
-205.50.G:
-205.50.E:
-
-205.51.S:
-205.51.G:
-205.51.E:
-
-205.52.S:
-205.52.G:
-205.52.E:
-
-205.53.S:
-205.53.G:
-205.53.E:
-
-205.54.S:
-205.54.G:
-205.54.E:
-
-205.55.S:
-205.55.G:
-205.55.E:
-
-205.56.S:
-205.56.G:
-205.56.E:
-
-205.57.S:
-205.57.G:
-205.57.E:
-
-205.58.S:
-205.58.G:
-205.58.E:
-
-205.59.S:
-205.59.G:
-205.59.E:
-
-205.60.S:
-205.60.G:
-205.60.E:
 
 206: Birth Marks -- Ear
 206.1.S: hapeloʔθa yeʔlenaweewiči nanaʔpi taʔtepinaakwatwi hoʔtawakaaki
@@ -1944,15 +1658,6 @@ yeʔmemekineeletama matayaʔ=tawenoote yooma wiikiwa waapake. matalaakwa wahotat
 210.8.S: teepweewe mata neeloʔci hiyoowe
 210.8.G:
 210.8.E:
-
-204 (Women in Quest)
-204 
-
-205 (Old Man and Boy's Power--Long Story)
-taʔkiyeči lenaweewiwaači hokšinoonahi niišwi škilaweʔθiiθhi hina hileni yaayopi paalohi hašenooli wiiwali payeekwa yaška honoosaalaki keʔšinoonaači hiini yeeši kakeʔkimaači hileni yeeǔi lenaweeniči hotayaaneskawahi yeʔmayowaapaki paalohi θapa homʔkaanaawo hileniwiiwe niPki mayaanʔškiilaweeki kiiSapθooli hopowaalawalli yaayopi neenawʔtooki yaayopi noPki homaamoošhaawahi neenanʔtohi yeenatopalwiiliči paalohi peeleko taʔpohalawiwaači hiini yeetiwaači ceʔteepi keʔnatopalwiipe nikehaape tahapiči hina kataapa kiteepiileθipe hitiiki hoo heene weʔši lawiiyakwe wehi keʔnanahiipe niyeekonakike taʔlawitepeʔkiki hiine keʔweepθeepe hiwaki yoayopi howe nile hoʔθwaali homoo[š]he kowalli mata wekhi howi tamawaa waali hiine peloočihi waʔtaʔweepθeewaači kotakikaane naanepeeli nili keʔšinoonekowaači payeekwa howe taʔwiišaweep θeewaači piyecipiičθeeli hoo kiisa paamʔθeePwa niniičaaneti hotekowaali howe [h]ina <2> hoʔθeeθema huni yeelaači talaakwo nušahaape hotelaali hoolakeenahi hotekowaali mato kiwaneelemelepwa hotekowaali keʔwiiteemelepwo niniicaaneti hotekowaali howe hopečkweelemaawaali ksake pašitooθali neʔpahotainʔhekona šiteheeki //
-
-hoo-mato kitaʔhotamʔhelepwo hotekowaali nitkoʔkwo nehaamoweloo [d̆]iine niteemʔkwo laakwataši nθeekwe howeši mekinʔhwe neʔpaʔkwalsweetoapowe hiini pahočinʔhaayo hotekowaali yaayopi noʔki koolswenehi waasalʔθeeyeekwe hiini naʔθaapi walʔθeey[a] hotekowaali howe weepθeeki paalohi nahiika piyeeke tahapiči hina kataapa nooči niišikiiškwaamatwi wehi woapake kehalawipwo hotekowaali nili hoʔθwaali yo[v]ni howe taʔkwakweetoapoweeya hotekowaali weki kilawa hiini wehaayeekive tahotee wenʔkeeci hina kataapa kookweenehi nitesilawiipe keʔsiteheepwo hiini weʔsilawiiyeekwe hotelahi ho[n]iicanʔhi yoayopi howeθopa weepθeeki niʔki wii[X]kileniiki nooči tapuiiš okonakiki tepilo čiine teepaapanwi <3> piyeepaksinooki tahakooleʔθowaači hooθwaali peemi leʔθeeloliči haapata howawiyaakatha haleʔθeeloowe čitooθo yaayopi peeleko yepwaawiyaakathaki ceʔyooma hoteʔneewaali kataapali teepi laakwa hawaʔθaʔkwe hočiwaapamekowaali hiye hotelaki honii čaanʔhi kimatakekoope hotelahi hoolanaʔkeehe kiwaapa mekona hileni hotelahi pelaʔkeeka neeletahi šiʔkee yeekwe nikeʔlaapipqa payeekwa paaši teki keʔneewaawa waʔši lawiiyee kwe tepeʔkike noʔki keʔmawaa pamekona kotako nooči yaataʔn[e]paaki lookwa wenoʔki keʔmawaapamekoope hotelahi howe pa[ki]moke keʔMaanʔθeepwa yaška yetθwileniwiyakwe hiiniitθwi keʔpoonaanaawa wiʔθako hotelahi yaayopi taʔniinepaayakwe laakwa noʔki keʔmawaa pamekona nooči lawi tepeʔkike noʔki weʔpiyeeqa howe kekkinaakona yeessineyakwe hotekowaali hiine nooči taʔmayiwaapaki howe keʔmavinale koope <4> payeetkwo yooloma hoteʔko nikeʔšiisi poonaape taʔniineaayakwe kehakwtoope hiine yoonilaakwahi pematenwi wehi yeeina weʔseʔteki kehočiwaapamaape niicaphi mawinatoote takkeʔšiwaači mayaawi cehi holeeweethaanaawo nili hoteʔko niʔki kataapaki yaayopi wehi hoši motaako hinoki kaačiiko mayaawi kikišθiweepe hotekowaali hoʔθwaali yaalaačimopi hine θapa memekwiiki meloʔkameeθi kw[e]n[e] yaayopi halikaalaakwa čeʔyooma neeyeʔka taʔpemipawaθkamoowaači meʔšiki pokki paalohi naanemi yeelekhi taʔšoʔpaakkweeki yooni weetaʔpemipt[-]oowaači peloocihi hotelahi yoayopi nitaši hopakilaali nili hotkoʔooli citooθa wehi wisikatowiko hotelahi yaayopi paalohi noʔki nahiika piyeptooki waʔta pemiptooliči yooni we hočikiiweecvaači hiwa yaayopi hina pašitooθa nitaši hokwakwatena hokoteepiθoowe hopakita wehi <5> kwakwesimotaako hotekowaali yoayopi paalohi lawikiišeki pelaʔči hotelahi honiičaanʔhi citooθa neʔwaapamaaki θiipoweʔθeki sipaalačipto čitooθa hiini taʔwaapamaači nepiki niniili hopawaalaali waapi leeleekkweeli hina čitooθa yaayopi talaakwa wiyehi wapšikwaapataki yaayopi ho kiiweeki hotelahi honiičaanʔhi wehi maataši nehiyalwaakaʔši keʔnaalaawa hina hinitkoʔkwa noʔkiini nikoteepiθoowe himi yeʔneemowaači howe kiiweeki kataapaki yaayopi hiini yeeši naatamawaači keʔšinoonaači ciito θa yaayopi naʔθaapi θapaayo teepiileθi yoalaacimopi himi lekhi pešho yškwelli honʔθaawaali yoayopi wiʔkoči kišθiweeki yaayopi θawašekθwi hoškiimʔhi yaayopi hina neʔθeeta hiini yaalačimoki wehi yooma nekotweekena yeešilenaweewiči lenawe paapeelekoloakwa yeelenaweewiči hapeloʔθa weelena hopiyeto honeʔkiki hawikaaθo hiina hočaaki piyeto teepweewe mato θapa lnakwa niiloʔči yahiwa wiyehi yehiyoči <6> paapiyečihiini yayeki yeeyoči hiina yeʔtakwaakiki hiine paapθooθo taʔmaačilooθiči paalohi nahiika tatθwiKkatoowiči niǐ[v?]aapitaki kitenyaalanwi yetθwiKka toowiči hiine hoowe katem hiina niikaani hataaši waakota wiyehi hiini ye[e]ši mθeelemekoθiči čaaki wiyehi homaamoošto waašayeki weela kweʔkwi  weewešaaki yaaši mooleθi weela wiyehi peepwa howešaaki hiini yaašimookeθiči kiišeki weela tepeʔki yooni yaaši mooleθiči weelena howaaniitamamahi halika yeeši naakoθiliči hiini wayaači waakotamowaači hiini yeeši mʔθeelemekoθiči hiina hiini yeeši lenaweewita hini yoalaačimooθowaači taʔpiyeči hapiwaači niʔki payapiyetoočki teepweewe hiini lekhi yeeši mθeelemeči yaayopi hoowenoʔki hiini yooši naʔθaapi hškweʔθeeθaki naananawʔpi yooni yaašilenaweewiči hškweʔθe[e]θo paapiyeči hilekθe hini kinooloowe hiini wayawoči papθoči yeʔtakwaakiki kšake naʔθaapi homaamoošto wiyehi nikaani yaašimooleθi 
-
 
 207 (Mole)
 207 howenoʔki nanaʔpi yeʔlenaweewiči hapeloʔθa yooni ya[ǎ]šipiyeči wiiteemekoči nili homiinenali laakwa yehiki yaayapiili hina noʔki keʔtapooči hine weški taʔpiya[ǎ]či nanaʔpi taʔnoočheteki taleθi taʔpeʔšelooθoči hiini we[c]či piyeelaači nili homiinemali noʔki hotaayaatota laakwa taši taʔpeʔšelooθoči hoowe hinoki kiilawa kipiyečihalwelemelapw yaawaki niʔki weemiinemički paapiyečihaʔteewi yaaši lenaweewiwaači kšake keʔta poočiiki neeyeʔka homeʔčiwaakota yooma taʔpanʔhalweeletaki yaalaačimooki
