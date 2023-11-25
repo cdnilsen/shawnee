@@ -1,80 +1,135 @@
-alawi
-    VAI 'he hunts'
-
-    PA *arawiwa
-
-anikwa
-    NA 'squirrel'
-
-    PA *anyikwa
-
-
-**aʔšame·wa
-    VTA 'he feeds him'
-
-    3sg>4pl /hotšamahi/: 26.6
-
-**a·miwele·wa
-    VTA 'he carries him off, conveys him'
-
-    1sg>3 /nita·miwela/: 26.2
-
 čiʔθena
-    PT 'finally'
+    PT
+    'sometimes'
 
-    /čiʔθena/: 23.14
+apaše
+    NI (?)
+    'sticks'
+
+apeloʔθa
+    NA
+    'baby'
+
+ašiški
+    NA
+    'earth'
+
+aʔteewa
+    AI [?]
+    'he is'
+
+iwa
+    AI
+    'he says (so)'
+
+    {3pl} hiwaki
+
+n-iiwa
+    DNA
+    'my wife'
+
+    {3sg} wiiwali
 
 
-koško
-    NA 'pig, hog'
+otelaali
+    TA
+    'he says so (to him)'
+    {3 > 3'pl} hotelahi
+    {3'>3pl} hotekowaali
 
-    prox. /koško/: 26.2
+    {2sg > 1sg} kiteši
 
-**-? 'my father'
+keenahi
+    PT
+    'indeed'
 
-    3sg /hoʔθali/: 218.6
+kšake
+    PT
+    'because'
 
-n-i·wa
-    DNA 'my wife'
+ktapiθoowe
+    N(I?)
+    'belt'
 
-    PA *ni·wa
+kwiilahi
+    PT
+    'sure enough'
 
-nekoti
-    NUM 'one'
+miilooθo
+    AI + O
+    'it is given to him, he is given it'
 
-    /nekoti/: 26.2
+ni-kya
+    DNA
+    'my mother'
 
-noʔki
-    PT 'again'
+ni-meʔšoomʔθa
+    DNA
+    'my grandfather'
 
-    /noʔki/: 26.5
+nakalooθo
+    AI
+    'he is left, abandoned'
 
-**nʔθe·wa
-    VTA 'he kills him'
+nanaʔpi
+    PT
+    'sometimes'
 
-    1sg>3 /ninʔθa/: 26.2
+neeloʔθi
+    PT
+    'unnecessarily'
 
-šeʔkamika
-    PT 'long ago'
+**olakeʔkwikaan[i]
+    NI 'bark house'
 
-    /šeʔkamika/: 26.1, 27.1
+    loc. /holakeʔkwikaaneki/
 
-škinwi
-    PT 'now'
+oneewaali
+    VTA
+    'he sees him'
+
+**opaʔkoškoʔkee[li]
+    TA
+    'he hunts hogs'
+
+    {1sg>3} nipaʔkoškoʔke
+
+n-oʔθa
+    DNA
+    'my father'
+
+paalohi
+    PT
+    'finally'
+
+paapakilooθo
+    AI
+    'he is thrown away'
+
+paaši
+    PT
+    'seemingly'
+
+peeleko
+    PT
+    'once, in the past, long ago'
+
+*piileškipelee-
+    NA
+    'wild turkey'
+
+    {obv.} piileškipeleeli
+
+pθeʔkawa
+    N(I?)
+    'ball'
+
+šaašiikeelemooθo
+    AI
+    'he is disliked'
 
 tθani
-    NI 'bed'
-
-    sg. /tθani/: 23.4
-
-    loc. /tθaneki/: 217.1 (x2)
-
-    2sg+ /kitθani/: 23.3 
-    3sg+ /hotθani/: 23.4 
-
-
-
-θa·kiči
-    PT 'outside'
-
-    PA *sa·kiči
+    NI
+    'bed'
+    {2sg poss.} kitθani
+    {3sg poss.} hotθani

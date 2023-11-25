@@ -66,7 +66,7 @@
 23.16.G "this," | she says | her pet | her little dog
 23.16.E "This," she says (pointing) to her pet, her little dog.
 
-23.17.S wo· hiwaki niʔki kilenaweeki neʔkičithwaape hiwaki nili wiʔšiiθali 
+23.17.S wo· hiwaki nhoiʔki kilenaweeki neʔkičithwaape hiwaki nili wiʔšiiθali 
 23.17.G oh | they say | those | old folks | we must kill him | they say | that | her dog
 23.17.E "Oh," those old folks say, "we must kill that dog," they say.
 
@@ -135,7 +135,7 @@ FOOTBALL
 25.4.E I don't know how that ball is treated (after the ball game season).
 
 25.5.S holaʔθwa yaayawoote yehoštooteeki pθeʔkawa pšekθi=wiwiʔθaya niyaašipoonoote 
-25.5.G deer hide | it is used | when they make it | ball | deer hair | it is put in the inside
+25.5.G | deer hide | it is used | when they make it | ball | deer hair | it is put in the inside
 25.5.E Deer hide is used when they make a ball. Deer hair is put inside.
 
 25.6.S howe hina pθeʔkawa paapetekoče mataniwaakota koʔkwe=neeθa hošhaali
@@ -676,74 +676,76 @@ yeʔmemekineeletama matayaʔ=tawenoote yooma wiikiwa waapake. matalaakwa wahotat
 195.17.E:
 
 196. How the bark-house is used
-196.1.S:
-196.1.G:
-196.1.E:
+196.1.S: hiine yeʔpiyetoowaači hiine holakeʔkwikaaneki hiini taʔpoonamowaači
+196.1.G: | then | when they bring it (bundle) | then | in the bark house | that's | where they put it (bundle)
+196.1.E: Then when they brought it [the bundle], then that's where they put it: in the bark house.
 
-196.2.S:
-196.2.G:
-196.2.E:
+196.2.S: mata wiilaani yaʔleelemooθo hškweewa waaši=nitaši=maalaakwahi=paamʔθeeči
+196.2.G: | (not) | let him go around, allowed | she is thought | woman | so that she may close by there go about
+196.2.E: A woman is regarded [as dangerous]: so she is not allowed to go about close by there.
 
-196.3.S:
-196.3.G:
-196.3.E:
+196.3.S: keekčitawaʔtoota hiina pehi niyaayeewa yeʔkolaʔwaapaki
+196.3.G: | the one who guards it | that | alone | he always goes there | when it is early morning
+196.3.E: The one who guards it, that one alone goes there when it is early morning.
 
-196.4.S:
-196.4.G:
-196.4.E:
+196.4.S: hiini yeešilenaweewi=waači niʔki peepiyeči=pemowetoočki
+196.4.G: | that's | the way they live | those | the ones who come to carry it along
+196.4.E: That's the way those live who come to carry it [the bundle] along.
 
 197. How the Claw got in the Bundle.
-197.1.S:
+197.1.S: peeleko laakwa taʔpiyeči=lenaweewiwaači paaši kileki paʔta=wilawiiki kileki noʔki mata θapa wiyehi taʔwiiša=waakoteleči
 197.1.G:
-197.1.E:
+197.1.E: At one time as they [the Shawnee] lived there, they were apparently almost destructive; and also presumably they did not [possess] anything at the time to get knowledge.
 
-197.2.S:
+197.2.S: hiini waači paalohi pelʔhamowaači hiini taʔwaakotamowaači
 197.2.G:
-197.2.E:
+197.2.E: That's why they finally unwrapped it [the bundle]; that's where [in the bundle] they found out about him [the sacred panther].
 
-197.3.S:
+197.3.S: hiine peeleko yeešiwaapaki hiini yeeši=neewaači manetoowi mʔšipešiili
 197.3.G:
-197.3.E:
+197.3.E: Then once when it was morning, that's when he saw the sacred panther.
 
-197.4.S:
+197.4.S: hina neeneewaata hine howitamaakooli waaši niʔki niišwaapitaki=kitenyeewi hileniiki waʔši=haamowetoowaači takkeʔšiwaači
 197.4.G:
-197.4.E:
+197.4.E: That one who saw him was then told by him [the panther] that those twenty-four men might carry it [the bundle] to the place where they camped.
 
-197.5.S:
+197.5.S: hiine hopelʔhaanaawa
 197.5.G:
-197.5.E:
+197.5.E: Then they unwrapped it.
 
-197.6.S:
+197.6.S: hiini laakwaši metaʔθoko=kiteniišwi howe weʔpiyeewa hina waʔša=wiitamaakowaači hini yeešaalooleči
 197.6.G:
-197.6.E:
+197.6.E: At that time twelve days from now that one will come so that they may be told by him the way in which he may be employed.
 
-197.7.S:
+197.7.S: niičaphi hiini laakwaši mata wiʔθeniiki noʔki matayaamenooki
 197.7.G:
-197.7.E:
+197.7.E: Of course during that time they do not eat, and also they do not drink.
 
-197.8.S:
+197.8.S: hine howe piyeewa hokikaloolekowaali
 197.8.G:
-197.8.E:
+197.8.E: Now then he comes [and] they are spoken to by him.
 
-197.9.S:
+197.9.S: hiini yeekowaači naʔθaapi niila hiini yeelooθoya waʔši=kiteminaakweelemelako nimiilekoopi wiišikatowiiwe talaakwa taʔwaneeletama noʔki yooma nipaamʔθeewe nitapeeleta špemeki nipaapaamʔθe payeekwa halayooma wehoči=pwa=waniʔkaašiyani
 197.9.G:
-197.9.E:
+197.9.E: That's when they are told by him, "That's what I, too, am told, that I should take pity on you fellows; I am given an ability which I never forget [an ability to fly]; also, I control this travelling of mine; I go about above [generally] but am here now so that you will not hereafter forget me."
 
-197.10.S:
+
+197.10.S: hiine hoteʔpeʔšena taʔteeki hine homanetoowiiwenwa čeeyoma nitaši hapiili hoškašeeli
 197.10.G:
-197.10.E:
+197.10.E: Then he touched the place where this sacred thing of theirs is: his claw stayed right there.
 
-197.11.S:
+
+197.11.S: howe keela kookwalaakwaši keʔnaanaatamoole hotelahi hiini weeči=nitaši=hapiliči nili hoškašeeli hinoki naanʔθate howeši=mekinʔhwe hiina yaama škaša kehawa keʔkiikalʔškiliikweʔkola hiini wehaaši=howešilepwaaya
 197.11.G:
-197.11.E:
+197.11.E: "Now indeed for unknown time I will always help you," he told them, "that's why that claw stays here; now whenever you kill fine game, you must use this claw: you must scratch him [game animal killed] under his eyes so that I will feel glad [and so that the marks will keep buzzards from plucking out the eyes and poisoning the game]."
 
-197.12.S:
+197.12.S: hiine noʔki peteki šimaataʔšinooki
 197.12.G:
-197.12.E:
+197.12.E: And then they again lie there.
 
-197.13.S:
+197.13.S: yaayopi hini lekhi
 197.13.G:
-197.13.E:
+197.13.E: They always say as much as that [but do not always put in practise what they say].
 
 198. [no typewritten version!]
 198.1.S:
@@ -1959,16 +1961,53 @@ hoo-mato kitaʔhotamʔhelepwo hotekowaali nitkoʔkwo nehaamoweloo [d̆]iine nite
 wenoʔki wiyehi haʔteewi waapwa šilawiiči hina hokiyelli waapwa miičiči naananaʔpi yooni yaašimiičiči hini wiyehi yeʔmiičiči paapekwa hometeneko hina hapeloʔθa yeʔlenaweewiči hiini waaci caaki sinakoθiwaači hapeloʔθahi yeepwaa hotakeeketamowaači yeeleelemeči hiini kiišenaaci yeeši lenaweewici yaama lenawe yaʔpečkoθiči meci kuteletiiwena waʔneekataki yehoweši neekataki mata caaki yaasi naakoθihi honiičaanʔhi hiini wayaači kcitaweeletamowaači yeesilenaweewiwaači šapkahi hiini yeeki yaayopi
 
 212 (Webbed Feet at Birth)
-nanaʔpi hapeloʔθa yeʔlenaweewiči takoθite paasi halʔka yeeleθiteeči hiinayina hokeeli wiyehi hotesi waapalaačimaali yeeleθiteeliči nili mekinʔhweeli hiini wayaači mišinaakoθiwaači niʔki hapeθoʔθaki yeeʔlenaweewiwaači hiini weeči kwteleči ykweewo weela hileni waʔšipwa wiyehi waapalaačimaači wiyeeθali yeešinaakoθilici yaawaki niʔki weewaakotakki yeešθeaweci hotelenaweewiiwenwa kwiilahi manetoowi kšaki ykweewa hiini yeepoonači holaamataaθali hiini waači hoči neekatamowaači yeešθeki hiine kwteletiiwe yaayopi
+212.1.S nanaʔpi hapeloʔθa yeʔlenaweewiči takoθite paaši halʔka yeeleθiteeči
+212.1.E | sometimes | baby | when he is born | he has webbed feet | it seems | like goose | he is by nature
+
+212.2.S hiinayina hokeeli wiyehi hoteši=waapalaačimaali yeeleθiteeliči nili mekinʔhweeli
+212.2.E | that's that | moth[er] of his | something | she there made fun of him | the way he (obv.) is by nature | that | animal
+
+212.3.S hiini wayaači mišinaakoθiwaači niʔki hapeθoʔθaki yeeʔlenaweewiwaači  
+212.3.E | that's | why | they appear so | those | babies | when they were born
+
+212.4.S hiini w[ee]či kwteleči ykweewa weela hileni waʔšipwa wiyehi waapalaačimaači wiyeeθali yeešinaakoθilici yaawaki niʔki weewaakotakki yeešθetaweci hotelenaweewiiwenwa 
+212.4.E | that's | why | she got advised | the woman | or | man | so that not | something | she would make fun of him | somebody | how he appears | they always say | those | ones who know | the way he got fixed (MP) | for their life
+
+212.5.S kwiilahi manetoowi kšake ykweewa hiini yeepoonači holaamataaθali hiini waači hoči=neekatamowaači yeešθeki hiine kwteletiiwe yaayopi
+212.5.E | [?] | he becomes powerful | because | woman | that's  | when she has him | her unborn child | that's | way | they follow it | what is fixed | [the] | the rule | so they say
 
 213 (Six Fingers at Birth)
-hoowe noʔki kwaakwtelooθooki mayaani lenaweeki weški taʔwiiša neewaawaači hapeloʔθali mata niišene hotahakita weyehi niišene θaʔlaapakitaki hiini wayaači naananaʔpi yeʔlenaweeniči hapeloʔθa nanaʔpi nekotwaʔθwi piyeči holečiwi weela nekotwaʔθwi hoθitehi yaayopi hiini waači nileθiwaači hapeloʔθaki
+213.1.S hoowe noʔki kwaakwtelooθooki mayaani lenaweeki weški taʔwiiša neewaawaači hapeloʔθali mata niišene hotahakita weyehi niišene θaʔlaapakitaki
+213.1.E | now | also | they are always advised | young | people | at first | place where | they will see him | the baby | not | twice | he-neg.-counts it | something | twice | which he counts over again
+
+213.2.S hiini wayaači naananaʔpi yeʔlenaweeniči hapeloʔθa nanaʔpi nekotwaʔθwi piyeči holečiwi weela nekotwaʔθwi hoθitehi yaayopi 
+213.2.E | that's | why | sometimes | when he is born | the baby | sometimes | 6 | comes to | have fingers | or | 6 | his toes | so they say
+
+213.3.S hiini waači nileθiwaači hapeloʔθaki
+213.3.E | that's | why | the[y] are so naturally | babies
 
 214 (Minus Hands at Birth)
-214.1.S wenoʔki yeʔpečkoθiwaači mata hotaʔkiskikaʔkolaali wiyeeθiiθali neenʔθekwiliči yeʔkiškikaʔkolaači hometenaali nili hapeloʔθali nanaʔpi kiškinʔke hapeloʔθa weela kiškikaate hiini paaši mišinaakoθiwaači hapeloʔθaki yeepwa neekatameliči hoʔθali weela hokeeli yaayopi
+214.1.S wenoʔki yeʔpečkoθiwaači mata hotaʔkiškikaʔkolaali wiyeeθiiθali neenʔθekwiliči 
+214.1.E | now also | when they are pregnant | not | she-neg-cuts leg off him | somebody (animal) | when he (obv.) is killed 
+
+214.2.S yeʔkiškikaʔkolaači hometenaali nili hapeloʔθali 
+214.2.E | when she cuts his leg off | she affects him | that | baby
+
+214.3.S nanaʔpi kiškinʔke hapeloʔθa weela kiškikaate 
+214.3.S | sometimes | he is without an arm | the baby | or | he is without a leg
+
+214.4.S hiini paaši mišinaakoθiwaači hapeloʔθaki yeepwa neekatameliči hoʔθali weela hokeeli yaayopi
+214.4.E | that's | it seems | the way they appear | the babies | when he doesn't follow it | his father | or | his mother | so they say
 
 215 (Birth Feet First [goes over notebooks])
-215.1.S wenoʔki ykweewa hiini yeešilenaweeniči kwteletiiwe waʔši θiiθaKkweʔšiki nanaʔpi kala paaši wiišaloʔθe payeekwa noota kiiwe hiini wayaa[š]i koosenaačȟekoči hapeloʔθali yeewiiša neewaači, nanaʔpi hoθiteki wiiša hočilenaweewi hiini yeʔkwaakotekwiiči ykweewa waači hiini leθiči yaayopi weela hoʔθali hiini yeešilawiiliči hiini waači kiišenaačhetiwaači waachameeθaki yaayopi
+215.1.S wenoʔki ykweewa hiini yeešilenaweeniči kwteletiiwe waʔši θiiθakkweʔšiki nanaʔpi kala paaši wiišaloʔθe payeekwa noota kiiwe 
+215.1.E | now also | woman | that's | where (a baby) he is born | rule | so that | he puts his head out the door | [??] | it seems | she will go out | but | from there | she returns 
+
+215.2.S hiini wayaaši koošenaačhekoči hapeloʔθali yeewiiša=neewaači, nanaʔpi hoθiteki wiiša=hočilenaweewi 
+215.2.E | that's | why | he is made to have hardships by it | the child | when she will see him | sometime | at his foot | he will be born from there
+
+215.4.S hiini yeʔkwaakotekwiiči ykweewa waači[=]hiini[=?]leθiči yaayopi weela hoʔθali hiini yeešilawiiliči hiini waači kiišenaačhetiwaači waačhameeθaki yaayopi
+215.4.E | that's | when she always turns back | the woman | that's the way | he is by nature | so they say | or | his father | (when) | he does that | that's | that's the way | they make hardships for each other | the married persons | so they say
 
 216 (Foetus goes up Instead of Down for Birth)
 216.1.S noʔki nekotweelena naaneekatamowaači waačhameeθaki hileni weela hina ykweewa yeewiiša nepaawaači mata yelʔkwaʔšinowaači hotaʔpoonaanaawa hopiitenikanwa 
@@ -1987,26 +2026,32 @@ hoowe noʔki kwaakwtelooθooki mayaani lenaweeki weški taʔwiiša neewaawaači 
 217.1.S howenoʔki kwteletiiwe waʔšipwaapiipemičšiki tθaneki ykweewa weela hileni teki keʔpiipemičšinepwa tθaneki yaalooθooki 
 217.1.G now again | a rule | so that neg-he lays [across?] | on the bed | the woman | or | man | "you pl. mustn't lay cross ways on the bed" | they are always told
 
-217.2.S woawiʔkaata yeeʔwiiša(=)neewaači hapeloʔθali ykweewa hiini θapa waačipemiššiki hapeloʔθa yaayopi 
-217.2.G sometime in the future | when she will see him | the baby | the woman | that's | presumably | why he lays across | the baby | so they says
+217.2.S waawiʔkaata yeeʔwiiša(=)neewaači hapeloʔθali ykweewa hiini θapa waačipemiššiki hapeloʔθa yaayopi 
+217.2.G | sometime in the future | when she will see him | the baby | the woman | that's | presumably | why he lays across | the baby | so they say
 
 217.3.S hokaakii[=]šen[a]ačhekooli ykweewa yaayopi
 217.3.G she had hardships made for her by him (baby in cross-position) | woman | so they say
 
 218 (Ugly Faces at Birth)
 218.1.S noʔki waačhameeθaki mata yaʔwiiwaapamooki weela waapamote teki wiyehi weʔliilaapeška yaayopi 
-218.1.G [and?] | married person | not | they always look in mirror | or | if he looks in mirror | don't | anything | he will make all kinds of faces | so they say
+218.1.G [and?/those?] | married person | not | they always look in mirror | or | if he looks in mirror | don't | anything | he will make all kinds of faces | so they say
 
 
-218.2.S weeka čooki loapeskaate hiini weʔpiyečišinaakoθiliči mili honiicaanali lenaweewilite yaayopi 
+218.2.S weeka čaaki l[a]apeškaate hiini weʔpiyečišinaakoθiliči mili honiičaanali lenaweewilite yaayopi 
+218.2.E | in contrast | [if?] | he makes all face | that's | the way he (obv.) will come to appear | that [mili? nili?] | his child | whenever he is born | so they say
 
 
-218.3.S hiini waaci kwteleči yeʔpečkoθiwaači waachameeθaki yaayopi 
+218.3.S hiini waači kwteleči yeʔpečkoθiwaači waačhameeθaki yaayopi 
+218.3.E | that's | why | he gets advised | when they are pregnant | married persons | so they say
 
-218.4.S howenoʔki wiyehi sinanaʔpaačinaakoθiye lenawe teki caaki kehila yaalooθooki waachameeθaki 
+218.4.S howenoʔki wiyehi šinanaʔpaačinaakoθiye lenawe teki čaaki kehila yaalooθooki waačhameeθaki 
+218.4.E | now again | something | whenever he appears to be pitiful | person | "don't | [?] | you tell him | all (of the way he appears) | they are always told | married persons
 
 218.5.S čaakiilate wiiyeeθa hiini weʔpiyeči šinaakoθiči kiniičaana waawiʔkaata noošaalate hapeloʔθa
+218.5.E | whenever you[s] tell him all | somebody | that's | the way he will come | to appear | your child | sometime in the future | whenever you take care of him | baby
 
-218.6.S hiini waači nišinaakoθiwaači hapeloʔθaki yeewaapalaateskoweeliči hokeeli weelake hoʔθali 
+218.6.S hiini waači nišinaakoθiwaači hapeloʔθaki yeewaapalaateškoweeliči hokeeli weelake hoʔθali yaayopi
+218.6.E | that's | the way | they appear | babies | when she (obv.) speaks ugly words | his mother | or | his father | so they say
 
-218.7.S yaayopi hiini weeči kwaakoči neekatamowaači yooloma kwteletiiwena yeeši[-]lenaweewiči ykweewa noʔki hileni yaayopi
+218.7.S hiini weeči kwaakoči[=]neekatamowaači yooloma kwteletiiwena yeeši[-]lenaweewiči ykweewa noʔki hileni yaayopi
+218.8.S | that's | why | they always try to follow it | these | rules | the way she lives | woman | also | man | so they say
