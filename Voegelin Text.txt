@@ -1,5 +1,106 @@
 ¶
 
+196 {
+    T [How the bark-house is used]
+
+    1 [
+        S ; hiine ; yeʔpiyetoowaači ; hiine ; holakeʔkwikaaneki ; hiini ; taʔpoonamowaači
+        E ; then ; when they bring it (bundle) ; then ; in the bark house ; that's ; where they put it (bundle)
+    ]
+
+    2 [
+        S ; mata ; wiilaani ; yaʔleelemooθo ; hškweewa ; waaši=nitaši=maalaakwahi=paamʔθeeči
+        E ; [not] ; let him , allowed (to) go around ; she is thought ; woman ; so that she may close by there go about
+    ]
+
+    3 [
+        S ; keekčitawaʔtoota ; hiina ; pehi ; niyaayeewa ; yeʔkolaʔwaapaki
+        E ; the one who guards it ; that ; alone ; he always goes there ; when it is early morning
+    ]
+
+    4 [ 
+        S ; hiini ; yeešilenaweewiwaači ; niʔki ; peepiyečipemowetoočki
+        E ; that's ; the way they live ; those ; the ones who come to carry it along
+    ]
+}
+
+197 {
+    T [How the claw got in bundle]
+
+    1 [
+        S ; peeleko ; laakwa ; taʔpiyečilenaweewiwaači ; paaši ; kileki ; paʔtawilawiiki ; kileki ; noʔki ; mata ; θapa ; wiyehi ; taʔwiiša=waakoteliči
+        E ; once ; at a time ; when they come to live there ; it seems ; almost ; they were doing destruction ; almost ; also ; not ; presumably ; something ; place where he will find out (intr. pdg) 
+    ]
+
+    2 [
+        S ; hiini ; waači ; paalohi ; pelʔhamowaači ; hiini ; taʔwaakotamowaači
+        E ; that's ; so that ; at last ; they unwrap it ; that's ; place where they find out about it
+    ]
+
+    ¶
+
+    3 [
+        S ; hiine ; peeleko ; yeešiwaapaki ; hiini ; yeeši=neewaači ; manetoowi mʔšikpešiili
+        E ; then ; once ; when it was morning ; that's ; when he sees them ; the powerful panther  (who travels above air)
+    ]
+
+    4 [
+        S ; hina ; neeneewaata ; hini ; howitamaakooli ; waaši ; niʔki ; niišwaapitaki ; kitenyeewi ; hileniiki ; waʔši=haamowetoowači ; takkeʔšiwaači
+        E ; that ; one (man) who sees him ; then ; he was told by them ; [?] ; those ; 20 ; and 4  ; men ; so that they may carry it along ; to the place where they camp
+    ]
+
+    5 [
+        S ; hiine ; hopelʔhaanaawa
+        E ; then ; they unwrap it
+    ]
+
+    ¶
+
+    6 [
+        S ; hiini ; laakwaši ; metaʔθoko ; kiteniišwi ; howe ; weʔpiyeewa ; hina ; waʔša=wiitamaakowaači ; hini ; yeešaalooleči
+        E ; that's ; the time ; 10 days ; and 2 ; now ; he will come ; that ; so that they may be told by him ; that's ; the way he [hires] himself (MP)
+    ]
+
+    7 [
+        S ; niičaphi ; hiini ; laakwaši ; mata ; wiʔθeniiki ; noʔki ; mata ; yaamenooki
+        E ; also ; all that ; time ; not ;  they eat ; also ; not ; they drink
+    ]
+
+    8 [
+        S ; hine ; howe ; piyeewa ; hoki[l]aaloolekowaali
+        E ; then ; now ; he comes ; they are spoken to by him
+    ]
+
+    ¶
+
+    9 [
+        S ; hiini ; yeekowaači ; naʔθaapi ; niila ; hiini ; yee[l]ooθoya ; waʔši=kiteminaakweelemelako ; nimiilekoopi ; wiiši[k]atowiiwe ; talaakwa ; taʔwaneeletama ; noʔki ; yooma ; nipaamʔθeewe ; nitapeeleta ; špemeki ; nipaapaamʔθe ; payeekwa ; halayooma ; wehočipwa=waniʔkaašiyani
+        E ; (that) ; when they are told by him ; likewise ; as for me ; that's ; what I am told ; so that I may pity you ; I am given it by them (indef.) ; strength ability; no there ; where I forget it ; also ; this ; my travel ; I control it ; above the (air) ; I go about it ; but ; [?] ; so that you do notforget me
+    ]
+
+    ¶
+
+    10 [
+        S ; hiine ; hoteʔpeʔšena ; taʔteeki ; hine ; homanetoowiiwenwa ; čeeyoma ; nitaši ; hapiili ; hoškašeeli
+        E ; then ; he touched it ; the place it is ; this ; their powerful things ; [??] ; [??] ; (obv.) he stays there ; his claw
+    ]
+    
+    11 [
+        S ; howe keela ; kookwalaakwaši ; keʔnaanaatamoole ; hotelahi ; hiini ; weeči=nitaši=hapiliči ; nili ; hoškašeeli ; hinoki ; naanʔθate ; howešimekinʔkwe ; hiina ; yaama ; (ho)škaša ; kehawa ; keʔkiikalʔškiliikweʔkola ; hiini ; wehaaši=howešilepwaaya
+        E ; [??] ; unknown time ; I will always help you ; he told them ; that's  ; why he stays there ; that ; claw ; now whenever ; you kill him ; fine game ; [?] this ; claw ; you must use him ; you must scratch him ; under the eye ; that ; so that I will feel glad
+    ]
+
+    12 [
+        S ; hiine ; noʔki ; peteki ; šimaataʔšinooki
+        E ; then ; again ; back ; they (the [???] people) ; lie on (rule)
+    ]
+
+    13 [
+        S ; yaayopi ; hini ; lekhi
+        E ; as they (indef.) say ; that's ; as much
+    ]
+}
+
 198 {
     T [Use of Bundle to Kill Monster who lived in Lake Michigan]
 
