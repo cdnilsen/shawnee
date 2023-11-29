@@ -66,16 +66,18 @@ for word in sortedWords:
 
 
 # Produces text lines for the main notebook copy. Turn off if not needed
-produceTextLines = False
-
-textNum = [137]
-numSentences = [5] 
+produceTextLines = True
+outputFile = open("tempLines.txt", "w", encoding="utf-8")
+sentenceNum = 87
 if produceTextLines:
-    for i in range(len(textNum)):
-        outputConcordance.write(str(textNum[i]) + ":\n")
-        for j in range (1, numSentences[i] + 1):
-            outputConcordance.write(str(textNum[i]) + "." + str(j) + ".S:\n")
-            outputConcordance.write(str(textNum[i]) + "." + str(j) + ".G:\n")
-            outputConcordance.write(str(textNum[i]) + "." + str(j) + ".E:\n\n")
+    outputFile.write("{\n")
+    for i in range(1, sentenceNum + 1):
+        outputFile.write("\t" + str(i) + " [\n")
+        outputFile.write("\t\t" + "S ; \n")
+        outputFile.write("\t\t" + "E ; \n")
+        outputFile.write("\t" + "]\n\n")
+    outputFile.write("}")
+        
+        
 
 

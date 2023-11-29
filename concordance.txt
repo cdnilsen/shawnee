@@ -1,3 +1,13 @@
+čaakiil- 
+    VTA
+    'he tells him everything'
+
+    {2sg>3sg subj.} čakiilaate: 218.5
+
+ni-čeenina
+    DNA
+    'my sibling'
+
 čiʔθena
     PT
     'sometimes'
@@ -18,6 +28,10 @@ aʔteewa
     AI [?]
     'he is'
 
+inoki
+    PT
+    'now'
+
 iwa
     AI
     'he says (so)'
@@ -30,14 +44,6 @@ n-iiwa
 
     {3sg} wiiwali
 
-
-otelaali
-    TA
-    'he says so (to him)'
-    {3 > 3'pl} hotelahi
-    {3'>3pl} hotekowaali
-
-    {2sg > 1sg} kiteši
 
 keenahi
     PT
@@ -61,9 +67,13 @@ miilooθo
 
 ni-kya
     DNA
-    'my mother
+    'my mother'
     
     {3sg+} hokeeli
+
+maataši
+    PT
+    'here'
 
 ni-meʔšoomʔθa
     DNA
@@ -81,6 +91,14 @@ neeloʔθi
     PT
     'unnecessarily'
 
+niilaaθiwe
+    VAI
+    'he climbs up'
+
+noošaal-
+    TA
+    'he takes care of him'
+
 **olakeʔkwikaan[i]
     NI 'bark house'
 
@@ -96,9 +114,25 @@ oneewaali
 
     {1sg>3} nipaʔkoškoʔke
 
+otelaali
+    TA
+    'he says so (to him)'
+    {3 > 3'pl} hotelahi
+    {3'>3pl} hotekowaali
+
+    {2sg > 1sg} kiteši
+
 n-oʔθa
     DNA
     'my father'
+
+paweewa
+    VAI
+    'he is rich'
+
+payeekwa
+    CONJ
+    'but'
 
 paalohi
     PT
@@ -112,6 +146,10 @@ paaši
     PT
     'seemingly'
 
+pekwi
+    NI
+    'ashes
+
 peeleko
     PT
     'once, in the past, long ago'
@@ -122,6 +160,10 @@ peeleko
 
     {obv.} piileškipeleeli
 
+pyeto-
+    TI-2
+    'he carries it'
+
 pθeʔkawa
     N(I?)
     'ball'
@@ -130,12 +172,36 @@ pθeʔkawa
     AI
     'he is disliked'
 
+teepweewe
+    NI
+    'truth'
+
 tθani
     NI
     'bed'
     {2sg poss.} kitθani
     {3sg poss.} hotθani
 
+θapa
+    PT
+    'presumably'
+
+θapaayo
+    PT
+    'presumably'
+
+waapam-
+    VTA
+    'he looks at him' 
+
 weela
     PT
     'or'
+
+weepθe
+    VAI
+    'he goes away'
+
+wiiyeeθa
+    NA/PN
+    'somebody'

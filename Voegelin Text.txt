@@ -1,38 +1,981 @@
+¶
 
+198 {
+    T [Use of Bundle to Kill Monster who lived in Lake Michigan]
+
+	1 [
+		S ; peeleko ; laakwa ; taʔpiyečilenaweewiwaači ; hiini ; yeeši=paamʔθeewaači ; niʔki ; nʔθwaašikθwi ; hileniiki ; kookwe ; taʔpiyaawaači ; yooni ; yeeši=neewaawaači ; nili ; kkaʔkileeli
+		E ; one ; at a time ; place where they come to live ; that's  ; as they travel ; (those?) ; 8 ; men ; unknown ; where they come ; her ; when they see him ; that ; turtle
+	]
+
+    ¶
+
+	2 [
+		S ; hiine ; hiini ; yeeyoči ; hina ; neeniikaaniita ; teepi ; keʔpečiwelekona ; yaama ; kimeʔšoomʔθena ; mayaawi ; tepilahi ; heewa ; yehaayakwe
+		E ; then ; that's ; as he says ; that ; one who leads ; enough ; we will be packed on back by him ; this ; our grandfather ; in direction ; straight ahead ; he goes ; when we (inc.) go
+	]
+
+	3 [
+		S ; hiine ; niʔki ; niišwaʔθwi ; nilaaθiweeki
+		E ; then ; those ; 8 ; they climbed up
+	]
+
+	4 [
+		S ; howe ; hina ; lečootaanaake ; weemeka ; wiyehi ; šitehe ; mata ; wiiša=nilaaθiwe
+		E ; now ; that ; as (the) very lsat one ; the one who comes from ; something ; the thinks (and) ; not ; he will climb up
+	]
+
+	5 [
+		S ; niičaphi ; naanimi ; nahiika ; weečinepiwiki ; hiini ; mškeekwi ; howe ; wiišakwašθeeki ; čeʔyooma ; neeyeʔka ; homešenekowaali
+		E ; also ; near ; uptthere ; at edge of water ; that ; lake ; then ; they started to dismount ; but already ; almost ; they are caught by him
+	]
+
+	6 [
+		S ; hiine ; neeniikaniita ; niyeeyoči ; nipaʔtaʔkaaθope ; hotelaali ; nili ; hileniili
+		E ; then ; the one who leads ; that's what he says ; we have entered into destruction ; he told him ; that ; man
+	]
+
+	7 [
+		S ; hiine ; naanawatekamooki
+		E ; the[n] ; while travelling they sing
+	]
+
+	8 [
+		S ; wiišaala ; yooni ; [w]ehoči=kiiweeyani ; nahiika ; piyaayaneki ; kitooteewenenaali ; hiini ; weelaačimoyani ; keʔwiitamawaaki ; niʔki ; peemowetoočki ; hini ; pkwapičika
+		E ; the(n) ; from here ; you will return ; (and) upe there ; when you come ; at our village ; that's ; you will speak ; you will tell them ; those ; the ones who carry it along ; that ; wrapped instrument
+	]
+
+	9 [
+		S ; hiine ; hiini ; yeešilawiiči 
+		E ; then ; that's ; what he did
+	]
+
+	10 [
+		S ; hiine ; mawaškaaki ; niʔki ; metaʔθwi ; kite=niišwi ; hileniiki
+		E ; then ; they assembled in (comail?) ; those ; 60 ; and=2 ; men 
+	]
+
+	11 [
+		S ; hiine ; taʔčaakinepaawaači ; lenaweeki ; niyeeko ; taʔpiyeeyaaki ; hiine ; howe ; howeepθeeθi
+		E ; the(n) ; when all there are sleeping ; the people ; 4th day/four days? ; when it comes ; then ; now ; they went away
+	]
+
+	12 [
+		S ; hotaamowelaawaali ; mayaaniyʔkweeli
+		E ; they took her along ; young woman
+	]
+
+	13 [
+		S ; payeekwa ; mata ; home=hotθeko ; yaašitepaane ; liiwaθikeeči
+		E ; but ; not ; yet is she met by it (=menstruation) ; so that separately ; she should make smoke from her fire
+	]
+
+	14 [
+		S ; payeekwa ; hiini ; yeešiwaakomaawaači ; yoʔkoma ; hileniiki ; [kw]ena ; nahiika ; weʔpiyeeki
+		E ; however ; that's ; as they know her ; these ; men ; that time ; up there ; they will come
+	]
+
+	15 [
+		S ; howe ; wehotθeko ; yeešimanetoowiči ; hina ; mayaaniyʔkwe
+		E ;  now ; she wil be met by it ; when she becomes powerful ; that ; young woman
+	]
+
+	16 [
+		S ; hiine ; hoštoonaawa ; škote ; noʔki ; hočeep[k]aapo ; haapathoowe
+		E ; then ; they fix it ; fire ; and ; medicine water ; (and) walking cane
+	]
+
+	17 [
+		S ; hiine ; hopelʔhaanaawa ; hini ; hotpiwaloowenwa
+		E ; then ; they unwrap it ; that ; their bundle
+	]
+
+	18 [
+		S ; hiini yeeyowaači ; yeeši=wiiša=waakomaawaači ; nili ; manetooli ; howenooči ; keʔpahošto ; laawiteʔθečika ; hilooθo ; hina ; počili
+		E ; that's ; what they say ; since they will know about him ; that ; monster ; from now on ; you must go to it ; the firestand ; he is told ; that ; messenger
+	]
+
+	19 [
+		S ; hine ; yeemečtooči ; peteki ; piyeewa ; škoteeki
+		E ; then ; when he had finished it ; back ; he came ; to the fire
+	]
+
+	20 [
+		S ; hiine ; hoteʔkookina ; hini ; haapathoowe
+		E ; then ; there he soaked (in water) ; that; walking cane
+	]
+
+	21 [
+		S ; hiine ; howiikomaali ; nili ; mayaaniyʔkweeli 
+		E ; then ; he summoned her ; that ; young woman
+	]
+
+	22 [
+		S ; nitaši ; yeʔpiyaači ; wehi ; hotelaali ; keʔnaatamawipe
+		E ; there ; when she came ; "well," he tells her ; "you must help us"
+	]
+
+	23 [
+		S ; yooma ; kehaamoweto ; haapathoowe 
+		E ; this ; you must carry it ; walking cane
+	]
+
+	24 [
+		S ; nieʔšikapa ; škwaapiyeki ; keʔpemʔhokwi
+		E ; there you must wade ; (and) on the edge ; you must swim by
+	]
+
+	25 [
+		S ; paalohi ; kaaweθiiyane ; peteki ; nitaši=piyaayane ; howeečiwee[ʔθ]eeyani ; hiine ; heelekhi ; kelʔhokwi
+		E ; at last ; when you circle around ; (and) back ; there when you come ; to drivction where you went away ; then ; in the middle ; you must swim [strangling?]
+	]
+
+	26 [
+		S ; nooči ; weečišaweteki ; kehočiweep=θe ; weečipepookitepilahi ; kelʔhokwi
+		E ; from which direction ; it is spring[time] (=south) ; you must go away (e.g., go north) ; way which is winter direction (=north) ; you must go straight (i.e., growing[?] north)
+	]
+
+	27 [
+		S ; hiini ; lekhi=yeešinatotamoolaake ; waašinaatamawiyaake
+		E ; that's ; as much as we (excl.) ask of you ; or that you help us
+	]
+
+	28 [
+		S ; howe ; hakwaʔšinwa ; peteki ; keha ; tahoštooyani ; holewiškote
+		E ; then ; on the dry bank ; back ; you must go ; where you fixed it ; poison fire
+	]
+
+	29 [
+		S ; wiišaala ; weešipwa ; metaʔθokonakiki ; kiteniišwi ; hiine ; keʔneewaape ; neʔpiyehwaape ; hina ; maneto ; peepiimilotoolakwe
+		E ; then in futue ; before ; ten days it is ; and 2 ; then ; we will see him ; (and) we will make him come ; that ; monster ; one who did bad to us
+	]
+
+	30 [
+		S ; howe ; nekamooki ; niʔki ; metaʔθwi ; kiteniišwi ; hileniiki ; taʔniyeekonakiki ; yeešinekamowaači
+		E ; now ; they sing ; those ; 10 ; and 2; men ; when it is four days ; as they sing
+	]
+
+    ¶
+
+	31 [
+		S ; hoowe ; niinenekwaani ; naanemi
+		E ; now ; it [t]urns in movement ; close by
+	]
+
+	32 [
+		S ; taʔwaapaki ; howe ; mawaapami ; hilooθo ; počili ; nahiika ; yeʔpiyaači ; tahoštooči ; lawiteʔθečika
+		E ; when it is morning ; "now ; you go + see him [?]" ; he is told ; messenger ; up there ; when he comes ; place where he fixed it ; fire sticks
+	]
+
+	33 [
+		S ; čeʔyooma ; hoškiči ; [l]kweʔšinwa ; hina ; manetoowi=kkaʔkile ; neenayekowaači ; niʔki ; niišwaʔθi ; hileniiki
+		E ; there (on cross-pole) ; on top ; he lays his head over ; that ; powerful turtle ; as they were packed on back by him ; those ; 7 ; men
+	]
+
+	34 [
+		S ; peteki ; yeʔpiyaači ; škoteeki ; nehiiwe=šinaakoθi ; hotelaali ; hina ; neeniikaaniita 
+		E ; back ; when he come back ([is angry?]) ; to fire ; "what does he look like?" ; he tells (messenger) ; that ; leader
+	]
+
+	35 [
+		S ; hoo=kkaʔkile ; hotelaali
+		E ; "oh, a turtle" ; he tels him
+	]
+
+	36 [
+		S ; kiteleelemelepe ; kehila
+		E ; we (inc.) think of you ; you must tell him
+	]
+
+	37 [
+		S ; yooma ; haapathoowe ; kehaamoweti
+		E ; this ; walking cane ; you must carry it along
+	]
+
+	38 [
+		S ; hočaaleki ; keʔšimaala[t]kwa
+		E ; on his nose ; you must touch him there with [mist]
+	]
+
+	39 [
+		S ; keʔweepθe ; kehila
+		E ; 'you must go away', you must tell him
+	]
+
+	40 [
+		S ; nooči ; noʔki ; haašowe ; taʔmaayiwaapaki ; howe ; noʔki ; nenekwaani
+		E ; from there ; again ; ne[x]t ; when there it is morning ; now ; also ; it (burns) here
+	]
+
+	41 [
+		S ; howe ; keela ; noʔki ; keʔmawaapama
+		E ; now ; indeed ; again ; you must go to look at him
+	]
+
+	42 [
+		S ; hine ; nheewa ; lawiteʔθečikaneki
+		E ; then ; he went there ; to the fire-poles
+	]
+
+	43 [
+		S ; čeʔyoma ; kotaka ; maneto ; hoškiči ; lškweʔšinwa ; hiina ; manetoowi=nameʔθa
+		E ; there (on cross pole) ; another ; monster ; on top ; he lays his head ; that ; fish monster
+	]
+
+	44 [
+		S ; kehaameškawa ; hilooθo
+		E ; you must drive him away ; he is told
+	]
+
+	45 [
+		S ; hiine ; hiini ; yaška ; hotawe ; haapathoowe
+		E ; then ; that's ; same way ; he used it ; the walking cane
+	]
+
+	46 [
+		S ; mata ; kiila ; škata ; kiteleelemekoopi ; hotelaali ; weepθeelo
+		E ; "not ; you ; [desireable] ; you are thought about by them," ; he told him ; "go away!" 
+	]
+
+	47 [
+		S ; howe ; weepθe
+		E ; now ; he went away
+	]
+
+	48 [
+		S ; nooči=tanʔθokonakiki ; hiine ; noʔki ; hopiyeʔhwaawaali ; nili ; kaakčiipišiweʔθiili
+		E ; from there to when it was 3 days ; there ; again ; they made him come ; that ; the tying-up person
+	]
+
+	49 [
+		S ; noʔki ; nili ; hotaameškawaawaali
+		E ; again ; that ; they drive him off
+	]
+
+	50 [
+		S ; mawin=yeeko ; howe ; piyehooθo ; hina ; manetoowi=mʔθooθwa
+		E ; there on 4th day ; now ; he is made to come ; that ; sacred [bull]
+	]
+
+	51 [
+		S ; nekoti ; hoškiiškekw ; laawiʔkine
+		E ; one ; his eye ; he has in middle of forehead
+	]
+
+	52 [
+		S ; hiini ; taʔteeki ; hoškiišekwi
+		E ; that's ; the way it is ; his eye
+	]
+
+	53 [
+		S ; nekoti ; howiwiilemali ; mškoθiili ; noʔki ; nili ; nekoti ; škipakiθiili
+		E ; one ; his horn ; is red ; and also ; that ; one ; is ; green
+	]
+
+	54 [
+		S ; noʔkiina ; haameškooθo
+		E ; again that ; he is driven away
+	]
+
+	55 [
+		S ; hiine ; noʔki ; taʔpiyehooθoči ; hiine ; mšiʔkineepikwa ; paaši ; pšekθi ; yeešinaakoθiči ; neniili ; meemačilotaakowaači ; niʔki ; niišwaʔθi ; neenawʔtooki
+		E ; then ; again ; where he is made to come ; that ; big Spider-forehead (his name) ; it seems ; like deer ; as he looks ; that's that one ; one by whom they were wronged ; those ; 7 ; warriors
+	]
+
+	56 [
+		S ; wenihi ; niyeewi ; manetooki ; yeeloolaači ; hina ; meemačilawiita
+		E ; then those ; 4 ; monsters ; when he heard them ; that ; one who did evil
+	]
+
+	57 [
+		S ; hiineetaʔpiyaači ; lawiteʔθečikaneki ; nahiika ; yeʔpiyaači ; hina ; počili ; yeʔwiitaki ; yeešinaakoθiliči ; hina ; škato ; yeeleelemakwe ; hiiwaki ; niʔki ; hileniiki ; paapiyeʔhwaački ; manetohi
+		E ; then place where he (monster) comes ; to the fire poles ; (and) up there ; when he came ; that ; messenger ; when he tells it ; the way he appears ; "that ; desireable ; as we think of him" ; they say ; those ; men ; the ones who made them come ; monsters
+	]
+
+	58 [
+		S ; hiine ; hotakwaʔšimaawaali ; hoθakθwaawaali ; metaʔθoko ; kiteniišwi
+		E ; then ; they made him lay on dry bank ; (and) they burned him ; ten day ; and 2
+	]
+
+	59 [
+		S ; hiine ; howe ; čaakateθo
+		E ; then ; now ; he got all burned up
+	]
+
+	60 [
+		S ; hiini ; hawoote ; škote ; metaʔθene ; kiteniišene ; yeešakʷki
+		E ; that ; got used ; fire ; 10 ; and 2 (12 times) ; thing which is severe
+	]
+
+	61 [
+		S ; howe ; čiine ; čaakateθo
+		E ; now ; then ; he got all burned up
+	]
+
+	62 [
+		S ; hiine ; hočeepikkeeki
+		E ; then ; they take medicine, (from [illegible])
+	]
+
+	63 [
+		S ; weški ; meemiilooθoto ; hini ; pekwi ; neenaanʔtaawe ; hiwa
+		E ; the first ; one who is given it ; that ; ashes ; he will always kill game" ; he says
+	]
+
+	64 [
+		S ; niičaphi ; hiini ; yeeleθiči
+		E ; sure [enough] ; that's ; the way he is
+	]
+
+	65 [
+		S ; wenooči ; neenaanatawʔčike
+		E ; then from there (=2nd one) ; he always does doctoring
+	]
+
+	66 [
+		S ; hiine ; neʔpaʔpiipaθekonaaki ; naholweelemakwe
+		E ; at then time ; I'll always go & raise them (in life) ; ones who are related by us (inc.)
+	]
+
+	67 [
+		S ; niičaphi ; naanatawʔčike
+		E ; sure enough ; he always doctored
+	]
+
+	68 [
+		S ; howe ; noʔki ; neʔpawe ; niila ; hiwa ; hina ; nekoti
+		E ; now ; also ; I'll be rich ; as for me" ; he says ; that one
+	]
+
+	69 [
+		S ; niičapki ; paweewa
+		E ; sure enough ; he was rich
+	]
+
+	70 [
+		S ; talaakwa=wiyehi ; yeeyakaawaataki
+		E ; there (is) nothing ; which he has one of
+	]
+
+	71 [
+		S ; howeena ; nekoti ; čaaki=wiyehi ; neʔši=teepiileθi ; mata ; nitaʔwaneeleta ; yeelekkwiʔθehi ; yooma ; taʔlenaweewiyakwe ; hinoki yooči ; hiini ; wehaaši=waakomaki ; wiyehi ; leelemelakwe ; kimeʔšoomʔθena
+		E ; now that ; one ; everything ; I will have sufficient power ; not ; I forget it ; the thing which extends far ; here ; where we (inc.) live ; now from ; that's ; the way I now him ; whenever something ; one thinks about us (inc.) ; our grandfather (=monster)
+	]
+
+	72 [
+		S ; hiini ; yeeleθiči ; hina ; hileni
+		E ; that's ; the way he was in nature ; so that ; man (will be)
+	]
+
+	73 [
+		S ; howenooči ; niilapi ; niikaani ; nehaašiwaakota ; wiyehi ; [k]weʔkwi ; weewešaaki ; weela ; wiyehi ; peepwaawešaaki
+		E ; from now ; I yself ; in future, ahead (in time) ; I will know it ; something ; some ; thing which is good ; or ; something ; which is not good
+	]
+
+	74 [
+		S ; niičaphi ; hiini ; yeeleθiči
+		E ; sure enough ; that's ; the way he was
+	]
+
+	75 [
+		S ; howenoʔkiina ; meemameka ; neʔlepwawileniwi ; čaakiwiyehi ; nehaayaatota ; wahowelaθkaakoyakwe ; laakwaši ; waawiiwaʔθeeyaaki
+		E ; now also that ; one who picked it up (his fraction of ashes) ; I'll become a smart man ; (and) about everything ; I'll talk about it ; so that we may be well-suited by (everything) ; as long ; as it goes on being [light?]
+	]
+
+	76 [
+		S ; howenoʔki ; taʔmamooteeki ; hini hočeepiʔki ; hinoki yooči ; laakwa ; šipaʔnatopalwiiya ; hiini ; wehaašinaatamaakoya ; yooma ; hočeepiʔki
+		E ; now again ; place where it is picked up ; that ; medicine ; from now on ; whenever ; I go on the warpath ; that's ; so that I may be helped by it ; this ; medicine
+	]
+
+	77 [
+		S ; hiine ; hiini ; lekhi ; yeeši=hočeepikkeewaači
+		E ; then ; that's ; how much ; as they got medicine
+	]
+
+	78 [
+		S ; wehi ; hinoki ; nah[įį]ka ; piyaayakwe ; weečootaθhaayakwe ; keʔwiitamawaape ; nahalweelemakwe ; noʔki ; yaama ; kičeeninaana ; pekowiiθa ; kamooči ; weʔpiyeči ; pahočeepikkeeki 
+		E ; "well ; now ; up there ; when we come ; place where we arrive (=village) ; we must tell them ; the one(s) who are related to us ; and also ; this ; our brother ; pekow person ; maybe ; they will come ; to get medicine
+	]
+
+	79 [
+		S ; hiine ; nahiika ; yeʔpiyaači ; hina ; hokima ; pekowiiθa ; neeyeʔka ; θapa ; wiyak[o]we ; yeewanʔhaači ; nili ; hokwiʔθali
+		E ; then ; up there ; when he came ; that ; chief ; the pekowi person ; already ; presumably ; he is angry ; when he lost him ; that ; his son 
+	]
+
+	80 [
+		S ; nahiika ; taʔpiyaači ; taʔčaakateθoči ; hina ; mšiʔkineepikwa ; mayeelaapiči ; honeeme ; wiyawʔθi 
+		E ; up there ; where he came ; where he was all burned up ; that ; Big forehead spider (monster) ; he looked around ; (and) he saw it ; a piece of meat
+	]
+
+	81 [
+		S ; maačiiya ; čaaki=laapamekwatwi
+		E ; it moves ; (and) it changes in all colors
+	]
+
+	82 [
+		S ; hiine ; hiini ; yeeyoči ; teepike ; kookwelaakwaši ; hiini ; wehaaši=kiʔθeʔwaači ; teheewaači ; yeelaakoomakwe ; yeeši=kiʔθeʔwaačiteheeya
+		E ; then ; that's ; what he says ; "fair enough ; unknown time ; that's ; so that (then) wil also have ; painful thoughts ; ones who are related to us ; even as I have painful thoughts
+	]
+
+	83 [
+		S ; hoowe ; nooteʔmame ; hiini ; wiyawʔθi
+		E ; then ; from there he picked it up ; that ; meat
+	]
+
+	84 [
+		S ; hiini ; weeči=piyeči haʔteeki ; hini ; mašalookiθiiwe
+		E ; that's ; the way it came to be ; that ; witchcraft
+	]
+
+	85 [
+		S ; yaška ; hotamwahi ; lenawehi ; hina ; maneto ; weekinaakwi[=]čaakateθhooθo
+		E ; still ; he [b]eats them ; people ; that ; monster; even though he was all burned up 
+	]
+
+	86 [
+		S ; hiini ; yeelatotamowaači ; niʔki ; weewaakotakki ; yeešilawiiči ; hiina ; pekowiiθa ; hokima ; yaayopi
+		E ; that's ; the way they talk about it ; those ; the ones who know it ; the way he did ; that ; pekowi ; chief 
+	]
+
+	87 [
+		S ; yaayopi
+		E ; they always said.
+	]
+}
+
+199 {
+    T [How tobacco came in bundle]
+
+    1 [
+        S ; hiine ; taʔmeʔteele[m]eči ; kišpokooθo ; weelena ; niilekwi ; lθeemaali ; wahaayawaači ; laakwa ; šipaa[m]ʔθeete
+        E ; then ; place where he got created (MP pdg) ; Kishpoho person ; immediately ; he is given ; tobacco
+    ]
+
+    2 [
+        S ; [n]iniili ; homiilekooli ; neemeʔteelemekoči ; škilaweʔθiiθali
+        E ; by that one ; he is given it by him ; since he is created by him ; by little boy
+    ]
+    
+    ¶
+
+    3 [
+        S ; hiini ; yeeši=teepiileθiči ; waači=katawi=hiini=šilawiiči ; wiyehi ; taʔšiteheeči ; hiini ; yeeši=nahalwaaθiiči ; halaʔθeemaali ; yaawaki ; niʔki ; niyeʔtakoθički ; hiini ; lekhi
+        E ; that's ; how he has sufficient power ; so that he is able that to do ; something ; whenever he thinks about (it) ; that's ; since he has his (run) ; tobacco ; they always say ; those ; the ones who belong there ; that's ; as much (end of Kišpoko-War chief tobacco)
+    ]
+    
+    ¶
+
+    4 [
+        S ; howe ; yaama ; pekowiiθa ; kšake ; nayeʔθaawi ; hokima ; payeekwa ; naʔθaapi ; miilooθo ; lθeemaali ; waheči ; katawi ; howeši=kiikalawiči ; hiiyaatotake
+        E ; now ; this ; pekowi ; because ; nothing but ; chief ; but ; likewise ; he is given ; tobacco ; so that ; he is able ; to speak well ; whenever he talks about it
+    ] 
+    
+    5 [
+        S ; yeeleele[m]eči ; nayeʔθaawi ; weewešaaki ; hopemoweto
+        E ; the way he got thought about (MP pdg.) ; nothing but ; good ; he carries it
+    ]
+
+    6 [
+        S ; laakwa ; taʔwiišahaači ; hiine ; hopaapelʔhwaali ; nili ; holaʔθeemaali
+        E ; when ; there he will go ; then ; he unwrapped him ; that ; his tobacco
+    ]
+
+    7 [
+        S ; yooni ; yaaši ; niikaani ; šikalawiči ; waašahaači ; waašimʔkaki ; hini ; wiyehi ; neenatonehako ; wahowelaθ[k]aakoleči
+        E ; there ; when ; for the ahead = [furher] ; he talks (in prayer) ; the way he goes ; so he will find it ; that ; someting ; which he searches for ; so that he may be wel suited
+    ]
+
+    8 [
+        S ; hiini ; waači ; katawi ; teepweewe ; l[ee]letamaakoči ; nili ; wiyeeθali ; yeʔkiikaloolaači
+        E ; that's ; why ; able to ; the truth ; which he is thought to have by ; by that ; somebody; when he speaks (to him?)
+    ]
+
+    ¶
+
+    9 [
+        S ; hiini ; pehi ; yeešimʔθeeletaki ; yeešimeʔteelemeči
+        E ; that's ; all ; what he derives benefit from ; the way he got created (MP)
+    ]
+
+    ¶
+
+    10 [
+        S ; šapkahi ; miilooθo ; teepweewe ; hini ; lθeema
+        E ; of course ; he is given it ; the truth ; that ; tobacco
+    ]
+
+    11 [
+        S ; hiini ; waači ; kolepiteheenaači ; čaakiwiyeeθali ; yeeši[k]alawiči
+        E ; that's ; why ; his heart turns toward him ; everybody ; when he talks (in prayer)
+    ]
+
+    ¶
+
+    12 [
+        S ; hiini ; lekhi
+        E ; that's ; as far (as this account extends)
+    ]
+}
+
+
+200 {
+    T [Woman can't get near bundle]
+
+    1 [
+        S ; hiini ; mata ; niši ; meʔteetemooθo ; yaama ; ykweewa ; waaši=maalaakwahi ; paʔtaleθiči ; Aaʔnoošaateeki ; yooma
+        E ; that's ; not ; this way ; she is created ; this ; woman ; so that close by ; and should go to be by nature ; place where it is kept ; this
+    ]
+
+    2 [
+        S ; manetoowiiwe ; hotelenaweewiiwenwa
+        E ; powerful thing (menstruation?) ; by their humanity
+    ]
+
+    3 [ 
+        S ; maʔθaapi ; weški ; hopemoweleko ; payeekwa ; kšake ; yooni ; yaaši=hotθekoči ; homanetoowiiwe ; yaaši ; tepaane ; paʔliiwaθikeeči
+        E ; likewise ; first ; she is carried along by [their humanity] ; but ; because ; here ; as she is met by ; her powerful thing (menstruation) ; so ; separately ; she goes to make smoke from fire
+    ]
+
+    4 [
+        S ; hiini ; yeešiθoči ; tepaane ; yeepita
+        E ; that's ; as she is called ; "separately ; one who stays"
+    ]
+
+    5 [
+        S ; hiini ; weyawoči ; pwa=wiilaani ; leelemooθoči ; waʔši ; moolaakwahi ; paanʔθeeči ; taʔteeki ; pkwapičika
+        E ; that's ; reason ; [s]o not let her go ; as she is regarded ; so that close by ; she travels ; place where it is ; the bundle
+    ]
+
+    ¶
+
+    6 [
+        S ; hiini=šilawiite ; homaamiyaašto ; yaawaki ; niʔki
+        E ; whenever she does so (i.e., approached bundle) ; she always spoils it ; they always say ; those
+    ]
+
+    (¶)
+
+    7 [
+        S ; peeleko ; laakwa ; yooni ; yeeši=hapiči ; hina ; nekoti ; hykweewa ; neʔtepeeli ; šitehe ; yaayopi
+        E ; once ; at time ; here ; when she stayed ; that ; one ; woman ; "I'll test this" ; she thought ; they always say
+    ]
+
+    ¶
+
+    8 [
+        S ; hiine ; taʔmenyeelowaači ; hinayʔkwee[wa] ; tepaane ; hapiwa ; wiiteka
+        E ; at a time ; when they were dancing ; that woman ; separately ; she was staying ; (and) she danced in a group with the others
+    ]
+
+    9 [
+        S ; weelena ; homošhekohi ; nihi ; kaakčitawaatoočki ; taʔmenyeeleki
+        E ; immediately ; she is noticed by them ; those ; the ones who guard it ; place where she dances
+    ]
+
+    10 [
+        S ; hiine ; paaši ; hiini ; yeešilawiiyani ; hilooθo
+        E ; then ; it seems ; that's what you do ; she is told 
+    ]
+
+    ¶
+
+    11 [
+        S ; hoomata ; nitaʔmeni hini šilawi ; hišiwe
+        E ; "Oh not ; I wouldn't like to do that" ; she (does?) talking
+    ]
+
+    12 [
+        S ; payeekwa ; peloočihi ; keʔwaakotaape ; hotekohi
+        E ; "However, ; prety sure ; we will find it out" ; she is said to by them
+    ]
+
+    13 [
+        S ; niičaphi ; noʔki ; taʔwiitekaači ; hiine ; poʔkeʔkaali ; hiini ; mškwi ; hiini ; weemooyaaki ; tayʔkweewiči
+        E ; sure enough ; and ; place where she dances in group ; then ; (often?) she (obv.) ; broke ; that ; blood ; that's ; where it comes from ; place where she is a woman (genitals)
+    ]
+
+    14 [
+        S ; nitaši ; kaakičθe; ; čaakiwiyeeθa ; honeewaali
+        E ; there ; she fell down ; (and) everybody ; saw her
+    ]
+
+    15 [
+        S ; čaalayini ; wayaači ;  kwtelooθoyeekwe ; ni[t]kweemeti ; wahaaši ; hotakeeletamee[t]aw[i] ; yooma ; yootalekaayakwe
+        E ; "here it is ; the way ; you (pl.) are advised ; my sisters (voc.) ; so that ; you obey it ; here ; at place where we danced
+    ]
+
+    16 [
+        S ; payeekwa ; hočeepiʔki ; hoštaakwi
+        E ; but ; medicine ; for her it is made (by [??])
+    ]
+
+    17 [
+        S ; hiine ; keenahi ; taʔlepwalʔhaači ; matakiteeni ; hinoki ; yooči ; nitaʔšilawi ; hiwa ; yaayopi ; hina ; yʔkweewa
+        E ; the[n] ; indeed ; when she revived ; no more ; now ; from ; I not do so" ; she says ; they say ; that ; woman
+    ]
+}
+
+201 {
+    T [ How Peyote Got in Bundle]
+
+    1 [
+        S ; peeleko ; laakwa ; šeʔkamika ; taʔpiyeči ; lenaweewiwaači ; nikeʔk(i)yaamenaaki
+        E ; once ; at a time ; long ago ; at the place ; where they came to live ; our old folk
+    ]
+
+    2 [
+        S ; hiine ; kšake ; yaaši=papaamʔθeewaači ; hileniiki ; hiine ; kookwe laakwa ; taʔšinaakʷki ; yooni ; yeeši ; paamʔθweewaači ; neenawʔtooki
+        E ; then ; because ; they always travel ; the men ; then ; for unknown time ; as it appears ; here ; since ; they travel ; the warriors
+    ]
+
+    3 [
+        S ; paalohi ; hokwiilaanaawa ; waʔši ; menowaači ; nepi ; noʔkike ; mata ; wiyehi ; homiičiwaawa
+        E ; finally ; they fail in securing it ; so that ; they drink ; water ; also ; nothing ; they eat it
+    ]
+
+    4 [
+        S ; paalohi ; kookwetθoko ; howe ; θapa ; nekoti ; hileni ; wiiša=kiipalaamo ; noʔki ; wiiša=kiipapene
+        E ; finally ; unknown days ; then ; presumably ; one ; man ; he will die from thirst ; and ; he will starve
+    ]
+
+    5 [
+        S ; howe ; θapa ; hiine ; yeeši=teheeči ; wiilaani ; la[w]iilahi ; toke ; yooni ; yeeʔkwaaki ; nitelenaweewiiwe
+        E ; now ; presumably ; then ; as he thinks ; let it go ; can't ; maybe ; here ; the [C]ast ; my life
+    ]
+
+    6 [
+        S ; howe ; pke[e]wa ; payeekwa ; heeye ; pemʔθeeči ; wiyeeθali ; hokaloolekooli
+        E ; then ; he separated himself from the [herd] ; but ; while he went by ; by somebody ; he is spoken to by him
+    ]
+
+    7 [
+        S ; [n]iyeʔlaapiči ; honeewaali ; lenaweeli
+        E ; when he looked ; he saw it ; he saw him ; a person
+    ]
+
+    8 [
+        S ; yeelaatoweeči ; hiini ; yeelaatoweʔtaakoči
+        E ; when he (man) spoke his language ; that's ; as he is spoken to in that language by him
+    ]
+
+    9 [ 
+        S ; mata ; kitaʔkiipapene ; noʔki ; mata ; kitaʔkiipalaamo
+        E ; not ; you do not starve ; also ; not ; you die of thirst
+    ]
+
+    10 [
+        S ; niila ; keʔkiteminaakweelemele
+        E ; as for me ; I'll take pity on you
+    ]
+
+    11 [
+        S ; hiini ; yeešimiiliki ; wahaaši ; kiteminaakweelemaki ; wiyeeθa ; hotθekote ; kwilaašiteheewe
+        E ; that's ; the way I got it given (MP pdg) ; so that ; I could pity him ; somebody ; whenever he is met by ; a hopeless thought
+    ]
+
+    12 [
+        S ; hinoki ; kala=neeloči ; yeešiteheeyani
+        E ; now ; unce[asingly?] ; you think so
+    ]
+
+    13 [
+        S ; peteki ; nahiika ; keʔpiya ; tahapiwaači ; nahalweelemački
+        E ; back ; up there ; you will come ; place where they live ; the ones who are related to you
+    ]
+
+    14 [
+        S ; payeekwa ; yooma ; hinoki ; yeešinaatamool[o] ; hiini ; weʔtaʔteeki ; hini ; peemowetoowiyeekwe ; haʔpiwaloowe
+        E ; but ; this ; now ; in which I give you help ; that's ; the way it will be ; that ; which you (pl.) have carried along ; (the bundle including the peyote)
+    ]
+
+    15 [
+        S ; hiini ; naʔθaapi ; taʔlematapiya ; weški ; taʔpakθenete
+        E ; that's ; likewise ; place where I sit ; first ; when[where?] I got (let down?)
+    ]
+
+    16 [
+        S ; wehi ; howe ; kimeʔčiwiitamoole
+        E ; well ; now ; I have finished telling you 
+    ]
+
+    17 [
+        S ; weenoki ; keʔwaapami ; keʔ[n]eewi ; mayaawi ; yeešinaakoθiya
+        E ; and now ; you must look at me ; (and) you must [never] ; properly ; as I appear
+    ]
+
+    ¶
+
+    18 [
+        S ; šaʔkiki ; yeʔ[k]iyaaliči čeʔyooma ; hoteʔneeme ; hini ; hočeepiʔki
+        E ; (ground?) ; when she obv. disappears (it comes) ; right here ; he sees it ; that ; medicine 
+    ]
+
+    19 [
+        S ; meenaakweʔθehi ; šitoote
+        E ; the things in bun(ch)es (peyote's name) ; it is called
+    ]
+
+    20 [
+        S ; hiini ; yeešimiičiči ; čeʔyooma ; teʔphoolo ; noʔkike ; teepimenwa
+        E ; that's ; what (the starving man) eats ; right there ; he got fed enough ; and also ; he had enough to drink
+    ]
+
+    21 [
+        S ; hiine ; yeešiteheeči ; talaakwa ; howešilaašamamo
+        E ; then ; as he thought ; never ; he was feeling so good
+    ]
+
+    22 [
+        S ; mečimi ; čaakiwiyehi ; howaakota
+        E ; together at same time ; everything ; he knows it
+    ]
+    
+    ¶
+    
+    23 [
+        S ; teekehi ; nahiika ; yeʔpiyaači ; meʔšikatoki ; talaakwa ; wiyehi ; waʔpeškaakoči
+        E ; also ; up there ; when he came ; where it was wa(r) ; never ; anything ; he will be touched by (warrior) in walking 
+    ]
+
+    24 [
+        S ; yeʔwaapaki ; yeemeʔčoolelwiiči ; maalečihi ; hoššekwata ; hočeepiʔki
+        E ; when it was morning ; hwhen he had finished swimming ; small piece ; he chews on it ; the medicine
+    ]
+
+    25 [
+        S ; hotaašiteʔθeto; hoʔpaleeki
+        E ; he makes a crossmark (X) ; on his chest (by spitting medicine on his hands and rubbing hands over chest)
+    ]
+
+    26 [
+        S ; howe ; meʔčinanahi
+        E ; then ; he finished preparing
+    ]
+
+    27 [
+        S ; weekinaakwi ; weʔtokhokooli ; wiyeeθali ; mata ; hotanʔθekooli
+        E ; even sometime ; he will be shot by firing arrow/gun fast against him ; by somebody ; (but) not ; he will be killed by him
+    ]
+
+    28 [
+        S ; weela ; weekinaakwi ; wemʔšeelwa ; hileni ; niweʔšipiič[i] ; hini ; tamʔšaaki ; noočh[e]tiiwe
+        E ; (even?) ; sometime ; there is plentiful ; man ; (and) he will walk ; that ; place where it is big ; the fighting
+    ]
+    
+    ¶
+
+    29 [
+        S ; hiini ; yeeši=piyečimʔθeeletamowaači
+        E ; that's ; the way they come to have benefit from it
+    ]
+
+    30 [
+        S ; hiini ; weeči ; nišipoonamowaači ; hopkwapičikanwaaki ; yooma ; hočeepiʔki ; meenaakweʔθeki ; yeešitooteeki
+        E ; that's ; why ; they put it (peyote) in ; their bundle ; this ; medicine ; the thing in bunches (name of peyote when [found]); which is called
+    ]
+}
+
+
+202 {
+    T [Modern Name of Peyote]
+
+    1 [
+        S ; mata ; niwaakotaape ; notaʔθalaakwa ; mata ; šeʔkamika ; čiʔθena ; hiini ; yeešitooteeki ; piiyoti ; kookweeneeθ[a] ; hina ; hiini ; yeešitaki
+        E ;  not ; we know it; way after ; not ; long ago ; sometimes ; that's ; the way they called it ; peyote ; unknown person ; that ; that's ; what he calls it
+    ]
+
+    2 [
+        S ; payeekwa ; naʔθaapi ; hiini ; yešitamaake
+        E ; but ; likewise ; that's ; what we (exc.) call it
+    ]
+
+    3 [
+        S ; hinoki ; yehaatotamaake ; hiini ; yeešipwawaahotamaake
+        E ; now ; the thing which we (exc.) talk about ; that's ; why we don't know it
+    ]
+    
+    4 [
+        S ; hiini ; pehi ; yeešiwaakotamaake
+        E ; that's ; the [rule?? why? way?] ; thing which we know
+    ]
+
+    5 [
+        S ; niila ; šeešaawanoowiiya ; meenaakweʔθeki ; nitešita
+        E ; as for me ; as I am Shawnee ; the thing is [??] ; I call it
+    ]
+
+    6 [
+        S ; hiini ; pekhi ; yeešiwaakotama
+        E ; that's; the only way ; I know it
+    ]
+}
+
+203 {
+    T [Vision Quest]
+
+    1 [
+        S ; taʔpiyeči=neekatamowaači ; yeeleelemeči ; nikeʔkiyaamenaaki ; waaši ; halemʔkamowaači ; wiyehi ; wakθoškaakowaači 
+        E ; The place where they come to follow it ; as they got created (here) ; our old folk, forefathers ; so that ; they find it ; something ; so that they may be protected by it
+    ]
+
+    2 [
+        S ; hiini ; weečaʔteeki ; hokwteletiiwenwa ; noʔki ; hiini ; weeči=haʔteeki ; waaši ; pemi=noošaalaači ; hotapeloʔθemwahi
+        E ; that's ; how it is ; their laws ; also ; that's ; how it is ; so that ; he may nurse along ; their children
+    ]
+
+    3 [
+        S ; hiini ; waači ; mʔkatehowaači ; taʔniišwaʔθi ; tθwikatoowiči ; škilaweʔθiiθa
+        E ; that's ; why ; they get painted black ; place when 7  ; presently they are in years ; (boys?)
+    ]
+
+    4  [ 
+        S ; hiine ; howe ; mkatehooθo
+        E ; then ; now ; he is painted (faces? black?)
+    ]
+
+    5 [
+        S ; taʔmayowaapaki ; howe ; haaneškooθo
+        E ; towards morning ; now ; he is driven away
+    ]
+
+    6 [
+        S ; teki ; keʔpiya ; tepeʔkike
+        E ; don't ; you mustn't come ; until night
+    ]
+
+    7 [
+        S ; čiine ; keʔpiya
+        E ; the[n] ; you will
+    ]
+
+    8 [
+        S ; teki ; noʔki ; keʔwiišawiʔθeni
+        E ; don't ; always ; you must eat
+    ]
+
+    9 [
+        S ; teki ; noʔki ; keʔmene ; neekatamane ; yooma ; yeeleeletaki ; hina ; meemiilelakwe ; yooma
+        E ; don' t ; also; you must drink ; when you follow it ; this ; what she created ; that ; on who gives it to us (inc.) ; this
+    ]
+
+    10 [
+        S ; hinoki ; waaša ; mʔkamani ; kamooči ; keʔkiteminaakweelemek[wa] ; wiyehi=ši ; kimeʔšoomʔθena
+        E ; now ; so that ; you will find ; maybe ; you will be pitied by him ; some kind of ; our grandfather
+    ]
+
+    11 [
+        S ; hiini ; wahotatenamini (?) ; hileniwiiwe 
+        E ; that ; where you get it from ; manhood, power 
+    ]
+
+    12 [
+        S ; niičaphi ; yooni ; yeešipiyečiteepileθiwaači ; niʔki ; neemʔkakki
+        E ; sure enough ; here ; as they come to be strong enough ; those ; ones who find it
+    ]
+
+    13 [
+        S ; nekotiʔkala ; škilaweʔθiiθa ; haameškooθo
+        E ; the one ; boy ; he is driven away
+    ]
+
+    14 [
+        S ; mšeelwa ; koona
+        E ; he is plentiful ; snow
+    ]
+
+    15 [
+        S ; weepi ; noʔki ; šeškikaʔkwane ; noʔki ; šeškalʔθete
+        E ; it is cold ; also ; šeškikaʔkwane ; noʔki ; šeškalʔθete
+    ]
+
+    16 [
+        S ; paalohi ; laakwa ; taʔpaamʔθeeči ; wiiša=θookači
+        E ; finally ; at time ; whe(re? when?) travels ; he will freeze to death
+    ]
+
+    17 [
+        S ; howekeela ; neʔθookači ; šitehe ; yaayopi ; nišipiyeewa ; mšootkwi ; taʔkaweškaaki
+        E ; "now indeed ; I'll freeze to death" ; he thinks ; they say ; there he came ; big log ; place where it fell
+    ]
+
+    18 [
+        S ; yaama ; kiišaʔθwa ; weečipemʔθeeči ; tekawihi ; hapenooya
+        E ; this ; sun ; where he went by ; a little ; it is warm
+    ]
+
+    19 [
+        S ; howe ; θapa ; nišišekšinwa
+        E ; now ; presumably ; there he reclines
+    ]
+
+    20 [
+        S ; howekeela ; yooni ; wetaʔθookačiya ; šitehe
+        E ; now ; this place ; where I will freeze to death ; he thinks
+    ]
+
+    21 [
+        S ; paapekwa ; hopiyečinootawahi ; škilaweʔθiiθhi
+        E ; by that time ; he heard them coming ; little boys
+    ]
+
+    22 [
+        S ; peeleko ; yeʔθaapiikweeleki ; čeʔyooma ; niipawihi ; hoomata ; kitaʔθookači
+        E ; at once ; when he blinks his eyes ; here ; they (obv.) stand ; "oh no ; you won' t freeze to death
+    ]
+
+    23 [
+        S ; neʔnekamope
+        E ; we'll [???] for you
+    ]
+
+    24 [
+        S ; keʔkaweʔtawipe
+        E ; you must listen to us
+    ]
+
+    25 [
+        S ; paalohi ; niyeewi ; nekamoowena ; homiilekohi
+        E ; finally ; 4 ; songs ; they (obv.) are given by them
+    ]
+
+    26 [
+        S ; hiini ; wahaalekomooyani ; katemoyane ; h[o]lemiwaʔkanakiyaake ; (halemi-?)
+        E ; that's ; the way you sing ; when you are mature
+    ]
+}
 
 204 {
     T [ Woman in Quest ]
 
     1 [
         S ; yoʔkoma ; ykweeki ; hiini ; haayahi ; yeeši=noošaaletiči ; hapiiki ; niʔki ; paapiyečimʔkateʔhwaački ; škweʔθeeθhi ; taʔni[n]ʔšwaʔθi ; kkatoowiči ; hiine ; howe ; mkatehooθo
-
-        G ; those ; women ; that's ; almost ; as they reciprocally take care ; they were there ; those ; one who came to paint [them] black ; little girls ; when 7 years ; she [h]as ; then ; now ; she is painted black  
+        E ; those ; women ; that's ; almost ; as they reciprocally take care ; they were there ; those ; one who came to paint [them] black ; little girls ; when 7 years ; she [h]as ; then ; now ; she is painted black  
     ]
 
     2 [
         S ; paalohi ; nahiika ; taʔpiyeeyaaki ; tepaane ; tahapiči ; hiini ; yeʔkwi=mʔkatehooθooči
         
-        G ; finally ; up ; place where (cr...?) comes ; separately ; place where she stays ; that's ; she is painted black for last time 
+        E ; finally ; up ; place where (cr...?) comes ; separately ; place where she stays ; that's ; she is painted black for last time 
     ]
 
     3 [ 
         S ; hiine ; tahotenaweeči ; yaama ; mayaaniyʔkwe ; [t/l]aʔmawihʔθoko[n]akiki ; kwena ; wiiša ; wiʔθeni 
-        G ; then ; when she makes smoke from separate fire ; this ; young woman ; when it is third day ; just there  ; [she] ; will eat
+        E ; then ; when she makes smoke from separate fire ; this ; young woman ; when it is third day ; just there  ; [she] ; will eat
     ]
 
     4 [
         S ; wiyeeθali ; hokaloolekooli
-        G ; by somebody ; she is spoken to by him
+        E ; by somebody ; she is spoken to by him
     ]
 
     5 [
         S ; miyeʔlaapiči ; škoteeki ; honeewaali ; lenaweeli
-        G ; when she looked ; in the fire ; she saw ; a person
+        E ; when she looked ; in the fire ; she saw ; a person
     ]
 
     6 [
         S ; howe ; keela ; keʔkiteminaakweelemele ; hotekooli
-        G ; now ; indeed ; I'll take pity on you ; she is told by him
+        E ; now ; indeed ; I'll take pity on you ; she is told by him
     ]
     
     7 [
@@ -44,22 +987,22 @@
 
     8 [
         S ; keʔnaatamawaaki ; kooškiimaki ; naaneemeyane ; yooma ; mešikatwi ; niišwi ; kiilawa ; halaanee[he/ki] ; nekoti ; noʔki ; mayaaniyʔkwe
-        G ; you must help them ; your brothers ; whenever you see it ; this ; it is war ; two ; of you ; over here ; one ; and also ; young woman
+        E ; you must help them ; your brothers ; whenever you see it ; this ; it is war ; two ; of you ; over here ; one ; and also ; young woman
     ]
 
     9 [ 
         S ; hiini ; yaška ; yeeši kiteminaakweelemaki
-        G ; that's ; still ; the way I take pity on her
+        E ; that's ; still ; the way I take pity on her
     ]
     
     10 [
         S ; hiina ; keʔnaaniišθeepwa
-        G ; with that theme ; you p. must always go together
+        E ; with that theme ; you p. must always go together
     ]
 
     11 [
         S ; hiine ; ke[ʔ]nahi ; mata ; keelo ; laakwa ; howe ; honeemenaawa ; hine ; taʔnoočheteki
-        E ; then ; indeed ; not ; long ; thereafter ; then ; they saw it ; there ; where he fought battle
+        E ; then ; indeed ; not ; lonE ; thereafter ; then ; they saw it ; there ; where he fought battle
     ]
 
     12 [ 
@@ -133,7 +1076,7 @@
 
     9 [
         S ; paalohi ; peeleko ; taʔpohalawiwaači ; hiini ; yeetiwaači ; čeʔteepi ; keʔnatopalwiipe ; nikehaape ; tahapiči ; hina ; kataapa
-        E ; finally ; once ; when they went hunting ; that's ; when they told one another ; enough ; we will go on war path ; there we will go ; place where he lives ; that; Catawba
+        E ; finally ; once ; when they went huntinE ; that's ; when they told one another ; enough ; we will go on war path ; there we will go ; place where he lives ; that; Catawba
     ]
 
     10 [ 
@@ -178,7 +1121,7 @@
 
     18 [
         S ; hoo-- ; kiiša paamʔθeepwa ; niniičaaneti ; hotekowaali
-        E ; "Oh ; you (two) will go travelling ; my children (voc.)" ; they are told by him
+        E ; "Oh ; you (two) will go travellinE ; my children (voc.)" ; they are told by him
     ]
     
     19 [ 
@@ -225,11 +1168,11 @@
 
     27 [
         S ; wehi ; waapake ; kehalawipwa ; hotekowaali ; nili ; hoʔθwaali ; yooni ; howe ; taʔkwakweetaapoweeya ; hotekowaali ; wehi ; kiilawa ; hiini ; wehaayeekwe ; tahoteewenʔkeeči ; hina ; kataapa
-        E ; "Well, ; when it is morning ; you (pl.) must hunt" ; they are told by him ; that; there father ; "(there) ; now ; place where I always eat soup" ; they are told by him ; "well ; you (pl.) ; that's ; where you must go ; place where they made a village ; that ; Catawba;
+        E ; "Well, ; when it is morninE ; you (pl.) must hunt" ; they are told by him ; that; there father ; "(there) ; now ; place where I always eat soup" ; they are told by him ; "well ; you (pl.) ; that's ; where you must go ; place where they made a village ; that ; Catawba;
     ]
 
     28 [
-        S ; kookweenehi ; nitešilawiipe ; keʔšiteheepwa ; hiini ; weʔsilawiiyeekwe ; hotelahi honiičaanʔhi ; yaayopi
+        S ; kookweenehi ; nitešilawiipe ; keʔšiteheepwa ; hiini ; weʔšilawiiyeekwe ; hotelahi honiičaanʔhi ; yaayopi
         E ; 'Unknown what ; we do' ; you (pl.) will think ; that's ; what you'll do" ; he told them ; his children ; so they say
     ]
 
@@ -240,12 +1183,12 @@
 
     30 [
         S ; nooči ; taʔniiš[ok]onakiki ; tepilo ; čiine ; teepaapanwi ; piyeepakšinooki ; tahakooleʔθowaači ; hoʔθwaali ; peemi ; leʔθeeloliči
-        E ; from there ; two days ; far away ; and then ; it begins to be light ; they come jumping ; place where they did [h/l]earing (of old man) ; their father (obv.) ; by there ; he obv. was cooking
+        E ; from there ; two days ; far away ; and then ; it begins to be light ; they come jumpinE ; place where they did [h/l]earing (of old man) ; their father (obv.) ; by there ; he obv. was cooking
     ]
 
     31 [
         S ; haapeta ; howawiyaakatha ; holeʔθeeloowe ; čitooθo ; yaayopi
-        E ; everyone in a while ; he stirred it ; his cooking ; the old man ; so they say
+        E ; everyone in a while ; he stirred it ; his cookinE ; the old man ; so they say
     ]
 
     32 [
@@ -290,7 +1233,7 @@
 
     40 [
         S ; howe ; kekkinaakona ; yeeššineyakwe ; hotekowaali ; hiine ; nooči ; taʔmayiwaapaki ; howe ; keʔm[aw]inalekoope
-        E ; Then ; we will be noticed by him ; as we (inc.) lay" ; they are told by him ; then ; from there ; towards morning ; we will be pursued by indef. p.
+        E ; Then ; we will be noticed by him ; as we (inc.) lay" ; they are told by him ; then ; from there ; towards morninE ; we will be pursued by indef. p.
     ]
 
     41 [
@@ -340,7 +1283,7 @@
     
     50 [
         S ; paalohi ; noʔki ; nahiika ; piyeptooki ; waʔta pemiptooliči
-        E ; at last ; also ; up there ; they come running ; at plce where he (obv.) will run by
+        E ; at last ; also ; up there ; they come runninE ; at plce where he (obv.) will run by
     ]
 
     51 [
@@ -370,7 +1313,7 @@
 
     56 [
         S ; talaakwa ; wiyehi ; wapšikwaapataki ; yaayopi
-        E ; there is no ; thing ; which he mis-looks at (i.e., he sees everything) ; so they say
+        E ; there is no ; thinE ; which he mis-looks at (i.e., he sees everything) ; so they say
     ]
 
     57 [
@@ -407,7 +1350,7 @@
 
     63 [
         S ; pešha ; yškweeli ; honʔθaawaali ; yaayopi ; wiʔkoči ; kišθiweeki ; yaayopi ; θawašekwi ; hoškiimʔhi ; yaayopi ; hina ; neʔθeta ; hiini ; yaalačimoki ; wehi ; yooma ; nekotweelema ; yeešilenaweewiči ; lenawe
-        E ; [?] ; the woman ; they killed her ; they say ; from/since which fight ; they aroused anger ; so they say ; 8 ; her brothers ; so they say ; that one ; one who got killed (MP of T) ; that's ; they always tell ; well ; this ; one thing ; as they live; person 
+        E ; [?] ; the woman ; they killed her ; they say ; from/since which fight ; they aroused anger ; so they say ; 8 ; her brothers ; so they say ; that one ; one who got killed (MP of T) ; that's ; they always tell ; well ; this ; one thinE ; as they live; person 
     ]
 
     64 [
@@ -442,7 +1385,7 @@
 
     70 [
         S ; hiina ; niikaawi ; hataaši ; waakota ; wiyehi ; hiini ; yeeši ; mθeelemekoθiči ; čaaki wiyehi ; homaamoošto ; waašayeki ; weela ; leweʔkwi ; weewešaaki ; yaaši ; mooleθi ; weela ; wiyehi ; peepwahowešaaki ; hiini ; yaašimooleθiči ; kiišeki ; weela ; tepeʔki ; yooni ; yaaši mooleθiči
-        E ; that's the one ; ahead of time ; he knows about it ; something ; that's ; what he is benefited by ; everything ; he is always observant of it ; the way it will be ; or ; [may] ; the thing which is good ; as he has observant nature ; or ; something ; which is not good ; that's ; since he is observant ; day ; or ; night ; that's ; as he is always observant
+        E ; that's the one ; ahead of time ; he knows about it ; somethinE ; that's ; what he is benefited by ; everythinE ; he is always observant of it ; the way it will be ; or ; [may] ; the thing which is good ; as he has observant nature ; or ; somethinE ; which is not good ; that's ; since he is observant ; day ; or ; night ; that's ; as he is always observant
     ]
 
     71 [
@@ -467,17 +1410,420 @@
 
     75 [
         S ; hiini ; wayaw[a]či ; papθoči ; yeʔtakwaakiki ; kšake ; naʔθaapi ; homaamoošto ; wiyehi ; n[ik]aani ; yaašimooleθiči
-        E ; that's ; from there ; she got scarified (MP) ; when it is fall ; because ; likewise ; she was always [???] ; something ; ahead of time ; as she has observant nature
+        E ; that's ; from there ; she got scarified (MP) ; when it is fall ; because ; likewise ; she was always [???] ; somethinE ; ahead of time ; as she has observant nature
     ]
 
     76 [
         S ; wiyehi ; weewešaaki ; weelaake ; wiyehi ; waapwahowelaθkaakowaači ; memekini=lenaweeki ; payeekwa ; weelena ; yaayaačimo ; kweʔkwi ; kookwe ; yeʔpemitaači ; yooni ; yaašimooštooči ; wiyehi ; weela ; taʔhawaapa[nimi]či ; wayeetaʔkwe ; laakwa ; hiini ; yaaši ; mooleθiči ; wiyehi ; kkinooči ; yaašilenaw[a]wiiki ; niʔki ; hiini ; yaašimooštoočki ; wiyehi ; mθeelemekoθiiki ; yaayopi ; kšake ; teepweewe ; pehi ; hopemowetoonaawa ; yoolaačimooθoo[k]i 
-        E ; (finish this, pg. 201)
+        E ; somethinE ; which is good ; or ; somethinE ; when they are not pleased by somethinE ; various people ; but ; right away ; sh/e always says ; sometimes ; unknown ; when he (sun) goes by = any time during day ; here ; as she observed it ; somethinE ; or ; when she has [morning] ; on that side ; time ; that's ; when she is observant ; somethinE ; as she recognizes by appearance ; so (the way) they live ; those ; that's  ; the ones who are observant of it ; somethinE ; they are useful ; so they say ; because ; truth ; only ; they carry it alonE ; they are always talked about 
     ]
 
     77 [
         S ; hiini ; lekhi
-        E ; that's ; [???]
+        E ; that's ; [finished?]
     ]
 
+}
+
+206 {
+
+    T [Birth Marks in Ear]
+
+    1 [
+        S ; hapeloʔθa ; yeʔlenaweewiči ; nanaʔpi ; taʔtepinaakwatwi ; hoʔtawakaaki
+        E ; child ; when he became a person ; sometime ; as it appears recognizable in [???] ; on his ear
+    ]
+
+    2 [
+        S ; taʔpalalaakoʔšeeči ; hiina ; neeyeʔka ; meʔči ; maataši ; lenaweewi ; keʔtapooči ; šiθooki ; niʔki
+        E ; as ear has small holes ; that ; already ; he finished ; before ; living (he has previous life) ; Reorn ; they're called ; those
+    ]
+
+    3 [
+        S ; payeekwa ; mata ; waakotoote ; šilenawe ; hine ; taʔpalalaakošeeči ; neeyoole ; kotaki ; šilenawe ; payeekwa ; naananaʔpi ; yaayaačimooki ; hiini ; yeelaatoweeta ; hiini ; waači katawi waakotooteeki ; šilenawe ; hiyeʔki ; weela ; nanaʔpi ; howawiitaanaawa ; hiini ; yaayowaači ; niila ; keela ; peeleko ; kipapwiiči lenaweewimelepwa
+        E ; but ; not ; it is not known ; what kind of tribe ; there ; when he [has ear holes...?] ; still ; another ; tribe ; but ; sometimes ; they say ; that's ; the one who talked =former tribe ; then ; what's able to be known ; of what tribe ; it used to be ; sometimes ; they call it ; that's ; as they always say ; as for [???] ; [??] ; one[?] ; I went & lived with you (pl.) in your tribe
+    ]
+
+    4 [
+        S ; keʔtapooči ; niila ; yoowaki ; noʔkike ; teepweewe ; hotaayaatotaanaawo ; wiyehi ; hotaanaake ; taʔpiyečilenaweewiči
+        E ; a rebirth ; I am ; they say ; and ; the truth ; they always tell it ; somethinE ; in past; where they come from livinE ; 
+    ]
+
+    5 [
+        S ; hiini ; waačiwaakomeči
+        E ; that's ; how he gets to know (MP.)
+    ]
+}
+
+207 {
+        T [Mole]
+
+        1 [
+            S ; howenoʔki ; nanaʔpi ; yeeʔlenaweewiči ; hapeloʔθa ; yooni ; yaašipiyeči=wiiteemekoči ; nili ; homiinemali
+
+            E ; now also ; sometimes ; when he was born ; child ; here ; as he came to be accompanied by ; by that ; by his mole
+        ]
+
+        2 [
+            S ; laakwa ; yehiki ; yaayapiili ; hina ; noʔki ; keʔtapooči ; hine ; weški ; taʔpiyaači ; nanaʔpi ; taʔnoočheteki ; taleθi ; taʔpeʔšelooθoči
+            E ; place ; where it is ; where he (mole) stays ; that; also ; rebirth ; then ; at first ; when he comes ; sometimes ; where it is war ; he is around there ; place where he was shot
+        ]
+
+        3 [
+            S ; hiini ; weeči piyeelaači ; nili ; homiinemali ; noʔki ; hotaayaatota ; laakwa ; taši ; taʔpeʔšelooθoči
+            E ; that's ; why he brings him ; that ; his mole ; and ; he told it ; when ; there ; place he was shot
+        ]
+
+        4 [
+            S ; hoowe ; hinoki ; kiilawa ; kipiyečihalwelemelepwa ; yaawaki ; niʔki ; weemiinemički
+            E ; "Then ; now; as for you (pl.) ; I came to be related to you (pl.)" ; they always say ; there ; the ones who have moles
+        ]
+
+        5 [
+            S ; paapiyečihaʔteewi ; yaaši lenaweewiwaači ; kšake ; keʔta=poočiiki ; neeyeʔka ; homeʔčiwaakota ; yooma ; taʔpanʔhalweeletaki ; yaalaačimooki
+            E ; the event which comes to be ; when they are born ; because ; Rebirths ; already ; he knows it ; this ; place where he is related ; they always say
+        ]
+}
+
+208 {
+    T [Grey Hair]
+
+    1 [
+        S ; howe ; hina ; nanaʔpi ; hapeloʔθa ; yeʔlenaweewiči ; weelena ; piyeči=waapkwe
+        E ; now ; that ; sometimes ; child ; when he is born ; right away ; he comes having white hair
+    ]
+
+    ¶
+
+    2 [
+        S ; hiina ; naʔθaapi ; peeleko ; laakwa ; meʔči maatašilenaweewi ; payeekwa ; nanaʔpi ; kotaka ; wiyeši ; kičeeninaana ; yaayopi
+        E ; that's the one ; likewise ; once ; here ; had been before livinE ; but ; sometimes ; different ; some[thing] of ; our brother ; so they say
+    ]
+
+    3 [
+        S ; payeekwa ; weeči ; waapkweeči ; hiinayina ; θapa ; paalohi ; pašitooθa ; taʔnepaači ; haškani ; yeʔwaapanemiči 
+        E ; but ; why ; he has white hair ; that's that one ; presumably ; at last ; old man ; place where he sleeps ; he goes for good ; when ; he has morning/daylight
+    ]
+
+    4 [
+        S ; hoowe ; pakiči ; yaawaki ; howe ; noʔki ; taʔpiyaači ; hiini ; weeči piyetooči ; nili ; howaapkwaana ;  kšake ; heʔtapooči ; peteki ; noʔki ; hiini ; weʔši ; pašitooθiwiči 
+        E ; then ; he goes home (=dies) ; they always say ; now ; those ; when he comes there ; that's ; why he carries it ; those ; his white hairs ; because ; as Rebirth ; back ; also ; that's ; as he became an old man
+    ]
+
+    [sentence 5 boundary not marked]
+
+    6 [
+        S ; hiini ; (l)kahi ; hotešiwelakona ; nili ; howaapkwaana ; yaayopi
+        E ; that's ; in future distance ; he is carried by it (=white hair) ; by that ; his white hairs ; so they say
+    ]
+}
+
+209 {
+    T [Hair-Lip Anecdote]
+
+    1 [
+        S ; nekotiikala ; hapeloʔθa ; yeʔlenaweewiči ; piyečipaʔθiškiše
+        E ; one time (in a while) ; a child ; when he was born ; he came having a split lip 
+    ]
+
+    2 [
+        S ; hopiyeto ; teepweewe
+        E ; he carries ; the truth
+    ]
+
+    3 [
+        S ; taʔmeʔčikatemoči ; hotaayaatota ; yeeši=peeleko=laakwa 
+        E ; when he finisheds maturinE ; he talks about it ; as once here
+    ]
+
+    4 [
+        S ; noʔčimaataši=paʔlenaweewiči ; hiini ; yaayoči
+        E ; having been before here went + was born ; that's ; what he always says
+    ]
+
+    5 [
+        S ; hošaaši ; keela ; niila ; hiyeʔhi
+        E ; "Osage ; indeed ; I was ; as it used to be
+    ]
+
+    6 [
+        S ; nootešiwelahi ; tanʔθeči ; noʔki ; taʔpoonooθoči
+        E ; I took them alonE ; place where he got killed ; also ; when (where?) he was placed, buried
+    ]
+
+    7 [
+        S ; hiine ; ninʔθekoopi ; hiini ; yeelelawiki ; nitooniki ; hiini ; weeči piyeči hiini šinaa[k]oθiya ; yooma ; niškišaaki
+        E ; then ; I was killed ; that's ; the way I got shot ; in my mouth; that's; why I come to appear like that ; this ; on my lip
+    ]
+
+    8 [
+        S ; nipiyeto ; teepweewe
+        E ; I carry it ; the truth
+    ]
+
+    9 [
+        S ; hotaayaatota ; yeešišilawiiči ; hine ; yehošaašiiwiči
+        E ; he talks about it ; the way he does ; then ; when he was Osage
+    ]
+
+    10 [
+        S ; howaawiinahi ; wiiči neenawʔtohi ; hiini ; weeči waakomeči ; yeeši ; šapkahi ; paʔlenaweewiči ; maataši
+        E ; he always calls (by name) the fellow warriors ; that's ; why he gets knowledge ; as ; of course ; he went& lived (before) ; here
+    ]
+
+    11 [
+        S ; payeekwa ; hinoki ; šaawanwaki ; nipanʔhalweelemaaki ; yaawa
+        E ; but ; now ; the Shawnee ; I went to be related to them ; he always said
+    ]
+
+    12 [
+        S ; hiini ; weečiwaakomeči ; yeeši=hošaašiiwiči
+        E ; that's ; the way he got knowledge ; when he was Osage
+    ]
+    
+    13 [
+        S ; peeleko ; laakwa ; hiini ; yaalaačimeči
+        E ; Once ; time ; that's ; how he always got discussed
+    ]
+}
+
+210 {
+    T [Birth misfortunes, behavior of parents in gestation, cleft palate]
+
+    1 [
+        S ; yeʔlenaweewiči ; hapeloʔθa ; manaʔpi ; hiini ; yaaleθiči ; mata ; yaʔkalawi ; kšake ; haʔteewi ; yeeši=lenaweewiči ; lenawe  
+        E ; when he is born ; a child ; sometimes ; that's ; the way he will be ; not ; he can't speak ; because ; it is ; the way he is born ; a person
+    ]
+
+    2 [
+        S ; yeʔpeč (;) konaakoθiwaači ; naananaʔpi ; kala ; wiyeeθiiθa ; yenʔθeči ; lšalʔšaki ; mata ; hotaʔwaapamaawaali ; niʔki ; peepečkoθički ; kšake ; nanaʔpi ; paaši ; wiišaleʔθe ; hina ; mekinʔhwe
+        E ; when (;) they appear to be pregnant; sometimes ; [?] ; somebody [(animal)?] ; when he gets killed ; he makes death twitch ; not ; they shouldn't look at him ; those ; ones who are pregnant ; because ; sometimes ; it seems ; he starts (to)/will breathe ; that ; animal
+    ]
+
+    3 [
+        S ; hiini ; yeʔwaapamaawaači ; yeʔlenaweewiči ; hina ; hapeloʔθa
+        E ; that's ; when they look at him ; when he is born ; that ; child
+    ]
+
+    4 [
+        S ; hiini ; waači (;) nanaʔpi ; haalikalawiči ; hometenekooli ; nili ; mekinʔhweeli ; yelʔšalʔšakiiliči
+        E ; that ; why ; sometimes ; he can't talk ; he is affected by him ; by that; animal ; when he twitches sideways
+    ]
+
+    5 [
+        S ; hiini ; wayaači ; kwteleči ; waʔšiwaapamaači ; yškweewa ; weela ; hileni
+        E ; that's (why) ; (why?) ; he gets advised ; so that she looks at him ; the woman ; or ; man
+    ]
+
+    6 [
+        S ; hiini ; yeeši ; lenaweewiči ; šaawanwa ; meškwilookayeeta ; yaayopi
+        E ; that's ; when ; he is born ; Shawnee ; one who has red skin ; so they say
+    ]
+
+    7 [ 
+        S ; hiini ; yeeki
+        E ; that's ; wat it is 
+    ]
+
+    8 [
+        S ; teepweewe ; mata ; neeloʔči ; hiyoowe
+        E ; truth ; not ; unnecessarily ; the statement (the saying so)
+    ]
+}
+
+211 {
+    1 [
+        S ; wenoʔki ; wiyehi ; haʔteewi ; waapwa(=)šilawiiči ; hina ; hokiyeeli ; waapwa(=)miičiči ; naanaaʔpi ; yooni ; yaašimiičiči ; hini ; wiyehi ; yeʔmiičiči ; paapekwa ; hometeneko ; hina ; hapeloʔθa ; yeʔlenaweewiči
+        E ; now also ; something ; it is ; so that he does not do so ; that ; his mother ; so that she doesn't eat it ; sometimes ; here ; when she eats ; that ; something ; when she eats it ; also ; he is affected by it ; that child ; when he is born
+    ]
+
+    2 [
+        S ; hiini ; waači čaaki  šinaakoθiwaači ; hapeloʔθaki ; yeepwaahotakeeletamowaači ; yeleelemeči ; hiini ; kiišenaači ; yeeši=lenaweewiči ; yaama ; lenawe ; taʔpečkoθiči ; meči ; kwteletiiwena ; waʔneekataki ; yehoweši ; neekataki ; mata ; čaaki ; yaašinaakoθihi ; honiičaanʔhi ; hiini ; wayaači ; kčitaweeletamowaači ; yeešilenaweewiwaači
+        E ; that's ; the way they all appear ; the children ; when they don' t obey it ; the way they get thought about ; that's ; hardship; when they are born ; this ; people ; when pregnant ; many ; rules ; which he follows ; when he follows it good ; not ; all ; they appear (disfigured) ; his children ; that's ; reason ; they guard, watch it (rules) ; when they are (born)
+    ]
+
+    3 [ 
+        S ; šapkahi ; hiini ; yeeki ; yaayopi
+        E ; of course; that's ; as it is ; they always say
+    ]
+}
+
+212 {
+    T [Webbed Feet at Birth]
+
+    1 [
+        S ; nanaʔpi ; hapeloʔθa ; yeʔlenaweewiči ; takoθite ; paaši ; halʔka ; yeeleθiteeči
+        E ; sometimes ; baby ; when he is born ; he has webbed feet ; it seems ; like goose ; he is by nature
+    ]
+
+    2 [
+        S ; hiinayina ; hokeeli ; wiyehi hoteši=waapalaačimaali ; yeeleθiteeliči ; nili ; mekinʔhweeli
+        E ; that's that ; mother of his ; something ; she there made fun of him ; the way he (obv.) is by nature ; that ; animal
+    ]
+
+    3 [
+        S ; hiini ; wayaači ; mišinaakoθiwaači ; niʔki ;hapeθoʔθaki ; yeeʔlenaweewiwaači  
+        E ; that's ; why ; they appear so ; those ; babies ; when they were born
+    ]
+
+    4 [
+        S ; hiini ; weeči=kwteleči ; ykweewa ; weela ; hileni ; waʔšipwa ; wiyehi ; waapalaačimaači ; wiyeeθali yeešinaakoθiliči ; yaawaki ; niʔki weewaakotakki ; yeešθetaweči ;hotelenaweewiiwenwa
+        E ; that's ; why ; she got advised ; the woman ; or ; man ; so that not ; something ; she would make fun of him ; somebody ; how he appears ; they always say ; those ; ones who know ; the way he got fixed (MP) ; for their life
+    ]
+
+    5 [ 
+        S ; kwiilahi ; manetoowi ; kšake ykweewa ; hiini ; yeepoonači ;holaamataaθali ; hiini ; waači ; hoči=neekatamowaači ; yeešθeki ; hiine ; kwteletiiwe ; yaayopi
+        E ; [?] ; he becomes powerful ; because ; woman ; that's ; when she has him ; her unborn child ; that's ; way ; they follow it ; what is fixed ; [the(n)?] ; the rule ; so they say
+    ]
+}
+
+213 {
+    T [Six Fingers at Birth]
+
+    1 [
+        S ; hoowe ; noʔki ; kwaakwtelooθooki ; mayaani ; lenaweeki ; weški ; taʔwiiša ; neewaawaači ; hapeloʔθali ; mata ; niišene ; hotahakita ; weyehi ; niišene ; θaʔlaapakitaki
+        E ; now ; also ; they are always advised ; young ; people ; at first ; place where ; they will see him ; the baby ; not ; twice ; he-neg.-counts it ; something ; twice ; which he counts over again
+    ]
+    
+    2 [
+        S ; hiini ; wayaači ; naananaʔpi ; yeʔlenaweeniči ; hapeloʔθa ; nanaʔpi ; nekotwaʔθwi ; piyeči ; holečiwi ; weela ; nekotwaʔθwi ; hoθitehi ; yaayopi
+        E ; that's ; why ; sometimes ; when he is born ; the baby ; sometimes ; 6 ; comes to ; have fingers ; or ; 6 ; his toes ; so they say
+    ]
+
+    3 [
+        S ; hiini ; waači ; nileθiwaači ; hapeloʔθaki
+        E ; that's ; why ; the[y] are so naturally ; babies
+    ]
+}
+
+214 {
+    T [Minus Hands at Birth]
+
+    1 [
+        S ; wenoʔki ; yeʔpečkoθiwaači ; mata ; hotaʔkiškikaʔkolaali ; wiyeeθiiθali ; neenʔθekwiliči 
+        E ; now also ; when they are pregnant ; not ; she-neg-cuts leg off him ; somebody (animal) ; when he (obv.) is killed 
+    ]
+
+    2 [
+        S ; yeʔkiškikaʔkolaači ; hometenaali ; nili ; hapeloʔθali
+        E ; when she cuts his leg off ; she affects him ; that ; baby
+
+    ]
+
+    3 [
+        S ; nanaʔpi ; kiškinʔke ; hapeloʔθa ; weela ; kiškikaate
+        E ; sometimes ; he is without an arm ; the baby ; or ; he is without a leg
+    ]
+    
+    4 [
+        S ; hiini ; paaši ; mišinaakoθiwaači ; hapeloʔθaki ; yeepwa ; neekatameliči ; hoʔθali ; weela ; hokeeli ; yaayopi
+        E ; that's ; it seems ; the way they appear ; the babies ; when he doesn't follow it ; his father ; or ; his mother ; so they say
+    ]
+}
+
+215 {
+    T [Birth Feet First]
+
+    1 [
+        S ; wenoʔki ; ykweewa ; hiini yeešilenaweeniči ; kwteletiiwe waʔši ; θiiθakkweʔšiki ; nanaʔpi ; kala ; paaši ; wiišaloʔθe ; payeekwa ; noota ; kiiwe 
+        E ; now also ; woman ; that's ; where (a baby) he is born ; rule ; so that ; he puts his head out the door ; [??] ; it seems ; she will go out ; but ; from there ; she returns 
+    ]
+    
+    2 [
+        S ; hiini ; wayaaši ; koošenaačhekoči 
+        E ; that's ; why ; he is made to have hardships by it
+    ]
+
+    3 [
+        S ; hapeloʔθali ; yeewiiša=neewaači ; nanaʔpi ;  hoθiteki ; wiiša=hočilenaweewi 
+        E ; the child ; when she will see him ; sometimes ; at his foot ; he will be born from there
+    ]
+
+    4 [
+        S ; hiini ; yeʔkwaakotekwiiči ; ykweewa ; waači[=]hiini[=?]leθiči ; yaayopi ; weela ; hoʔθali ; hiini ; yeešilawiiliči ; hiini ; waači kiišenaačhetiwaači ; waačhameeθaki ; yaayopi
+        E ; that's ; when she always turns back ; the woman ; that's the way he is by nature ; so they say ; or ; his father ; (when) ; he does that ; that's ; that's the way they make hardships for each other ; the married persons ; so they say
+    ]
+}
+
+216 {
+    T [foetus goes up instead of down for birth]
+
+    1 [
+        S ; noʔki ; nekotweelena ; naaneekatamowaači ; waačhameeθaki ; hileni ; weela ; hina ; ykweewa ; yeewiiša nepaawaači ; mata ;  yelʔkwaʔšinowaači ; hotaʔpoonaanaawa ; hopiitenikanwa 
+        E ; also ; one thing ; which they follow ; married persons ; man ; or ; that ; women ; when they will prepare to sleep ; not ; where they lay their head ; they-neg-place ; their clothes
+    ]
+
+    2 [
+        S ; hiini ; yeʔpwa ; nišilawiiwaači ; hiini ; waači ; hotooneki ; waawiišaheeki ; niʔki ; hapeloʔθaki ; yeʔwiiša ; lenaweewiči ; yaayopi
+        E ; that's ; so that ; not they do so ; that's ; the way ; thru her mouth ; they will go ; those ; babies ; when ; he will be born ; so they say
+    ]
+
+    3 [
+        S ; hiini ; weeka ; talaaka ; wiyehi ; yeešikaʔšinowaači ; yeʔpoonamowaači ; hopiitenikanwa 
+        E ; that's ; in contrast ; nothing ; as they lay their foot there ; where they place it ; their clothes
+    ]
+
+    4 [
+        S ; hiini ; howeša ; talaakwa wiyehi ; yaayopi ; hiinooči howešilenaweewi ; hapeloʔθa ; yaayopi
+        E ; that's ; it is good ; nothing (but) ; so they say ; that's from (conditions) ; he is well born ; the baby ; so they say
+    ]
+}
+
+217 {
+    T [Cross-Position of Foetus]
+
+    1 [
+        S ; howenoʔki ; kwteletiiwe ; waʔšipwaapiipemičšiki ; tθaneki ykweewa ; weela ; hileni ; teki keʔpiipemičšinepwa ; tθaneki ; yaalooθooki 
+        E ; now again ; a rule ; so that neg-he lays [across?] ; on the bed ; the woman ; or ; man ; "you pl. mustn't lay cross ways ; on the bed" ; they are always told
+    ]
+
+    2 [
+        S ; waawiʔkaata ; yeeʔwiiša(=)neewaači ; hapeloʔθali ; ykweewa hiini ; θapa ; waačipemiššiki ; hapeloʔθa ; yaayopi
+        E ; sometime in the future ; when she will see him ; the baby ; the woman ; that's ; presumably ; why he lays across ; the baby ; so they say
+    ]
+
+    3 [
+        S ; hokaakii[=]šen[a]ačhekooli ; ykweewa ; yaayopi
+        E ; she had hardships made for her by him (baby in cross-position) ; woman ; so they say
+    ]
+}
+
+218 {
+
+    T []
+
+    1 [
+        S ; noʔki ; waačhameeθaki ; mata yaʔwiiwaapamooki ; weela ; waapamote ; teki ; wiyehi ; weʔliilaapeška ; yaayopi 
+        E ; those (?) ; married person ; not ; they always look in mirror ; or ; if he looks in mirror ; don't ; anything ; he will make all kinds of faces ; so they say
+    ]
+
+    2 [
+        S ; weeka ; čaaki ; l[a]apeškaate ; hiini ; weʔpiyečišinaakoθiliči ; mili ; honiičaanali ; lenaweewilite ; yaayopi 
+        E ; in contrast ; [if?] ; he makes all face ; that's ; the way he (obv.) will come to appear ; that [mili? nili?] ; his child ; whenever he is born ; so they say
+    ]
+
+    3 [
+        S ; hiini ; waači ; kwteleči ; yeʔpečkoθiwaači ; waačhameeθaki ;  yaayopi 
+        E ; that's ; why ; he gets advised ; when they are pregnant ; married persons ; so they say
+    ]
+
+    4 [
+        S ; howenoʔki ; wiyehi ;  šinanaʔpaačinaakoθiye ; lenawe ; teki ; čaaki ; kehila ; yaalooθooki ; waačhameeθaki 
+        E ; now again ; something ; whenever he appears to be pitiful ; person ; "don't ; (all?) ; you tell him ; all (of the way he appears) ; they are always told ; married persons
+    ]
+    
+    5 [
+        S ; čaakiilate ; wiiyeeθa ; hiini ; weʔpiyeči ; šinaakoθiči ; kiniičaana ; waawiʔkaata ; noošaalate ; hapeloʔθa
+        E ; whenever you (sg.) tell him all ; somebody ; that's the way he will come ; to appear ; your child ; sometime in the future ; whenever you take care of him ; baby
+    ]
+
+    6 [
+        S ; hiini ; waači ;  nišinaakoθiwaači ; hapeloʔθaki ; yeewaapalaateškoweeliči ; hokeeli ; weelake ; hoʔθali  ; yaayopi
+        E ; that's ; the way ; they appear ; babies ; when she (obv.) speaks ugly words ; his mother ; or ; his father ; so they say
+    ]
+
+    7 [
+        S ; hiini ; weeči ; kwaakoči[=]neekatamowaači ; yooloma ; kwteletiiwena ; yeeši[-]lenaweewiči ; ykweewa ; noʔki ;hileni ; yaayopi
+        E ; that's ; why ; they always try to follow it ; these ; rules ; the way she lives ; woman ; also ; man ; so they say
+    ]
 }
