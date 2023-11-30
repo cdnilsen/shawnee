@@ -104,6 +104,10 @@ noošaal-
 
     loc. /holakeʔkwikaaneki/
 
+olaʔθwa
+    NA
+    'buckskin'
+
 oneewaali
     VTA
     'he sees him'
@@ -149,6 +153,10 @@ paaši
 pekwi
     NI
     'ashes
+
+pemaʔkamekatwi
+    VII
+    'it is carried away (as world)
 
 peeleko
     PT
