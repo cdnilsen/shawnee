@@ -9,7 +9,7 @@ Mss.497.3.B63c:
 Siebert: 
     IV (Native American Languages and Cultures):
         Box 30, " Bible Passages in Indian Text"
-        Box 70, " Penobscot Texts on Floppy Disk" 
+         
         Box 30, " Calendar of State Papers, Colonial Series, America and West Indies, London. Also Winthrop's Journal (Typed notes, largely concerning history of Long Island Indians)"
         Box 30, " Case, J. Wickham, (Joseph Wickham).Southold Town Records Copied and Explanatory Notes"
         Box 30, " Collections of the Massachusetts Historical Society" 
@@ -28,7 +28,16 @@ Siebert:
         Box 33, "Pequot Indian Vocabulary"
         Box 33, "Records of the Town of Jamaica Long Island, New York, 1656-1751"
         Box 33, "Shinnecock Vocabulary"
-        Boxes 71-74, " Unidentified Card Files"
+    
         Box 36, "115 Eliot Bible Reconstruction: Analysis"
         Box 36, "116 Eliot Bible Reconstruction: Analysis"
-        Box 45, "Pocket Notebook"
+        
+	Box 45, "Pocket Notebook"
+	
+	Box 70, " Penobscot Texts on Floppy Disk"
+	Boxes 71-74, " Unidentified Card Files"
+
+Voegelin:
+Shawnee Notebook #13 (page 3 of story 100) (box series VI)
+"Unique Shawnee Texts," box series Vb: CA-UN
+"Unidentified", Box Series II: Document Box: B-U
