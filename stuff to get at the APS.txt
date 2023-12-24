@@ -2,8 +2,6 @@ Mss.497.3.B63c:
     Mahican:
 
     A1k.1
-    A1k.2
-    A1k.3
     A1k.4
 
 Siebert: 
@@ -16,10 +14,12 @@ Siebert:
         Box 30, "Columbus and America" ("Contains photocopy of fragment of nineteenth-century document describing Columbus' voyage, written in English and unidentified Native American language;")
         Box 30, " Documents Relating to the Colonial History of the State of New York"
         Box 30, "Epistle Dedicatory"
+        Box 30, "Dwight, Timothy, 1752-1817. Travels on Long Island"
         Box 31, "[Indian Text], Photocopied pages of manuscript written in unidentified language"
         Box 32, " Language of the Algonquins of Long Island and the Adjacent Mainland" 
         Box 32, " Linguistic Notes - Harrington Journal of American Folklore (Includes Martha's Vineyards Records)"
         Box 32, " Massachusetts Archives List"
+        Box 32, " Mahican"
         Box 33, " Miscellaneous Notes and Clippings"
         Box 33, " Narragansett Vocabulary" 
         Box 33, " New York Historical Society Collections"
