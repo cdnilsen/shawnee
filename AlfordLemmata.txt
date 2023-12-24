@@ -1,0 +1,4053 @@
+-eh <[future]> Preverb
+-ih <[irrealis]> Preverb
+-tehe <[thinking, thoughtful, feeling]> V [(-)tehi; -tehe]
+aʔpalʔkiiwe <footstool> NI [ha?papi, (-)hpapi]
+čaakakitečaakatθwi <ninety-nine> 
+čaakam <consume> TA
+čaakat <devour> TI / TI_1
+čaakatamaw <devour> TA
+čaakateθ <burn up> TI / TI_1
+čaakatθwi <nine> 
+čaaki <all, every>  [caak-, caak(y)-]
+čaakilot <consume> TI / TI_1 [caak-, caak(y)-]
+čaakišaʔte <withered, wilted>  [sa?te]
+čaalayini <so, therefore> 
+čaanii <John> NA / NA_NAME
+čaatenii <Jordan> NI / NI_NAME
+čaateniiwi <Jordan> Premodifier
+čaayaʔki <all>  [caak-, caak(y)-]
+čačeepi <several, various> 
+čačinal <hit> TA
+čaʔtawaačim <witness against, accuse> TA [ca?taw-]
+čaʔtawaačimo <witness> AI [ca?taw-]
+čaʔtawaačimooθoowe <accusation> NI [ca?taw-]
+čaʔtokwaat <mend, fill> TI / TI_1
+čaʔtokwe <mend, fill> II
+čaʔtokwen <mend, fill> TI / TI_1
+čaki <little, small> Premodifier
+če <[interjection: positive; calling attention]> 
+čeealašii <Jairus> NA / NA_NAME
+čeečeešipetekθetaw <recompense> TA [peteki]
+čeečeešt <make equal> TI / TI_2
+čeečeleθiim <be equal to> TA
+čeečešhaaki <make equal> TA
+čeekapii <Jacob> NA / NA_NAME
+čeekiiθa <ass> NA
+čeelati <Jared> NA / NA_NAME
+čeemʔši <James> NA / NA_NAME
+čeetθwi <in a group> 
+čeeyeʔkoθiiwe <end> NI
+čeeyeʔkwa <be the end, be last> II
+čeeyeʔkwaʔkoweewe <judgment> NI
+čeeyeʔkwaʔkoweewi <judgment> Premodifier
+čeeyeʔkwatwi <be the end, be the last> II
+čeeyeʔkwi <end, last> Premodifier [hkw-]
+čeeyeʔkwiiθa <last one> NA [hkw-]
+čeeyeʔkwiiwe <end> NI [hkw-]
+čeeyeʔkwilot <bring to an end> TI / TI_1 [hkw-]
+čeeyekwaʔkamikatwi <end> II [hkw-]
+čehi <to, unto> 
+čelekoo <Jericho> NI / NI_NAME
+čelemaaya <Jeremiah> NA / NA_NAME
+čene <Jannai> NA / NA_NAME
+češii <Jesse> NA / NA_NAME
+čhiine <and, then> Conjunction
+čiθhika <spear, staff> NI
+čih <lo [interjection]> 
+čiʔθeeletamaw <marvel at> TA [ci?f- (ci?s- before -i-)]
+čiʔθeθi <be astonished, be afraid> AI [ci?f- (ci?s- before -i-)]
+čiʔθeθiiwe <fear, astonishment> NI [ci?f- (ci?s- before -i-)]
+čiʔθena <? fear ?> NI [ci?f-]
+čiʔkaw <rebuke> TA
+čihoošiθetii <Jehoshaphat> NA / NA_NAME
+čiʔšitehe <be astonished> AI [(-)tehi; -tehe]
+čiikath <sweep> TI / TI_1
+čiikathoote <be swept> II
+čiikikeepičika <plow> NI
+čiikikeepitaawe <plow> AI
+čiikilečeška <stretch out the hand> AI [(-)lec-]
+čiikinʔkeelwa <stretch out the hand> AI / AI+O
+čiikinʔkeem <swear> TI / TI_2
+čiikinʔkeem <swear> TA
+čiikinʔkeemoom <swear> TA
+čiikinʔkeemoowe <oath> NI
+čiikinʔkeemot <swear> TI / TI_1
+čiikinʔkeeška <stretch out the hand> AI
+čiikoniweʔθi <thief> NA
+čiilwe <shout> AI
+čiipa <ghost, spirit> NA [ciipa]
+čiipathw <pierce> TA [ciip-]
+čiišišii <Jesus> NA / NA_NAME
+čiišišiiwi <be Jesus> AI
+čikonaaya <Jechoniah> NA / NA_NAME
+čkon <leave (in place)> TA [ckw-]
+čkonooθo <be kept, be left> AI [ckw-]
+čoena <Joanna> NA / NA_NAME
+čoloošeelemii <Jerusalem> NI / NI_NAME
+čooena <Joanna> NA / NA_NAME
+čooeneni <Joanan> NA / NA_NAME
+čooθemii <Jotham> NA / NA_NAME
+čoolemii <Joram> NA / NA_NAME
+čoolimi <Jorim> NA / NA_NAME
+čoome <row> AI
+čoona <Jonah> NA / NA_NAME
+čoonemi <Jonam> NA / NA_NAME
+čooša <Jew> NA / NA_NAME
+čoošaya <Josiah> NA / NA_NAME
+čoošeki <Josech> NA / NA_NAME
+čoošii <Joseph> NA / NA_NAME
+čoošiši <Joses> NA / NA_NAME
+čoota <Judah> NA / NA_NAME
+čootašii <Judas> NA / NA_NAME
+čoote <Joda> NA / NA_NAME
+čotye <Judaea> NI / NI_NAME
+čotyeewi <Judaea> Premodifier
+einani <Aenon> NI / NI_NAME
+elaačim <report> TA
+elaačimekoθiiwe <report> NI
+elaačimo <report> AI
+elaačimooθo <be spoken about> AI
+elaačimoowe <report> NI
+elaakwaaθiiwe <time, era> NI
+elaakwaam <time, season> NI
+elaapam <see, look at> TA [w- (+ -aapa-)]
+elaapat <see, look at> TI / TI_1 [w- (+ -aapa-)]
+elaapatamaw <see, look at> TA [w- (+ -aapa-)]
+elaapyeʔšinoowe <group (in a succession)> NI
+elaapyeʔšinwa <be in succession> II
+elaʔkowaaθo <be judged> AI
+elaʔkowaaθoowe <judgment> NI
+elaʔkowaal <judge> TA
+elaʔkowaaleti <judge [reciprocal]> AI
+elaʔkowaašiwe <judge> AI
+elaʔkowaašiweewe <judgment> NI
+elaʔkowaat <judge> TI
+elaʔkowe <judge> AI
+elaʔkoweewe <counsel> NI
+elakim <consider, account as, value> TA
+elakimooθo <be valued> AI
+elaš <clothe> TI / TI_3 [-see, -esee, -asee]
+elaš <clothe> TA [-see, -esee, -asee]
+elašeewe <clothing> NI
+elašekhw <clothe> TA [-see, -esee, -asee]
+eleelem <value, esteem, desire> TA [-eele- (+ -m-, -ta)]
+eleelemekoθi <be valued, be worthy> AI [-eele- (+ -m-, -ta)]
+eleelemekoθiiya <worthy> II [-eele- (+ -m-, -ta)]
+eleelemekwatwi <be valued> II [-eele- (+ -m-, -ta)]
+eleelet <value, esteem, desire> TI / TI_1 [-eele- (+ -m-, -ta)]
+eleeletamaw <require, grant> TA [-eele- (+ -m-, -ta)]
+eleškamaw <send> TA
+eleškaw <send> TA
+eleškooθo <be sent> AI
+ešθa <enter> II
+ešθat <send> TI / TI_2
+ešθataw <send> TA
+ešθatoote <be sent> II
+ešθe <fall> AI
+ešθeeya <fall> II
+ešθenwi <fall upon> II
+ešh <make, cause to become> TA
+ešhooθo <be made> AI
+ešiʔšimoowe <voice> NI
+ešilawi <do> AI / AI+O
+ešilawiʔt <do to something> TI / TI_1
+ešilawiʔtaw <do something to someone> TA
+ešilawiiwe <deed> NI
+ešilokeewe <sickness> NI
+ešilwe <make such a sound> II
+ešimekoθiiwe <authority> NI
+ešin <call, name> TA
+ešin <be involved in, be concerned with> TI / TI_1
+ešinaakoθiiwe <appearance> NI [nen-, new-, nee- (nookw-, naakw-)]
+ešinamo <undergo> AI
+ešinamoowe <death, decrease> NI
+ešitehe <think, wish> AI [(-)tehi; -tehe]
+ešiteheewe <will, wish, thought> NI [(-)tehi; -tehe]
+ešiteheeya <wish, want [inanimate subject]> II [(-)tehi; -tehe]
+ešiwel <lead, take> TA [-we-, -eewe- (+ -l-, -to)]
+ešiweletiiwe <carrying away> NI [-we-, -eewe- (+ -l-, -to)]
+ešiwet <take, carry> TI / TI_2 [-we-, -eewe- (+ -l-, -to)]
+ešiwetaw <carry> TA [-we-, -eewe- (+ -l-, -to)]
+ešt <make> TI / TI_2
+eštanwi <? fall upon ?> II
+θaaθiʔkaan <strain out, sift out> TA
+θaaθookθet <grind> TI / TI_2
+θaakiči <outside>  [faak-]
+θaakičiwel <let out, put out> TA
+θaakinwi <grow, spring up> II [faak-]
+θaakipakinwi <sprout> II [faak-]
+θaapiimehi <a little while> 
+θaθaʔkweewe <purification> NI
+θaθaʔkwi-hočike <fast, go without food> AI [fafayaaky- / hocike]
+θaθaʔkwi-holelh <baptize> TA [fafayaaky- / holelwi]
+θaθaʔkwi-holelhiwe <baptize> AI [fafayaaky- / holelwi]
+θaθaʔkwi-holelhiweewe <baptism> NI [fafayaaky- / holelwi]
+θaθaʔkwi-holelhiwena <baptizer, baptist> NA [fafayaaky- / holelwi]
+θaθaʔkwi-holelhooθo <be baptized> AI [fafayaaky- / holelwi]
+θaθaʔkwi-holelwi <be baptized> AI [fafayaaky- / holelwi]
+θaθaʔkwi-holelwiiwe <baptism> NI [fafayaaky-]
+θaθakikinoote <be pressed> II [fak-, fook-]
+θaθaya <clean> II [fafayaaky-]
+θaθayaakh <clean> TA [fafayaaky-]
+θaθayaakhooθo <be made clean> AI [fafayaaky-]
+θaθayaakhooθoowe <cleansing> NI [fafayaaky-]
+θaθayaakiθi <be clean> AI [fafayaaky-]
+θaθayaakilot <make clean> TI / TI_1 [fafayaaky-]
+θaθayaakitoote <be made clean> II [fafayaaky-]
+θaθayaakiya <be clean> II [fafayaaky-]
+θaθayaakt <clean> TI / TI_2 [fafayaaky-]
+θaʔθikaaθo <be broiled> AI
+θakaaki <with difficulty> 
+θakθ <burn> TI / TI_1
+θakθamaw <burn> TA
+θakθikeewipooteθamaačika <burnt offering> NI
+θakθo <burn> AI
+θakθoote <be burned> II
+θakθw <burn, ignite> TA
+θakhikana <nail> NA
+θakiθiteepiθoowe <fetter> NI [fak-, fook-]
+θakikaapiθoowe <fetter> NI [fak-, fook-]
+θakikeeškaw <press> TA [fak-, fook-]
+θakikwehika <yoke> NI [fak-, fook-]
+θakikwehoowe <yoke> NI [fak-, fook-]
+θakilečeen <take by the hand> TA [(-)lec-]
+θakinaapyaal <lead away> TA
+θakinaapyaalooθo <be led away> AI
+θakkeʔkaw <press, crowd> TA [faKky-]
+θakte <burn> II
+θanoel <phaneul> NA / NA_NAME
+θatyašii <Thaddaeus> NA / NA_NAME
+θayaakitehe <pure in heart> AI [fafayaaky-]
+θayookin <get hold of> TA
+θeθikwi <smooth> II
+θekikawiikweewe <tear> NI
+θekoowe <spittle> NI
+θekwaatamaw <spit on> TA
+θekwiwa <spit> AI
+θiaaθilaš <Theophilus> NA / NA_NAME
+θiiθekwaal <spit on> TA
+θiiθekwaalooθo <be spit upon> AI
+θiikeʔka <spill> II [fiiky-]
+θiikθenwi <be spilled> II [fiiky-]
+θiikhoote <be shed> II [fiiky-]
+θiikičeepičika <press (for making wine)> NI [fiiky-]
+θiikin <pour, spill> TI / TI_1 [fiiky-]
+θiikinamaw <pour on> TA [fiiky-]
+θiikinamawooθo <be poured, be shed> AI [fiiky-]
+θiipi <river> NI [fiipi]
+θilapii <Philip> NA / NA_NAME
+θilipaayi <Philippi> NI / NI_NAME
+θookin <hold> TA [fak-, fook-]
+θookin <hold> TI / TI_1 [fak-, fook-]
+θookinoote <be held> II [fak-, fook-]
+ha <[interrogative]> 
+haa <ah [interjection]> 
+haačθ <plant> TI / TI_2
+haačiiwikamikwi <tabernacle> NI
+haačim <speak about> TA [haat- (+ -i-m, -ota)]
+haačimo <speak about> AI / AI+O [haat- (+ -i-m, -ota)]
+haačimoʔtaati <say to [reciprocal]> AI [haat- (+ -i-m, -ota)]
+haačimoʔtaw <say, declare> TA [haat- (+ -i-m, -ota)]
+haačimoowe <narrative> NI [haat- (+ -i-m, -ota)]
+haakaštaš <Augustus> NA / NA_NAME
+haakičθ(aa|ee) <fall> AI
+haakičθaawe <fall> NI
+haakičθeeya <fall> II
+haakšini <ox> NA
+haakwaškwahooθo <be caught in a net> AI [haakw-]
+haakwaškwha <draw, gather in a net> AI [haakw-]
+haakwaškwhaaka <net> NI [haakw-]
+haakwaškwhaawe <net> NI [haakw-]
+haalakh <cut out> TI / TI_1
+haalawin <reject> TI / TI_1 [haalaw-]
+haalawina <refuse> AI
+haalawinaw <reject> TA [haalaw-]
+haalhoθiiweni <disappear> II [haalw-]
+haalimeθye <Arimathaea> NI / NI_NAME
+haaloθiiya <fail> II
+haalooθo <be said> AI
+haalwaten <cannot bear> TI / TI_1
+haalwi <[fail, not be able]> Preverb
+haamaamʔθenwi <spill over> II [m?f-, m?s-, me?s-]
+haameškaw <send away> TA [haami]
+haami <be away> AI [haami]
+haamwel <lead away, take away> TA [-we-, -eewe- (+ -l-, -to) / haami]
+haamwet <take away, carry away> TI / TI_2 [-we-, -eewe- (+ -l-, -to) / haami]
+haamwetaw <carry (for)> TA [haami]
+haaneʔθa <daughter> NA
+haanʔka <yea [interjection]> 
+haanweʔše <doubt> AI
+haanweʔšeew <doubt> TA
+haapaθataw <answer> TA
+haapaθše <answer> AI
+haapaθšeewe <anwer> NI
+haapaθt <answer> TI / TI_1
+haapaθtaw <answer> TA
+haapam <see> TA [-aape; -aapi; -aapa-]
+haapataw <answer> TA
+haapathoowe <staff> NI
+haapeθiiwe <resurrection> NI [haap-]
+haapeθiiwi-honʔškaawe <resurrection> NI [haap- / hone-]
+haapeθiiwi-honʔškaaweni <have a resurrection> AI [haap- / hone-]
+haapeθiiwi-honʔškaawi <resurrection> Premodifier [haap- / hone-]
+haapeteθi <hurry> AI
+haaph <cause to regain life> TA
+haašiteθhooθo <be crucified> AI [haasit- (+ -ee-, -ask-)]
+haašiteθhooθoom <be crucified with> TA [haasit- (+ -ee-, -ask-)]
+haašiteθhw <crucify> TA [haasit- (+ -ee-, -ask-)]
+haašiteʔθeki <cross> NI
+haašoon <exchange> TI / TI_1 [haasoo-]
+haašoonikaati <exchange [reciprocal]> AI [haasoo-]
+haašoonike <exchange> AI [haasoo-]
+haašoonikeʔθi <one who exchanges> NA [haasoo-]
+haateθaki <hour> NI
+haateθamoowe <hour> NI
+haaten <remove> TA [haaci, haat-]
+haatot <tell, speak about> TI / TI_1 [haat- (+ -i-m, -ota)]
+haatotamaw <tell, speak about> TA [haat- (+ -i-m, -ota)]
+haatotoote <be spoken about> II [haat- (+ -i-m, -ota)]
+haayaayeli <laugh> AI
+haayiičθe <be secured, be bound> II [haayit-]
+haayiiči <secure> Preverb [haayit-]
+haayiičiθeto <make secure> TI / TI_2 [haayit-]
+haayiičit <make secure> TI [haayit-]
+haayiičšim <make secure> TA [haayit-]
+haayiičšinwa <cling to> AI / AI+O [haayit-]
+haayiičtoote <be made secure> II [haayit-]
+haayiitaʔpiθoowe <bond, constraint> NI [haayit-]
+haayiitaten <hold, cling to> TI [haayit-]
+haayiitaten <cling to> TA [haayit-]
+haayiiteelem <cling to> TA [haayit-]
+hačko <conceive> AI
+hačši <being compared> AI
+haθipit <bundle> TI / TI_2
+haʔčika <plant> NI
+haʔčike <sow, plant> AI [ha?t, ha?f, (-)ht-]
+haʔθawikaanaško <thistle> NA
+haʔθo <extinguish, go out> AI [haa- (+ -?fw-, -?fa)]
+haʔkapatwi <withered> II
+haʔkapwilečeewe <withered hand> NI [(-)lec-]
+haʔkaw <wait for, anticipate> TA [ha?kaw-, (-)hkaw-]
+haʔkawaaθi <expect, be in expectation> AI
+haʔkawaapam <wait for> TA [ha?kaw-, (-)hkaw-]
+haʔkaweʔše <listen> AI [ha?kaw-, (-)hkaw-]
+haʔkaweʔt <listen> TI / TI_1 [ha?kaw-, (-)hkaw-]
+haʔkaweʔtaw <listen> TA [ha?kaw-, (-)hkaw-]
+haʔkom <cry to> TA
+haʔkonehaw <wait for> TA [ha?kaw-, (-)hkaw-]
+haʔkowaal <judge> TA
+haʔkowihi <after> 
+haʔkwatkaawe <anguish> NI [ha?kw-]
+haʔkwatwi <emotionally heavy> II
+haʔkweelem <love> TA [ha?kw-]
+haʔkweelemekoθi <beloved> AI [ha?kw-]
+haʔkweelemiwe <love> AI [ha?kw-]
+haʔkweelemiweewe <love> NI [ha?kw-]
+haʔkweelemooθo <be loved> AI [ha?kw-]
+haʔkweelet <love> TI / TI_1 [ha?kw-]
+haʔkweeletamaw <withhold, (cherish away from)> TA [ha?kw-]
+haʔkweeleti <love [reciprocal]> AI [ha?kw-]
+haʔkweeletii <beloved> NA [ha?kw-]
+haʔkweeletiiwe <love> NI [ha?kw-]
+haʔkwi <bad, suffering> Premodifier [ha?kw-]
+haʔkwi <serious, extreme> Preverb [ha?kw-]
+haʔkwi-hawoočika <weapon> NI [ha?kw-]
+haʔkwiišin <suffer, undergo> TI / TI-O [ha?kw-]
+haʔkwikiteewe <anger, wrath> NI [ha?kw-]
+haʔkwilaašamamoowe <travail> NI [ha?kw-]
+haʔkwiloke <sick> AI [ha?kw-]
+haʔkwilokeewe <disease, sickness> NI [ha?kw-]
+haʔkwilokeewileni <sick man> NA [ha?kw-]
+haʔkwimawinaʔka <suffer> AI [ha?kw-]
+haʔkwin <suffer> TI / TI-O [ha?kw-]
+haʔkwina <suffer> AI [ha?kw-]
+haʔkwinal <hurt, harm> TA [ha?kw-]
+haʔkwinamoowe <torment, hell> NI [ha?kw-]
+haʔkwinamoowi <of hell> Premodifier [ha?kw-]
+haʔkwipenal <harm> TA [?pena- / ha?kw-]
+haʔkwitehe <be grieved> AI [(-)tehi; -tehe / ha?kw-]
+haʔkwiteheeweni <have pain> AI [(-)tehi; -tehe / ha?kw-]
+haʔpanaʔkeʔθečika <foundation> NI
+haʔpapiiwe <seat> NI [ha?papi, (-)hpapi]
+haʔpeelemekwanwi <hallowed> II
+haʔpeeletiiwe <envy, covetousness> 
+haʔpoweewe <dream> NI
+haʔšam <feed> TA
+haʔšamooθo <be fed> AI
+haʔši <in addition, more> 
+haʔt <sow, plant> TI / TI_2 [ha?t, ha?f, (-)ht-]
+haʔtaw <sow> TA [ha?t, ha?f, (-)ht-]
+haʔteeweθiiya <be quenched> II
+haʔteewi <exist, be located> II
+haʔtehoote <be extinguished> II
+haʔtehw <extinguish> 
+haʔtel <accuse, reproach> TA
+haʔtoočim <request solemnly, adjure> TA
+haʔtooθo <be sown> AI [ha?t, ha?f, (-)ht-]
+haʔtoote <be sown> II [ha?t, ha?f, (-)ht-]
+haišaya <Isaiah> NA / NA_NAME
+haišiki <Isaac> NA / NA_NAME
+haitoomye <Iudmaea> NI / NI_NAME
+hakaaw <need> TA
+hakaawaačiileθi <need> AI
+hakaawaaθi <need> AI
+hakaawaaθiiwe <need, lack> NI
+hakaawaat <need> TI / TI_1
+hakaawaatameewe <need> NI
+hakaawaatetwi <be needed> II
+hakhwi <be on, be over> II [hakw- (+ -aa-, -t-, -et-)]
+hakimawike <enroll> AI
+hakimawikeewe <enrollment> NI
+hakinaye <observe, adhere to> AI
+hakit <count> TI / TI_1 [hak-]
+hakitaʔθo <settle accounts> AI [hak-]
+hakitaʔθoom <settle accounts> TA [hak-]
+hakočikami <roof> NI
+hakočipokwaneθo <upper, above>  [hakw- (+ -aa-, -t-, -et-)]
+hakooθiwe <ascend> AI
+hakowihi <in addition> 
+hakwaʔθet <bring to land> TI / TI_2
+hakwaʔšinwa <come to land> AI
+halaakwa <star> NA
+halaane <yonder> 
+halah <[interrogative]> 
+halahootamoowe <voice, crying out> NI
+halalika <grow, become more> V [hali- (+ -wi, -ka)]
+halanooθo <be invited> AI
+halayine <that, yonder, further> 
+halayini <such, thus> 
+hale <[inchoative]> Preverb
+halemaapyeen <compose> TI / TI_1
+halemaʔkamikatwi <begin> II
+halemaʔkeʔθenwi <be begun> II
+halemahoot <cry out> TI / TI-O
+halemʔθ <approach> AI
+halemiiya <begin> AI
+halen <bid, ask; warn> TA
+halenooθo <be invited, be bidden> AI
+halʔθwaačilawiiwe <transgression> NI
+halʔθwaačilot <transgress> TI / TI_1
+halʔθyaš <Alphaeus> NA / NA_NAME
+haliθiet <Olive> NI / NI_NAME
+haliθiwi <olive> Premodifier
+halika <more>  [hali- (+ -wi, -ka)]
+halikaamehi <further>  [hali- (+ -wi, -ka)]
+hališka <overcome> TI / TI_1
+hališkait <convict> TI / TI_1
+hališkaw <overcome> TA
+haliweelemooθoowe <favor> NI
+haliwi <above, greater>  [hali- (+ -wi, -ka)]
+halool <hire> TA [haloo-]
+haloola <laborer> NA [haloo-]
+haloolaaka <servant> NA [haloo-]
+haloolaakaaθa <servant> NA [haloo-]
+haloolaakaniikweeθa <handmaid> NA [haloo-]
+haloolaakanileni <servant> NA [haloo-]
+halooši <aloes> NI
+halotaaθiiwe <punishment> NI
+halotaaθoowe <punishment, vengeance> NI
+halotamaw <avenge> TA [halotam-, (-)halota]
+halotamoowe <vengeance> NI [halotam-, (-)halota]
+halotaw <avenge> TA [halotam-, (-)halota]
+halwaakaʔši <rest> AI
+halwaakaʔši <in rest, at rest> Preverb
+halwaakaʔšiiwe <rest> NI
+halwaakaʔšiwe <observe the sabbath> 
+halwaakaʔšiweewe <sabbath> NI
+halwaakaʔšiwi <in rest, at rest> Preverb
+halwaakaʔšiwi <be the sabbath> II
+halwaakaʔšiwiiwe <sabbath> NI
+halwiʔkaat <walk past> TI / TI_1
+hamačh <wake up> TA [hama- (+ -mo, -t-)]
+hamamo <wake up> AI
+hamw <consume, eat> TA [hamw-]
+hamwa <eat (implied animate object)> AI [hamw-]
+hanaʔka <cushion> NA [hana?ka]
+hanaʔkwaški <top, pinnacle> NI
+hanaʔkwi <tip> NI
+hanhiwee <win> AI [han-]
+hanhiweewahoot <cry out exceedingly> TI / TI-O [han-]
+hanhiweewatkaawe <great torment> NI [han-]
+hanhiweewi <very> Preverb [han-]
+hanʔka <yea [exclamation]> 
+hanʔkawi <interlaced; as a chain> Preverb [han?k- (+ -wi, -aw-)]
+hanʔtaw <surpass> TA [han-]
+hapa <Abba> NA / NA_NAME
+hapačšinwa <lean> AI
+hapaʔkweewe <roof> NI
+hapaʔkweʔθečika <roof> NI
+hapaʔkweʔθiwakkwa <roof tile> NA
+hapaiča <Abijah> NA / NA_NAME
+hapakilečeewi <with the palm of the hand> Preverb [(-)lec- / hapky-]
+hapašiwakhoowe <hedge> NI
+hapeloʔθa <child> NA
+hapeloʔθiwi <be a child> AI
+hapen <sacrifice> TI / TI_3
+hapenawe <sacrifice> NI
+hapenawe <sacrifice> AI
+hapiim <be with> TA
+hapiiwe <presence> NI
+hapiiya <exist, be located> II
+hapim <be with> TA
+hapiwa <exist, be located> AI
+hapiwe <presence> NI
+hapkawh <lay flat on> TA [hapky-]
+hapkeen <weave, plait>  [hapky-]
+hašaʔkičeʔθe <go backward> AI
+hašenh <destroy> TA [has- (+ -e-, -en-, -in-)]
+hašenwa <pass, go away> AI [has- (+ -e-, -en-, -in-)]
+hašenwi <pass, go away> II [has- (+ -e-, -en-, -in-)]
+hašiški <land, earth> NI [hasiski]
+hašiškinoomeškaawe <earthquake> NI
+hašiškiwakkwa <earthenware vessel> NI [hasiski]
+hašowe <in exchange; across> 
+hatooči <solemnly> Preverb
+hattawašši <being on one's back>  [haTtawa?f-]
+hattee <ripe> II
+haw <use> TI / TI_3
+hawaθo <warm oneself> AI
+hawh <lend> TA [haw-]
+hawhiwe <lend> AI [haw-]
+hawikaneθoowika <porch> NI
+hawikanʔškaw <overshadow> TA
+hawikaw <write to, write for> TA [hawike]
+hawike <write> AI [hawike]
+hawoočika <equipment, furnishing> NI
+hawoot <wear, carry> TI / TI_1
+hay <use for; use as a name for> TA
+haya <pet, domesticated animal> NA [hay-]
+hayačkoθi <conceive> AI
+hayenwi <? when, if ?> 
+heele <in, along> 
+heelekiina <among> 
+heelekšenʔta <Alexander> NA / NA_NAME
+heelepeeštaawi <alabaster> Premodifier
+heemen <amen> 
+heenʔtlo <Andrew> NA / NA_NAME
+heepayeeθa <Abiathar> NA / NA_NAME
+heešaye <long time, long ago> 
+heewa <go> AI
+heewikaate <bond, debt, bill> NI
+heewikaateeki <book, piece of writing> NI [hawike]
+heewikaki <shadow> NI
+heewike <scribe> NA [hawike]
+heeya <go> II
+heeyiita <on both sides> 
+heθekšeti <Arphaxad> NA / NA_NAME
+hehešii <Ahaz> NA / NA_NAME
+hei <hail [interjection]> 
+hekeeleaši <Archelaus> NA / NA_NAME
+hekimi <Achim> NA / NA_NAME
+hel <say to [direct speech]> TA
+hel <compare to> TI / TI_1
+helani <Aaron> NA / NA_NAME
+helekhi <midst> NI
+helepeeštawakokooθa <alabaster vessel> NA
+heletii <Herod> NA / NA_NAME
+heletiiθa <Herodian> NA / NA_NAME
+helootiašii <Herodias> NA / NA_NAME
+hemani <Amon> NA / NA_NAME
+hemaši <Amos> NA / NA_NAME
+hemeaši <Emmaus> NI / NI_NAME
+heminitepii <Amminadab> NA / NA_NAME
+hemoowimelaaši <honey> NI
+hena <Arni> NA / NA_NAME
+henaši <Annas> NA / NA_NAME
+henʔčali <angel> NA
+henna <Anna> NA / NA_NAME
+hepaiča <Abijah> NA / NA_NAME
+hepaitii <Abiud> NA / NA_NAME
+hepalii <Abel> NA / NA_NAME
+hepaštali <apostle> NA
+hepeliini <Abilene> NI / NI_NAME
+heplehemii <Abraham> NA / NA_NAME
+heša <Asher> NA / NA_NAME
+hešii <Asa> NA / NA_NAME
+hešikaaya <Hezekiah> NA / NA_NAME
+hešlaa <Esli> NA / NA_NAME
+hešlanii <Hezron> NA / NA_NAME
+hešo <Azor> NA / NA_NAME
+het <say> TI
+heta <Addi> NA / NA_NAME
+hetami <Adam> NA / NA_NAME
+hičeptii <Egypt> NI / NI_NAME
+hiθlami <Ephraim> NI / NI_NAME
+hiilaa <heli> NA / NA_NAME
+hiiploo <Hebrew> NI / NI_NAME
+hiiploowaatoweewe <Hebrew> NI / NI_NAME
+hiiploowawikaate <written in Hebrew> II
+hikwakit <throw away, cast> TI / TI_1
+hikwatwi <worthy of, fated for> II
+hikweθa <maid> NA
+hikwiʔθeki <? middle ?> 
+hikwiileθi <be as far as; die> AI
+hikwinamoowe <death, destruction> NI
+hilai <Eli> NA / NA_NAME
+hilaiča <Elijah> NA / NA_NAME
+hilaikamii <Eliakim> NA / NA_NAME
+hilawaatot <compare> TI / TI_1
+hilaweh <compare> TA
+hileelem <judge> TA [-eele- (+ -m-, -ta)]
+hileθi <be thus> AI
+hileθiʔt <withstand> TI / TI_1
+hileθiim <be thus (with)> TA
+hileθiiwe <spirit> NI
+hileθiiwen <character, spirit> NA
+hileθiiya <be thus> II
+hileθiyot <be over, be in charge of> TI / TI_1
+hileni <man, person> NA
+hiliatii <Eliud> NA / NA_NAME
+hiliiiša <Eliezer> NA / NA_NAME
+hilišipeθ <Elizabeth> NA / NA_NAME
+hiliyeeša <Eleazar> NA / NA_NAME
+hilmetami <Elmadam> NA / NA_NAME
+hiloi <eloi [Aramaic word]> 
+hilooθo <be told> AI
+himenoel <Emmanual> NA / NA_NAME
+hinaka <Enoch> NA / NA_NAME
+hinaši <Enos> NA / NA_NAME
+hinawi <be (this person)> AI
+hine <then, at that time> 
+hiniši <there> 
+hinoki <now, at this time> 
+hinwi <be so, happen so> II
+hipa <Eber> NA / NA_NAME
+hiši <about, for, toward> 
+hišiwe <say> AI
+hiškeeletii <Iscariot> NA / NA_NAME
+hišwiila <Israel> NI / NI_NAME
+hit <ask for> TI / TI_1
+hiti <say [reciprocal]> AI
+hitolie <Ituraea> NI / NI_NAME
+hitwa <be such> AI
+hiwa <say (so)> AI
+hiyoowe <saying> NI
+hiyooya <say, mean> II
+ʔkawaači <waiting for, anticipating> Preverb [ha?kaw-, (-)hkaw-]
+ʔkoθi <at the extreme> AI [hkw-]
+ʔkoška <at the limit> AI [hkw-]
+ʔkwaaweθiiwe <fullness> NI [ho?kw- (+ -aaw-)]
+ʔkwi <[extent]> Preverb
+ʔkwiinami <perish> AI [hkw-]
+ʔkwin <perish> TI / TI-O [hkw-]
+ʔkwinamo <perish> AI [hkw-]
+ʔkwineh <destroy, cause to perish> TA [hkw-]
+ʔkwineya <perish> II [hkw-]
+hočačaalaʔkoθiiwe <spirit> NI
+hočačaalaʔkowi <spirit> NI
+hočačaalaʔkowiiya <be spirit> II
+hočačaalaʔkwa <spirit> NA
+hočeekiileθi <decrease> AI
+hočeekin <shorten> TI / TI_1
+hočeekinoote <be shortened> II
+hočeeninaali <brother, same-sex sibling> NA / NA_DEP
+hočeepkaʔkatwi <root> NI
+hoči <from, because of> Preverb
+hoči <from, because of> Postposition
+hočiθeya <be from, come from> II
+hočih <act for the sake of> TA
+hočiikin <put forth> TI / TI_1
+hočiikwanah-keeptaw <kneel to> TA [(-)ciikwa(n-)]
+hočiikwanaʔkeepi <kneel> AI [(-)ciikwa(n-)]
+hočiikwani <knee> NI / NI_DEP [(-)ciikwa(n-)]
+hočike <fast, go without food> AI [hocike]
+hočikeewe <fasting> NI [hocike]
+hočikeh <cause to fast> TA [hocike]
+hočikikatwi <blow (from)> II
+hočimekoθiiwena <authority> NA
+hočine <die of, die from> AI
+hočiwi <be from> II
+hočiwi <be from> AI
+hočiwiiya <be from> II
+hočtanwi <flow from> II
+hoθaamh <persecute> TA [hofaam-]
+hoθaamʔkaakwiiwe <overindulging> NI [hofaam-]
+hoθaami <too much> Preverb [hofaam-]
+hoθaamilaakwiiya <be overcome> II [hofaam-]
+hoθaamilawiiwe <excess> NI [hofaam-]
+hoθaamilepwa <feeling excessively>  [hofaam- / lepwa]
+hoθaawakokwa <brass vessel; brass> NA
+hoθaawimoni <gold coin> NI
+hoθeeθema <older brother> NA / NA_DEP [(-)?feefa, (-)?fiimeefa]
+hoθemiyokiiθa <mother-in-law> NA
+hoθemya <daughter-in-law> NA
+hoθepaačilawiiwe <dedication> NI [hofep-]
+hoθepaʔkamikatwi <heaven> II [hofep-]
+hoθepaten <wrap> TA [hofep-]
+hoθepeelem <reverence, give respect to> TA [-eele- (+ -m-, -ta) / hofep-]
+hoθepeθi <holy> AI [hofep-]
+hoθepeθiiwe <holiness> NI [hofep-]
+hoθepekamoowe <hymn> NI [hofep-]
+hoθepi <holy> Premodifier [hofep-]
+hoθepiini <likewise> 
+hoθepikamikwi <sanctuary> NI [hofep-]
+hoθepilawiiwe <purifying, making holy> NI [hofep-]
+hoθepilot <purify, make holy> TI / TI_1 [hofep-]
+hoθepilotooθo <be cleansed> AI [hofep-]
+hoθepšim <lay> TA [hofep-]
+hoθepya <holy> II [hofep-]
+hoθiči <foot> NI / NI_DEP [(-)fit-, -fite, -al?fite]
+hoθiʔθa <nest> NI [w?fi?fa]
+hoθiimema <younger person> NA
+hoθimaawi <be a father> AI
+hoʔθ <have as father> AI
+hoʔθali <father> NA / NA_DEP
+hoʔšihooθo <be betrothed> AI
+hokaačiwakokwa <pot> NA
+hokakeʔkimaaθim <have as disciple> TA [kake?k-]
+hokakeʔkimaaθimi <have as disciple> AI [kake?k-]
+hokakiišekanemi <have the day (live in the time of)> AI
+hokanaatepi <skull> NI
+hokani <bone> NI
+hoki <mother> NA
+hokima <king> NA [hokima]
+hokimaawh <make (someone) king> TA [hokima]
+hokimaawi <be chief, king, in charge> AI [hokima]
+hokimaawi <chief; of a king> Premodifier [hokima]
+hokimaawiiwe <kingdom [as rule, reign?]> NI [hokima]
+hokimaawikaa <house of a king> NI [hokima]
+hokimaawilenii <chief person> NA [hokima]
+hokimaawipetakhoowe <crown> NI [hokima]
+hokimaawitaamʔkwe <kingdom [as region?]> NI [hokima]
+hokimaawiykwe <queen> NA [hokima]
+hokimaawoošaaka <prince> NA [hokima]
+hokimaawt <rule, reign over> TI [hokima]
+hokimaawtaw <rule, reign over> TA [hokima]
+hokokoškwi <tender> II
+hokwaan <chain> NA
+hokwaaweθi <full, fill with> AI [ho?kw- (+ -aaw-)]
+hokwaaweθiiweniwi <have fulfillment> II [ho?kw- (+ -aaw-)]
+hokwaawθenwi <fill> II [ho?kw- (+ -aaw-)]
+hokwaawθet <fill, fulfill> TI / TI_2 [ho?kw- (+ -aaw-)]
+hokwaawθetoote <be filled, be fulfilled> II [ho?kw- (+ -aaw-)]
+hokwaawi <fully> Preverb [ho?kw- (+ -aaw-)]
+hokwaawilawi <fulfill> AI [ho?kw- (+ -aaw-)]
+hokwakweʔtaaneeletamaw <marvel at> TA
+hokwani <heel> NI / NI_DEP [(-)kwani]
+hokweekaka <neck> NI / NI_DEP [(-)?kweekaka, -?kweekane, -?kwe, -?kwe-]
+hokwiʔθali <son> NA / NA_DEP [(-)kwi?fa, (-)kwi?fy-, (-)kwf-]
+hokwiʔθenwi <fill> II [ho?kw- (+ -aaw-)]
+hokwiʔθet <fill> TI / TI_2 [ho?kw- (+ -aaw-)]
+hokwiʔθetoote <be filled> II [ho?kw- (+ -aaw-)]
+hokwiʔθi <have as son> AI
+hokwiʔθin <have as son> TA [(-)kwi?fa, (-)kwi?fy-, (-)kwf-]
+hokwiʔšino <fill> AI / AI+O [ho?kw- (+ -aaw-)]
+hokwiʔšinoowe <fulfillment> NI [ho?kw- (+ -aaw-)]
+hokwikamh <fill> TA [ho?kw- (+ -aaw-)]
+hokwikami <fill up> II [ho?kw- (+ -aaw-)]
+hokwikami <fill up> AI [ho?kw- (+ -aaw-)]
+hokwikomh <fill> TA [ho?kw- (+ -aaw-)]
+holaaka <dish> NI
+holaako <be over, be past, after> 
+holaakoši <be over, be past, over> 
+holaakwiiθi <be over, be past, after> II
+holaakwiiθiwiʔθeni <eat the evening meal> AI [wi?feni]
+holaamahoot <cry out> TI / TI-O
+holaami <much, greatly> 
+holaamiʔšimo <cry out, use a loud voice> AI [holaam-]
+holaamowe <cry out> AI [holaam-]
+holaaya <Uriah> NA / NA_NAME
+holakeelho <go by boat> AI
+holakeeši <boat> NI
+holakwhe <fat> AI [holakw-]
+holečeeli <finger> NA / NA_DEP [(-)lec-]
+holeči <hand> NI / NI_DEP [(-)lec-]
+holeθi <good> AI
+holekwa <wing> NI
+holelhooθo <be washed> AI [holelwi]
+holelwi <wash> AI [holelwi]
+holemʔkwi <underside, ventral> Preverb [holem?kwii-]
+holenye <beast> NI
+holhaka <husk> NI [hol?haka]
+holowi <? put out branches, leaves ?> II
+holweʔt <sound> TI / TI_2
+homaamʔkaweelemooθooweni <have as memorial> AI [-eele- (+ -m-, -ta) / m?k-, miim?k-, -mi?k-]
+homanetoom <have as god> TA [maneto]
+homayaaotawaka <right ear> NI / NI_DEP [-?- (before -a), -?s- (before -e)]
+homekiiwe <sore> NI
+homʔtekwaapi <have armor> AI
+homiinʔkaan <seed> 
+homiišamaakeem <have as minister> AI
+homooya <come from, come out of> II
+homwa <come from> AI
+honaleščika <leaven> NI [hone-]
+honameʔθiwi <have as a fish> AI [name?fa]
+honete <be leavened> II [hone-]
+honʔška <rise> AI [hone-]
+honʔškaan <raise> TA [hone-]
+honʔškaan <raise> TI / TI_1 [hone-]
+honʔškaanamaw <raise> TA [hone-]
+honʔškaanooθo <be raised> AI [hone-]
+honʔškaawe <rising> NI [hone-]
+honiyeeweelena <four in number> Preverb
+hoopitii <Obed> NA / NA_NAME
+hoošena <hosanna> 
+hoowaawi <egg> NI [howaawi]
+hopahoot <cry out> TI / TI-O
+hopaten <build, raise up> TI / TI_1
+hopatenamaw <build, raise up> TA
+hopatenoote <be built> II
+hopeʔkwata <belly> NI / NI_DEP
+hopekateθiiweni <have work (verb of possession)> AI
+hopškweete <be leavened> II
+hošaaya <Uzziah> NA / NA_NAME
+hošašilaw <worship at> TI
+hošašilawaal <receive joyfully> TA
+hošašilawaat <rejoice> TI / TI-O
+hošašilawaatiim <rejoice with> TA
+hošašilawe <worship> AI
+hošašilaweh <worship> TA
+hošašilawem <rejoice> TA
+hošašilawemi <have as worshipper> AI
+hošašilepwa <rejoice> AI [lepwa]
+hošašilepwaawe <joy> NI [lepwa]
+hošašilepwaaweθi <rejoice> AI [lepwa]
+hošašilepwaaya <rejoice> II [lepwa]
+hošeʔki <side> NI / NI_DEP [(-)?se?ki]
+hošilawaal <salute> TA
+hošilawaaletiiwe <salutation> NI
+hošilawaat <salute> TI / TI_1
+hošilawaatiiwe <salutation> NI
+hošilaweewiʔšimoowe <voice of greeting> NI
+hošilem <marry> TA
+hošilet <marry> TI / TI-O
+hošilet <marry> TA
+hošimečθet <prepare> TI / TI_2
+hošimečθetaw <prepare> TA
+hošimeʔčilotamaw <prepare> TA
+hošimo <flee> AI [-esimo]
+hošimoowe <flight> NI
+hošit <flee from> TI / TI_1 [-esimo]
+hoškaʔkamiki <creation> NI
+hoškaʔkeʔθenwi <be created> AI
+hoški <first>  [hosk- (+ -ii-)]
+hoškiči <upon>  [hoskit-]
+hoškiima <brother [of a sister]> NA [hoskiima]
+hoškiišekowi <have an eye> AI [(-)?skiisekwi]
+hoškiišekowi <eye> Premodifier [(-)?skiisekwi]
+hoškiišekwi <eye> NI / NI_DEP [(-)?skiisekwi]
+hoškilenaweewi <be born> AI
+hoškilenaweewiiwe <birth> NI
+hoškilhakeeme <have leprosy> AI
+hoškilhakeemekiiwe <leprosy> NI
+hoškilhaki-mekiiwe <leprosy> NI
+hoškimota <cloth> NI
+hoškini <new> AI
+hoškiniikiiwi <birth> Premodifier
+hoškinwi <new> II
+hoškiša <lip> NI / NI_DEP
+hoškitaamʔkwe <earth> NI
+hoškitepye <upon>  [hoskit-]
+hoštaw <make (for)> TA
+hotaaθiwe <climb> AI
+hotaameθiiwe <over-abundance> NI
+hotaami <bring forth, produce> AI
+hotaanaaki <behind> 
+hotaanaakiθi <behind, last> AI
+hotaanaakiiθa <last person> NA
+hotaanaakiwi <be last> AI
+hotaape <look> AI [-aape; -aapi; -aapa-]
+hotaʔθa <here,hither> 
+hotaʔkoθatwi <rise> II
+hotaʔkowaaθo <judge> AI
+hotaʔkwilokeemi <have disease> AI
+hotahoot <cry out> TI / TI-O
+hotaʔpapit <receive> TI / TI_2 [hota?p-]
+hotaʔpen <receive> TA [hota?p-]
+hotaʔpen <receive> TI / TI_1 [hota?p-]
+hotaʔpenamaati <receive [reciprocal]> AI [hota?p-]
+hotaʔpenamaw <receive something from someone> TA [hota?p-]
+hotaʔpenooθo <be received> AI [hota?p-]
+hotaʔpenoote <be received> II [hota?p-]
+hotaʔpi <less> 
+hotaʔpičike <moor> AI
+hotaʔpiiθa <young, less> AI
+hotaʔpim <call, summon> TA [hota?p-]
+hotaʔpimooθo <be called, be summoned> AI [hota?p-]
+hotakeelem <honor> TA
+hotakeelemekoθiiwe <honor> NI
+hotakeelemekwileni <nobleman> NA
+hotakikaʔšinoowe <stumbling> NI [hotaky]
+hotakikaʔšinwa <stumble> AI [hotaky]
+hotakikaʔšinwi <stumble> II [hotaky]
+hotakonikeewe <bosom, chest> NI / NI_DEP
+hotakonyeewe <bosom, chest> NI / NI_DEP
+hotakoočino <be in suspense> AI
+hotaloolaakani <have as servant> AI
+hotameθiiwe <care, concern> NI
+hotamh <impede> TA [hotam-]
+hotamʔškaaweya <occupy, take up> II [hotam-]
+hotapeloʔθemi <have as a child> AI
+hotapeloʔθemina <have as a child> AI
+hotaten <receive from> TI / TI_1
+hotaten <receive from> TA
+hotatenike <receive> AI
+hotawaka <ear> NI / NI_DEP [-?- (before -a), -?s- (before -e)]
+hotay <have authority over> TA [ho- (before -t- usually)]
+hotayin <have authority over> TA [ho- (before -t- usually)]
+hoteeletamaw <require> TA
+hoteepaʔkowemi <have as judge> AI
+hoteepweemi <have as testimony> AI [teepwe]
+hoteepweeweni <have as testimony> AI [teepwe]
+hoteewe <city, town, village> NI [hoteewe]
+hoteeweni <city> Premodifier [hoteewe]
+hoteewenimyeewe <street> NI [hoteewe / miyeewi]
+hoteewenimyeewi <street> NI [hoteewe / miyeewi]
+hoteeweniwiškiloʔθa <sparrow> NA
+hoteθi <receive> AI
+hoteθihiweya <profit> II
+hotelya <shoulder> NI / NI_DEP [(-)telya]
+hotepašawaʔkowemi <have as judge> AI
+hotešimo <flee (from somewhere)> AI [-esimo]
+hotetwi <exist in, consist of> II
+hotθ <appear, come to> TA
+hotθaal <enter> TA
+hotθeti <come together [reciprocal)> AI
+hotikwema <sister> NA / NA_DEP
+hotkwipekateθiiwileni <carpenter> NA
+hotoon <mouth> NI
+hotoošaaka <offspring> NA
+hott <enter> TI / TI_1
+hottamaw <enter> TA
+hotwaači <to benefit> Preverb
+hotwaaθ <profit from> TA
+hotwaal <enter> TA
+hotweθi <receive> AI
+hotwen <deliver> TA
+hotwenika <recompense, excuse> NI
+hotwenikani <recompense> AI
+howaapalaači <shamefully> Preverb
+howaʔθaačimekoθiiweni <have glory> AI
+howe <say> AI
+howe <now, then> 
+howelaačim <speak well of> TA [howel-]
+howelaačimoom <agree with> TA [howel-]
+howelaakoom <treat well> TA [howel-]
+howeleelem <find pleasing> TA [-eele- (+ -m-, -ta) / howel-]
+howeš'šinwa <be suitable> AI [howel-]
+howeša <good> II [howel-]
+howešatwi <good> II [howel-]
+howešθe <good> II [howel-]
+howešθenwi <expedient, necessary, appropriate> II [howel-]
+howeši <good> Premodifier [howel-]
+howešiileθi <good> AI [howel-]
+howešilaašamamo <healthy> AI [howel-]
+howešilaašamamoowe <hail [health, as a greeting]> NI [howel-]
+howešilawi <do well> AI [howel-]
+howešilepwa <feel good, be glad> AI [howel- / lepwa]
+howešilepwaaθi <happy> AI [howel- / lepwa]
+howešilepwaawe <joy> NI [howel-]
+howešilepwaaweθi <happy> AI [howel- / lepwa]
+howešilepwaawi <gladly> Preverb [howel- / lepwa]
+howešilepwahooθo <be comforted> AI [howel- / lepwa]
+howešinaakwatwi <beautiful> II [howel-]
+howešitehe <kind> AI [(-)tehi; -tehe / howel-]
+howešiteheewe <kind heart> NI [(-)tehi; -tehe / howel-]
+howešpenal <do good to> TA [?pena- / howel-]
+howešpenaleθiiwena <benefactor> NA [?pena- / howel-]
+howiiθooweni <have the name> AI
+howiilaami <own> AI / AI+O
+howiilaamiiwe <possession> NI
+howiilaamin <own> TA
+howiiwi <have as wife, marry> AI [(w)-iiwa]
+ʔpap <sit> TI / TI_3 [ha?papi, (-)hpapi]
+ʔpenal <do to/for, cause> TA [?pena-]
+ʔpenalooθo <be caused, be done unto> AI [?pena-]
+ʔpenat <do with/to> TI / TI_2 [?pena-]
+ʔpenataw <do to/for> TA [?pena-]
+ʔpenatoote <be done> II [?pena-]
+ʔpene <have happen to> AI [?pena-]
+ʔpokwanwiʔt <season> TI / TI_2 [(?)pokwa-]
+ʔpokwanwiʔtoote <be seasoned> II [(?)pokwa-]
+iθθaθa <ephphatha [Aramaic]> 
+iʔpakil <throw> TA [pak-]
+iʔpakilooθo <be thrown> AI [pak-]
+iʔpakišiwe <throw> AI [pak-]
+iʔpakit <throw> TI / TI_1 [pak-]
+iʔpakitamaw <throw> TA [pak-]
+iʔpakiteelem <forsake>  [pak-]
+iʔpakiteelet <renounce> TI / TI_1 [pak-]
+iʔpakitoote <be thrown> II [pak-]
+ipeneewe <plague, disease> NI
+kaačiika <rather> 
+kaakalhwe <raven> NA
+kaakika <continually>  [kaakika]
+kaakilweeweθiiya <be tolerable> II
+kaakilweewenwi <be tolerable> II
+kaakilweewinamoowe <consolation> NI
+kaakkeʔši <stay> AI
+kaal <live near> TA
+kaamaani <peace> Premodifier
+kaamaaniileθiiwe <peace> NI
+kaamaaniileθiiwi <peace> Premodifier
+kaameʔkanwi <calm> II
+kaameʔkaweθiiwe <calm> NI
+kaameki <across, other side>  [kaame-]
+kaapawi <stand> AI
+kaapawiim <stand> TA
+kaapeni <korban [Aramaic]> 
+kaaša <beforehand> 
+kaawači <around>  [kaaw-]
+kaawačkoθo <be circumcised> AI [kaaw-]
+kaawatkoθoowe <circumcision> NI [kaaw-]
+kaawatkol <circumcise> TA [kaaw-]
+kaawi <thorn> NA [kaawi]
+kaawiiše <thorn> NA [kaawi]
+kaawilawe <afraid> AI
+kaawilaweewe <fear> NI
+kaayaawka <around, about>  [kaaw-]
+kaayaawkitaamʔkwe <surrounding region> NI [kaaw-]
+kaayaawkwi <surrounding> Premodifier [kaaw-]
+kaθh <wipe> TI / TI_1
+kaθhamaw <wipe> TA
+kaʔθiikwehoowe <towel> NI
+kaʔθilečehoowe <napkin> NI
+kaʔkalaamo <thirst> AI [ka?k-]
+kaʔkašaapileče <scorpion> AI [ka?k-]
+kaʔkite <dry up> II [ka?k-]
+kaʔši <rough>  [ka?s-]
+kakeelʔk <trample, tread on> TI / TI_1
+kakeelʔkaati <trample, tread [reciprocal]> AI
+kakeelʔkaw <trample, tread on> TA
+kakeelʔkoote <be trampled, be tread upon> II
+kakeepiikwa <blind person> NA [kip-, kipw-]
+kakeepiikwe <blind> AI [kip-, kipw-]
+kakeepiikweewi <blind> Premodifier [kip-, kipw-]
+kakeʔkim <teach> TA [kake?k-]
+kakeʔkima <teacher, master> NA [kake?k-]
+kakeʔkimaaθa <disciple> NA [kake?k-]
+kakeʔkimaaθihooθo <be made a disciple> AI [kake?k-]
+kakeʔkimaaθiim <make a disciple of> TA
+kakeʔkimiwe <teach> AI [kake?k-]
+kakeʔkimiwe <teacher> NA [kake?k-]
+kakeʔkimiweewe <teaching> NI [kake?k-]
+kakeʔkimooθo <be taught> AI [kake?k-]
+kakeʔkimoowe <teaching, counsel> NI [kake?k-]
+kakeʔkinootenamaw <motion to, make signs> TA
+kakilweeweθi <improve> AI
+kakiššim <bruise> TA [kis-]
+kalaweewiʔšimo <speak loudly> AI [kala-]
+kalaweewiʔšimoowe <voice> NI [kala-]
+kalawi <speak> AI / AI+O [kala-]
+kalawiʔšimoowe <voice> NI [kala-]
+kalawiiwe <word> NI [kala-]
+kalawiiwena <Word> NA / NA_NAME [kala-]
+kalawiiya <speak> II [kala-]
+kalʔkooθa <Golgotha> NI / NI_NAME
+kalhoot <crow> AI
+kalool <speak> TA [kala-]
+kalooleti <speak [reciprocal]> AI [kala-]
+kalooletiim <speak with> TA [kala-]
+kaloolooθo <be spoken to> AI [kala-]
+kaloošiwehooθo <be betrothed> AI [kala-]
+kamʔpeni <company, band> NI
+kamiki <house, clan> NI
+kaminiwaškwi <cumin> NI
+kanha <is it the case, could it be> 
+kapa <cross> AI
+kapehi <? otherwise ?> 
+kapenali <governor> NA
+kapenali <government> NI
+kapenaliiwi <be governor> AI
+kaptiina <centurion, captain> NA
+kašen <bear> TA
+kašʔkwe <sharp> II [kaskw-]
+katawaʔkonoote <be overcome> II
+katawatwi <be possible> II
+kataweθi <be able> AI
+katawešit <be able to flee> TI / TI_1 [-esimo]
+katawi <[can, be able]> Preverb
+katawi <be possible> II
+katawi <can, be able> AI
+katawiʔk <get, obtain> TI / TI_1
+katawiʔkaw <obtain> TA
+katawiʔkooθo <be persuaded> AI
+katawiileθi <can> AI
+katawiileθiiwe <ability> NI
+katemo <grown, mature> AI
+katemooya <grown, mature> II
+katenooθo <be reared> AI
+kateški <only> 
+katokwaamo <slumber, sleep> AI
+katokwaamoowe <sleep> NI
+katoneewe <infirmity> NI
+katoneewi <infirmity> Premodifier
+katowam <beseech> TA [katow-]
+katowe <beg> AI [katow-]
+katoweewi <beg> AI [katow-]
+kawaačθetooθo <be prepared> AI [ha?kaw-, (-)hkaw-]
+kawaaθi <attend to> AI [ha?kaw-, (-)hkaw-]
+kawaškwhaawe <reap> AI
+kawaškwhaawe <harvest> NI
+kawaškwhaaweewe <harvest> NI
+kawaškwi <wheat> NI
+kawaškwika <barn> NI
+kawaškwikitika <cornfield> NI
+kawh <cut down> TI [kaw-]
+kawhoote <be cut down> II [kaw-]
+kči <big, superlative> Premodifier [kt-, kc-]
+kčiʔkaawe <urge, be urgent> AI [kt-, kc-]
+kčiʔkaw <persuade, ask for> TA [kt-, kc-]
+kčiipiθo <be bound> AI [kt-, kc-]
+kčiipiθoowe <band> NI
+kčiipil <bind> TA [kt-, kc-]
+kčiipil <bind, tie> TI / TI_3 [kt-, kc-]
+kčiipite <be bound> II [kt-, kc-]
+kčiitaweθi <keep, observe> AI / AI+O [kt-, kc-]
+kčiiton <keep, observe> TI / TI_1 [kt-, kc-]
+kčiiton <keep, observe> TA
+kčiitonamaw <keep, observe> TA [kt-, kc-]
+kčiitone <keep, observe> AI [kt-, kc-]
+kčikaatiiwe <insistence> NI
+kčikamiiwatowa <sponge> NA
+kčikikileni <eldest person> NA [kt-, kc-]
+kčimaalešpihi <lowest>  [kt-, kc-]
+kčimečilooθi <least> AI [kt-, kc-]
+kčimečkwaaθinwi <least> II [kt-, kc-]
+kčimʔšiilakimooθo <be thought the greatest> AI [kt-, kc-]
+kčipto <run> AI [kt-, kc- / ptoo(-)]
+kčitawaaθi <take care, watch out for> AI [kt-, kc-]
+kčitawaaθiim <keep watch with> TA [kt-, kc-]
+kčitawaaθiiwe <heed> NI [kt-, kc-]
+kčitawaapam <watch> TA [kt-, kc-]
+kčitawaapat <keep watch on> TI / TI_1 [kt-, kc-]
+kčitawaapi <keep watch> AI [kt-, kc-]
+kčitawah <guard, keep safe> TA [kt-, kc-]
+kčitawahooθo <be kept under guard> AI [kt-, kc-]
+kčitawaʔt <guard, take heed, watch> TI / TI_2 [kt-, kc-]
+kčitawaʔtoote <be guarded> II [kt-, kc-]
+kčitaweelem <tend, take care of> TA [kt-, kc-]
+kčitaweelet <keep, observe> TI / TI_1 [kt-, kc-]
+kčitawθet <guard, keep safe> TI / TI_2 [kt-, kc-]
+kčiyeeši <? being observed ?> Preverb [kt-, kc-]
+keeananii <Cainan> NA / NA_NAME
+keeθšemeni <Gethsemane> NI / NI_NAME
+keekeepilenii <dumb person> NA [kip-, kipw-]
+keekeepitoneewi <dumb> Premodifier [kip-, kipw-]
+keekeepše <deaf> AI
+keekeepše <deaf person> NA
+keekeepšeewi <deaf> Premodifier
+keekiškaapkaʔki <steep place> NI
+keela <? that is to say ?> 
+keelelii <Galilee> NI / NI_NAME
+keeleliiwi <Galilee> Premodifier
+keeleliiwilenawe <Galilean> NA / NA_NAME
+keeleliiwileni <Galilaean> NA / NA_NAME
+keeleni <gallon> NI
+keelo <long (time), late> 
+keemali <camel> NA
+keemaliiwi <camel> Premodifier
+keemowaaki <rain> NI
+keena <Cana> NI / NI_NAME
+keenaniiwiikweewa <Canaanite woman> NA / NA_NAME [hkwee-, ...y?kwee-]
+keenaniiwileni <Cananaean> NA / NA_NAME
+keepaaniamii <Capernaum> NI / NI_NAME
+keepaiθa <Gabbatha> NI / NI_NAME
+keepyeel' <Gabriel> NA / NA_NAME
+keešite <heat, furnace> NI
+keešoweelem <be valuable to> TA
+keešoweelemekoθi <valuable> AI
+keeteliina <Gadarene> NA / NA_NAME
+keetemaašilepwaška <poor in spirit> AI
+keewaki <more, still, yet> 
+keeyeθešii <Caiaphas> NA / NA_NAME
+keʔθwi <how many> 
+keʔkiyaama <parent> NA
+keʔšilotaw <live with, lodge with> TA
+keʔta <old>  [ke?ta-]
+keʔtaačimoowe <tradition> NI
+keʔteeya <old> II [ke?ta-]
+kičima <fig> NI
+kičimiiša <fig tree [personified]> NA
+kičimiiši <fig tree> NI
+kičimiiwimʔtekwaapalwa <sycamore fig> NA [m?tekwi]
+kičitaam <stir up, exhort> TA [kicit-]
+kičitaamoowe <exhortation> NI [kicit-]
+kičitašk <execute, carry out> TI / TI_1
+kičithw <strike> TA [kicit-]
+kiθalʔθiteen <wash the feet> TA [(-)fit-, -fite, -al?fite / kify-]
+kiθalʔθiteeneti <wash the feet [reciprocal]> AI [(-)fit-, -fite, -al?fite / kify-]
+kiθiikwa <wash> AI [kify-]
+kiθileča <wash one's hands> AI [(-)lec- / kify-]
+kiθin <wash> TI / TI_1 [kify-]
+kiθin <wash> TA [kify-]
+kiθinikeewe <washing> NI [kify-]
+kiθino <wash> AI [kify-]
+kiθooθo <be hidden from> AI
+kiθoškaatiiya <be preserved> AI
+kihaačimo <deny> AI [haat- (+ -i-m, -ota)]
+kiʔθehwaačiʔk <endure, stand for> TA
+kiʔkiičšinwa <lame> AI
+kiʔkitonen <choke> TA [ki?ky-, ki?kimi]
+kiʔkitoneškaw <choke> TA [ki?ky-, ki?kimi]
+kiike <recover, get better> AI [kiike]
+kiikeen <be a shepherd to> TA
+kiikeenikaaθa <captive, bondservant, prisoner> NA
+kiikeenikana <captive, bond servant> NA
+kiikeenikani <in capture> Preverb
+kiikeenikanin <capture, hold in bond> TA
+kiikeh <heal>  [kiike]
+kiikehetiiwe <healing, cure> NI [kiike]
+kiikehiwe <heal> AI [kiike]
+kiikehooθo <be healed> AI [kiike]
+kiikeʔt <heal> TI / TI_2 [kiike]
+kiikeʔtaw <heal> TA [kiike]
+kiimaapačika <spy> NA [-aape; -aapi; -aapa- / kiim-]
+kiimeθi <secret> AI [kiim-]
+kiimi <privately, secretly> Preverb
+kiiminheθiiwe <subtilty> NI [kiim- / n?h-]
+kiimiwel <take away in secret> TA [-we-, -eewe- (+ -l-, -to) / kiim-]
+kiipekwaam <fall asleep> AI
+kiišaθwi <month> NI
+kiišeka <day> NI [kiiseki, kiiskwe; kiisa?fwa, kiisfwa]
+kiišeki <be day> II [kiiseki, kiiskwe; kiisa?fwa, kiisfwa]
+kiišeki <sun> NI
+kiišekikiišθwa <sun> NA
+kiišenaači <with difficulty> Preverb
+kiišenaačileniwi <be a strict person> AI
+kiišenaačinamoowe <tribulation> NI
+kiišenaačinwa <be in difficulty> AI
+kiišenaatetwi <difficult> II
+kiišenaatoweewe <difficult saying> NI
+kiišθwa <luminary, month> NA
+kiišhoowe <image> NI
+kiiškwe <day> NI [kiiseki, kiiskwe; kiisa?fwa, kiisfwa]
+kiiškwe <? awake ?> AI
+kiišoowaʔkwatwa <sycamore tree> NA [kiis-, kiisoo-]
+kiiwe <go back> AI [kiiwe]
+kikaamaaneθiiwe <rest, peace> NI
+kikaʔkwimi <kernel and cob of corn> NI [kikaa-, kika-]
+kikamooči <perhaps, suddenly>  [kamooci]
+kikatkwi <be conceived> AI
+kikatkwiʔtoote <be conceived> II
+kikeemoʔka <profess, prescribe> II
+kikeemoowe <doctrine> NI
+kikileni <elder, old person> NA
+kikin <follow, imitate, observe> TI / TI_1
+kikinoočipiitenika <phylactery> NI
+kikinooloowe <sign, miracle> NI
+kikinoolooweθiʔtaw <be a sign (for someone)> TA
+kikinoolooweni <have as a sign> AI
+kikinoolooweniwi <be a sign, be a miracle> II
+kikinootaačimo <signify> AI
+kikinootakite <significant> II
+kikinooteelemekoθi <notable> AI
+kikinootowe <signify> AI
+kikitoote <be hidden> II
+kilakakaw <console> TA
+kilakiθi <merry> AI
+kilakiθiiwe <merriness> NI
+kilakikaw <comfort> TA
+kilakiteheeweθi <rejoice> AI [(-)tehi; -tehe]
+kilekθenwi <mix with> II [kileky-]
+kilekθet <mix with> TI / TI_2 [kileky-]
+kilekθetoote <be mixed with> II [kileky-]
+kileki <with, accompanied by> Preverb [kileky-]
+kilekim <speak against> TA [kileky-]
+kilekin <have with, have in company> TA [kileky-]
+kilekin <have with> TI / TI_1 [kileky-]
+kilhama <rebuke> 
+kimootoowe <theft> NI
+kimootwa <steal> AI
+kimowaanwi <rain> II
+kinešoletiiwi <Gennesaret> NI / NI_NAME
+kinwi <long> II [kinw-,kin-]
+kiopit <cubit> NA
+kipakokwatwi <thick> II [kpak-]
+kiph <shut> TI / TI_1
+kiphamaw <shut> TA
+kipho <be imprisoned> AI
+kiphoote <be shut> II
+kiphotiiwe <prison> NI
+kiphotiiwikaan <prison> NI
+kiphw <lock up> TA
+kipiikweewh <cover the face> TA [kip-, kipw-]
+kipiikwepil <cover the face, blindfold> TA [kip-, kipw-]
+kipitoneewilenii <dumb person> NA [kip-, kipw-]
+kipitonwa <dumb> AI [kip-, kipw-]
+kipokwaat <sew> TI / TI_1
+kipooliikwen <close> TI / TI_1
+kipoškaamo <encircle> AI
+kipoškaw <encircle, throng> TA
+kipwiliikwen <make blind> TA [kip-, kipw-]
+kišaačh <bless> TA
+kišaačhiwe <serve> AI
+kišaači <freely> Preverb
+kišaačih <minister to> TA
+kišaačiileθiiwe <grace, blessing> NI
+kišaačike <bless> AI / AI+O
+kišaačikeewe <alms> NI
+kišaačilawi <bless> AI
+kišaačilot <bless> TI / TI_1
+kišaačilotaw <bless> TA
+kišaačimekoθi <be blessed> AI
+kišaačimekoθih <bless> TA
+kišaačimekwatwi <be blessed> II
+kišaačimiweewe <promise> NI
+kišaačipenal <minister to> TA [?pena-]
+kišaačit <bless> TI / TI_2
+kišaačiweeθiiwe <grace, blessing> NI
+kišaačiweθina <blessed one> NA
+kišaačiwi <be blessed> AI
+kišaačiwi <blessed> Premodifier
+kišaačiwiiwe <grace, blessing> NI
+kišaateelem <bless> TA
+kišaateelemekoθi <be blessed> AI
+kišaateelemekowh <bless> TA
+kišaateelemekwatwi <be blessed> II
+kišaateθi <bless> AI
+kišaatetiwi <blessed> II
+kišθ <offend, provoke> TA [kis-]
+kišθekwiiwe <anger> NI [kis-]
+kišθetiiwe <indignation> NI [kis-]
+kišθi <with anger> Preverb [kis-]
+kišθiweeθi <offend> AI [kis-]
+kišθooθo <be made angry> AI [kis-]
+kišθoowe <fever> NI [kis-]
+kišhooθo <be bruised> AI [kis-]
+kišiθikan <oven> NI
+kišiθoowe <fever> NI
+kišin <hurt> TA
+kišiteenaweewe <zeal> NI [kis-]
+kišiteewi <be hot> II [kis-]
+kiškaʔkiki <edge> NI [kisk-, kiskw-]
+kiškathika <sickle> NI [kisk-, kiskw-]
+kiškeʔšethw <cut off> TA [kisk-, kiskw-]
+kiškhika <sword> NI [kisk-, kiskw-]
+kiškhikani <have a sword> AI [kisk-, kiskw-]
+kiškhw <cut up, cut apart> TA [kisk-, kiskw-]
+kiškikwen <pluck> TI / TI_1
+kiškikwethw <behead> TA [kisk-, kiskw-]
+kiškinikanitalwaati <cast lots [reciprocal]> AI
+kiškinikanitalwaati <cast lots> AI
+kiškipyeeth <cut from> TI / TI_1 [kisk-, kiskw-]
+kiškot <cut> TI / TI_1 [kisk-, kiskw-]
+kišoweelemekwatwi <precious, costly> II [-eele- (+ -m-, -ta) / kisw-]
+kišoweelemekwi <precious, costly> Preverb [kisw-]
+kišowi <worth much> Preverb [kisw-]
+kišowileni <worthy person> NA [kisw-]
+kitapiθo <be girded> AI
+kitapiθoowe <belt> NI
+kitapiθooya <be girded> II
+kitapit <gird> TI / TI_2
+kitawilahi <often> 
+kite <and, in addition, plus> 
+kiteeni <any more>  [kiteeni]
+kiteewaθeʔka <rage> II
+kiteewe <anger, wrath> NI
+kitel <keep busy> TA
+kitema <poor> AI
+kitemaaθa <poor person> NA
+kiteminaakweelem <have compassion for> TA
+kiteminaakweelemeθi <merciful> AI
+kiteminaakweelemeθiiwe <mercy> NI
+kiteminaakweeletiiwe <mercy> NI
+kiteminaakwi <altruistic, in compassion> Preverb
+kiteminaakwiteheewe <compassion> NI [(-)tehi; -tehe]
+kiteniišwi <plus two> 
+kitlani <Kidron> NI / NI_NAME
+kitoʔθe <walk> AI
+kiyaačθe <secret> II [kiyaa-, kiyaaci-]
+kiyaači <secretly> Preverb [kiyaa-, kiyaaci-]
+kiyaačiileθiiwe <secret, mystery> NI [kiyaa-, kiyaaci-]
+kiyaačim <deny> TA [kiyaa-, kiyaaci-]
+kiyaačimo <deny> AI [kiyaa-, kiyaaci-]
+kiyaačimooθo <be denied> AI [kiyaa-, kiyaaci-]
+kiyaačitoote <be made a secret> II [kiyaa-, kiyaaci-]
+kiyaačiwi <secret> II [kiyaa-, kiyaaci-]
+kiyaačši <secret> AI [kiyaa-, kiyaaci-]
+kiyaateelet <deny, conceal> TI / TI_1 [kiyaa-, kiyaaci-]
+kkaʔki <be the year> II
+kkatoowi <have/be so many years> AI [kk-]
+kkatoowiiya <be so many years> II [kk-]
+kkatwi <year> NI [kk-]
+kkeʔši <dwell, lodge> AI [kke?si]
+kkeʔšiim <stay with> TA [kke?si]
+kkeʔšilotoote <be inhabited> II [kke?si]
+kkeʔšiwiika <inn> NI [kke?si]
+kkiθo <be hidden> AI [kk-]
+kkilečeepiθoowe <ring> NI [kky-, Kky-]
+kkit <hide> TI / TI_2 [kk-]
+kkitaw <hide> TA [kk-]
+kkwičθe <ascend> AI [kkwit-, Kkwit-]
+kkwičiwel <lead up> TA [-we-, -eewe- (+ -l-, -to) / kkwit-, Kkwit-]
+kkwičšinwa <go up> AI [kkwit-, Kkwit-]
+klaišti <be the Christ> AI
+klaištii <Christ> NA / NA_NAME
+kliiapaši <Cleopas> NA / NA_NAME
+kloopaši <Clopas> NA / NA_NAME
+kočh <tempt> TA [kocaye, kot-, koc-]
+koči <try> Premodifier
+kočiʔkaw <tempt> TA [kocaye, kot-, koc-]
+kočikeemaw <pray> TA
+kočikeemo <pray> AI
+kočileʔθi <tempter> NA [kocaye, kot-, koc-]
+kočim <ask, pray> 
+kočimaw <pray> TA
+kočitamaw <pray> TA
+koθaapyeeya <sink> II
+koθekoθi <heavy> AI [kofekw-]
+koθekolaakwi <be burdened> AI [kofekw-]
+koθekwa <austere> AI
+koθekwanwi <heavy> II [kofekw-]
+koθekwi <heavy> Premodifier [kofekw-]
+kokaati <hook> NI
+kokiʔtaw <turn to> TA
+kokiikweʔtaw <turn to> TA
+kokiiwa <turn> 
+kokoškwaaθi <tender> II
+kokwitapil <pull out, pull up> TA
+kokwiten <lift up, raise> TI / TI_1
+kokwiten <lift up, raise> TA
+kokwitenamaw <lift up, raise> TA
+kokwitenooθo <be lifted up> AI
+kola <soon> 
+kolahwaapanwi <be dawn, be morning> II [waap-]
+kolepen <roll> TA [kolep-]
+kolepen <overturn> TI / TI_1
+kolepenooθo <be rolled back> AI [kolep-]
+kolepi <turn> AI [kolep-]
+kolepi-pakitamaw <overturn> TA [kolep- / pak-]
+kolepk <prevail over> TI / TI_1 [kolep-]
+kolepkaam <persuade, prevail> TA [kolep-]
+kolepkaamooθo <be persuaded> AI
+kolepkaaweewe <victory> NI [kolep-]
+kolepkaaweya <prevail> II [kolep-]
+kolešinii <Chorazin> NI / NI_NAME
+komaalawi <Gomorrah> Premodifier
+komai <cumi [Aramaic]> 
+koočiwe <why> 
+kookhanwi <sink> II [kwk-]
+kooki <sink> AI [kwk-]
+kookin <dip> TI / TI_1
+kookin <dip> TA
+kookinamaw <dip (on behalf of someone)> TA
+kookinooθo <be dipped, be sunk> AI
+kookwe <[indefinite]>  [kookwe]
+kookwe-kaači <ever [indefinite]>  [kookwe]
+kookwe-kaači-laakwa <whenever>  [kookwe]
+kookwe-kaači-taši <wherever> Pronoun [kookwe]
+kookwe-laakwa <indefinite time>  [kookwe]
+kookwe-laakwa-kaači <wherever, whenever>  [kookwe]
+kookwe-laakwaši <eternal>  [kookwe]
+kookwe-neeθa <whoever> NA [kookwe]
+kookwe-neeθa-kaači <whoever> Pronoun [kookwe]
+kookwe-nehi-kaači <whatever> Pronoun [kookwe]
+kookwe-nehi-ši <whatever [premodifier]> Pronoun [kookwe]
+kookwe-taši-kaači <wherever> Pronoun [kookwe]
+kookweneeθiwi <be a stranger> AI [kookwe]
+kookwenehi <whatever>  [kookwe]
+kookweneʔši <whichever>  [kookwe]
+kooli <gold> NI
+kooloči <in addition to> 
+koolot <add to> TI / TI_2
+koolotaw <add to> TA
+koolotoote <be added> II
+koona <snow>  [koona]
+koošaami <Cosam> NA / NA_NAME
+kooti <coat, cloak> NI
+košaaši <Chuza> NA / NA_NAME
+koško <pig, swine> NA [kosko]
+kotaačimetiiwe <decree> NI
+kotaačimiweewe <ordinance> NI
+kotaʔkowaaθoowe <temptation> NI [kocaye, kot-, koc-]
+kotaʔkowaal <tempt> TA [kocaye, kot-, koc-]
+kotaka <other, another> Pronoun [kotaki, kotaka]
+kotakiši-kookwe-neeθa <stranger> NA [kookwe]
+kotakoočitaw <? weigh ?> TA
+kotat <taste> TI / TI_1
+kotaten <handle> TA
+kotekon <turn> TI / TI_1
+kotekon <turn> TA
+kotekonoote <be turned> II
+kotekwi <turn, return> AI [kotekwi]
+kotekwi <becoming, turning into> Preverb [kotekwi]
+koteletiiwitaamʔkwe <jurisdiction> NI [kw-]
+kotešiwe <forbid> AI [kw-]
+kotet <rebuke> TI / TI_1
+kšake <for, because> Conjunction
+ktapilekwa <gird, bind with a belt> TA [kt-, kc-]
+ktik <plant> TI / TI_3 [kt-, kc-]
+ktika <field> NI [kt-, kc-]
+ktikeewilenii <farmer> NA [kt-, kc-]
+kwaakon <swallow> TA
+kwaalakatwi <empty> II
+kwaʔkamikatwi <end> II [hkw-]
+kwakwaašakwi <wallow> AI
+kwakwaten <snatch, pluck> TA [kwakw-]
+kwakwaten <snatch, pluck> TI [kwakw-]
+kwakwatenamaake <snatch, pluck> AI / AI+O [kwakw-]
+kwakwatenamaw <snatch, pluck> TA [kwakw-]
+kwakwatenooθo <be snatched, be plucked> AI [kwakw-]
+kwakwečiʔkaw <tempt> TA [kocaye, kot-, koc-]
+kwakweʔtaaneelem <marvel at> TA
+kwakweʔtaaneelet <marvel at> TI / TI-O
+kwakweʔtaani <marvel> NI
+kwakweʔtaanitehe <marvel> AI [(-)tehi; -tehe]
+kwakweʔtaaniteheewe <amazement> NI
+kwakwetaki <various> 
+kwakwi <[quickly]> Preverb [kwakw-]
+kwakwi <run> AI [kwakw-]
+kwakwkot <cut off> TI / TI_1 [kwakw-]
+kwašθa <come down, descend> AI
+kweʔθ <fear> TA [kw-]
+kweʔkwi <if> Conjunction
+kweʔkwitoke <whether> 
+kwelepkooθo <be converted> AI
+kwena <at the time, on the occasion; by chance> 
+kwenaani <due> Premodifier
+kweyeʔkwi <immediately> 
+kwθ <fear> TA [kw-]
+kwθetiiwe <fear> NI [kw-]
+kwθooθo <be feared> AI [kw-]
+kwiiki <Greek> NA / NA_NAME
+kwiiki <Greek (language)> NI / NI_NAME
+kwiikiiwi <Greek> Premodifier
+kwiikiiwiikwe <Greek woman> NA / NA_NAME
+kwiikiiwilenawe <Greek person> NA
+kwiil <lack, miss, not find> TI / TI_1 [kwiilaa-, kwiila-]
+kwiilaaleθi <lack, miss, not find> AI [kwiilaa-, kwiila-]
+kwiilaani <lack, miss, not find>  [kwiilaa-, kwiila-]
+kwiilahi <must, necessarily>  [kwiilaa-, kwiila-]
+kwiilaʔšilepwah <distress> TA [lepwa]
+kwiilaʔšitehe <be in distress> AI [(-)tehi; -tehe]
+kwiilaʔšiteheewe <distress> NI [(-)tehi; -tehe]
+kwiilaw <miss, not find> TA
+kwiliiniaš <Quirinius> NA / NA_NAME
+kwpene <fear> AI [kw-]
+kwpeneewe <fear> NI [kw-]
+kwpeneya <fear> II [kw-]
+kwšiwe <fear> AI [kw-]
+kwšiweewe <fear> NI [kw-]
+kwt <fear> TI / TI_1 [kw-]
+kwtamh <hinder> TA [kw-]
+kwtel <rebuke> TA [kw-]
+kwteletiiwe <law> NI [kw-]
+kwteletiiwi <law> Premodifier [kw-]
+kyaalešiina <Gerasene> NA / NA_NAME
+laa <in> 
+laaθiwe <ascend> AI
+laakanooθi <light (not heavy)> II
+laakeeči <easily> Preverb [laakeet-]
+laakeeletawt <make light of> TI / TI_2
+laakoθw <few> 
+laakoom <treat as> TA
+laakwa <time, season; place> NI
+laakwaameθiiwe <time, season> NI
+laakwaameθiiya <be the season> II
+laakwaʔkamikatwi <be the time> II
+laakwaši <time> 
+laakweeweni <be the time> II
+laalakehoote <be hollowed out> II
+laalʔθwaačilot <transgress> TI / TI_1
+laamaʔkika <cellar> NI
+laamataaka <womb> NI
+laamataʔkeʔθečika <foundation> NI
+laameki <within> 
+laami <journey> AI
+laami <journey> AI
+laamitaʔθa <under> 
+laamotaaka <womb> NI
+laamotaw <be carried by [pregnancy]> TA
+laamyeʔθe <move in a direction, follow a course> II
+laapaačim <read, interpret> TI
+laapaatota <read, interpret> 
+laapaatotamaw <interpret> TA
+laapaatotoote <be interpreted> II
+laapačike <look> AI [-aape; -aapi; -aapa-]
+laapamooθo <be seen> AI [w- (+ -aapa-)]
+laape <face toward> AI [-aape; -aapi; -aapa-]
+laapeewe <face> NI
+laapeeya <face toward> II [-aape; -aapi; -aapa-]
+laapeška <face> AI [w- (+ -aapa-)]
+laapeška <face> II
+laapi <look, raise one's eyes> AI [w- (+ -aapa-)]
+laapi <inherited> Premodifier [laap-]
+laapičimooθo <have hung around> AI
+laapičimota <veil> NI
+laapičinwa <be hung around> AI
+laapičit <hang, suspend> TI / TI_2 [laapit-]
+laapičitooθo <have hanging around> AI [laapit-]
+laapiiwe <sight> NI
+laapilenaweewiiwe <regeneration> NI
+laapitenwi <hang> II [laapit-]
+laapitepeelečike <inherit> AI [laap-]
+laapitepeelečikeewe <inheritance> NI [laap-]
+laapitepeelet <inherit> TI / TI_1 [laap-]
+laapitephaw <repay> TA
+laapowe <rehearse, go over again> AI / AI+O [laap-]
+laapšinwa <inherit> AI / AI+O [laap-]
+laašeniaš <Lysanias> NA / NA_NAME
+laašiwe <descend> AI
+laašiween <let down, take down> TA
+laašiweʔθenwi <descend> II
+laašiweʔšinwa <descend> AI
+laašiwen <let down, take down> TI / TI_1
+laašiyoθe <descend> AI
+laatotamaw <speak of> TA
+laatotoote <be rumored> II
+laawatenamaatiiwe <remission> NI
+laawi <among, in the middle of> Preverb
+laawitaamʔkwe <region> NI
+laawtekwe <in midst of>  [laaw-, laa-]
+laʔkeeph <set, place> TA
+laʔkeepi <sit> AI
+laʔkeʔθenwi <be built on> II
+laʔkeʔθet <present, set forth> TI / TI_2
+laʔkootiiya <in order, according to> II
+lahoot <cry out> TI / TI-O
+lakokwe <very> 
+lakokweeletamaw <wonder at> TA [-eele- (+ -m-, -ta)]
+lakokweʔtaani <wonderful> Premodifier
+lalakwi <between>  [lalakwi]
+lalemačθa <leap> AI [lemat-]
+lašeʔto <clothe> AI [-see, -esee, -asee]
+lašiikaači <abominable> Premodifier
+lašiikaačiweeθiiwe <abomination> NI
+laten <move> TI / TI_1
+laten <move> TA
+latenamaw <beckon to> TA
+latenooθo <be moved> AI
+latii <Lot> NA / NA_NAME
+lawi <do> AI / AI+O
+lawikaaθo <be written about> AI
+lawikaalooθo <be written about> AI
+lawikaate <be written> II
+lawike <write> AI
+laya <lawyer> NA
+lečali <Rachel> NA / NA_NAME
+lečeʔtaw <use hands on> TA [(-)lec-]
+lečeška <stretch out the hand> AI [(-)lec-]
+leekawi <sand> NI [leekawi]
+leewa <viper> NA
+lehapi <Rahab> NA / NA_NAME
+leʔθe <breathe> AI [lee- (+ -?fee)]
+leʔθeʔtaw <breathe on> TA [lee- (+ -?fee)]
+leʔθi <spirit> NA
+lekhi <much> 
+lekhokwiiwe <flood> NI [lek-]
+lekokwa' <? than ?> 
+lekokwaape <face> AI
+lekon <bury> TA [kekw-]
+lekoniwe <bury> AI [kekw-]
+lekonooθo <be buried> AI [kekw-]
+lekonooθoowe <burial, being buried> NI [lekw-]
+lekoškaw <possess> TA
+lekowhaške <cliff> NI
+lelʔθeeya <continue> II
+lelʔkam <tear> TA
+lelʔkeʔka <tear> II [lel?ky-]
+lelʔkin <tear> TI [lel?ky-]
+lelʔškonamaati <distribute> AI
+lelʔškonamaw <distribute> TA
+lema <Ramah> NI / NI_NAME
+lema <lama [Aramaic word]> 
+lemačθe <leap> AI [lemat-]
+lemačθeeya <leap> II [lemat-]
+lemaθkoʔkwe <be the feast> II
+lemaθkoʔkweewe <feast> NI
+lemataph <set, place> TA [lemat-]
+lematapiwa <sit> AI [lemat-]
+lematkwele <look up> AI
+lemeki <Lamech> NA / NA_NAME
+lemii <Ram> NA / NA_NAME
+lenawe <people> NA
+lenaweewi <life exists> AI
+lenaweewi <be life> II
+lenaweewiʔtaw <live for> TA
+lenaweewiiwe <life> NI
+lenaweewiiweni <be life> II
+lenaweewiiwenwi <be life> II
+lenaweewiiya <live> II
+leniwi <be (such) a person> AI
+lepaayii <Rabbi> NA / NA_NAME
+leponaayi <Rabboni> NA
+lepwa <wise> AI [lepwa]
+lepwaawe <wisdom, knowledge> NI [lepwa]
+lepwaaweewi <wise, wisdom> Premodifier [lepwa]
+lepwaaweθi <wise> AI
+lepwaaweleni <person of wisdom> NA [lepwa]
+lepwaawi <wise> Preverb
+lepwaawileni <wise person> NA [lepwa]
+lepwah <make feel> TA [lepwa]
+lepwaškaw <make feel> TA [lepwa]
+lešimo <flee (to somewhere)> AI [-esimo]
+lešolešii <Lazarus> NA / NA_NAME
+letine <Latin> NI / NI_NAME
+lʔθe <go> AI
+lʔθwaačilawiiwe <transgressor> NA
+lʔθwaačimo <proclaim> AI
+lʔθwaatot <proclaim> TI / TI_1 [l?fwee-]
+lʔθwaatotamaw <proclaim> TA
+lʔθweewe <dispersion> NI [l?fwee-]
+lʔθwelʔkaw <scatter> TA [l?fwee-]
+lʔθwelʔkooθo <be scattered> AI [l?fwee-]
+lʔθwen <scatter, disperse> TA [l?fwee-]
+lʔθwen <spread around> TI / TI_1 [l?fwee-]
+lʔθweni <scatter, disperse> AI
+lʔθwenoote <be spread> II [l?fwee-]
+lʔθwepakitaawe <scatter> AI [l?fwee- / pak-]
+lʔθwešk <scatter> TA [l?fwee-]
+lʔθweška <be scattered> AI [l?fwee-]
+lʔk <get in (a boat)> TI / TI-O
+lʔkahi <?> Preverb
+lhokwi <launch> AI
+lʔškaʔki <field> NI
+lʔškim <revile> TA [l?sk-]
+lʔškimaw <reproach> TA [l?sk-]
+lʔškimetiiwe <reviling> NI [l?sk-]
+lʔškit <reproach> TI / TI_1 [l?sk-]
+lʔšpawikaaθoowe <superscription> NI [sp-]
+lʔšpawikeewe <superscription> NI [sp-]
+lʔšpi <high>  [sp-]
+lʔšpimekoθi <be made higher, be placed above> AI [sp-]
+liʔθiiwanhika <scourge> NI
+liʔθiiwanhotiiwawikaaθoowe <lash, stripe> NI
+liʔθiiwanhw <scourge> 
+lihoopoemii <Rehoboam> NA / NA_NAME
+liiθaaiti <Levite> NA / NA_NAME
+liiθaayi <Levi> NA / NA_NAME
+liikataʔkamikatwi <dismantled> II [liiky-]
+liikataʔkamikiθiiwe <desolation> NI [liiky-]
+liikateθiiwe <ruin, destruction> NI
+liikaten <destroy> TI / TI_1
+liikin <take off clothing> TA
+liiše <Rhesa> NA / NA_NAME
+liiwaθike <smoke> AI [liiw-]
+liiyoo <Reu> NA / NA_NAME
+lilathooθo <be wounded> AI
+loʔθah <bring out, remove> TA
+loʔθahooθo <be brought out> AI
+loʔθaleti <make each other go out [reciprocal]> AI
+loʔθat <bring out> TI / TI_2
+loʔθataw <bring out someone for someone> TA
+loʔθe <go out> AI [loo- (+ -?fe, piyee-)]
+loʔθe <[out, out of]> Preverb [loo- (+ -?fe, piyee-)]
+loʔθeʔtanwi <flow out> II [loo- (+ -?fe, piyee-)]
+loʔθelʔkaw <put out> TA [loo- (+ -?fe, piyee-)]
+loʔθelʔkooθo <be put out> AI
+loʔθen <remove from, take out> TA [loo- (+ -?fe, piyee-)]
+loʔθen <remove from, take out> TI / TI_1 [loo- (+ -?fe, piyee-)]
+loʔθeška <go out> II
+loʔθewel <lead out> TA [-we-, -eewe- (+ -l-, -to) / loo- (+ -?fe, piyee-)]
+loʔθeya <go out> II [loo- (+ -?fe, piyee-)]
+loʔkaamekhaawe <dig, till the ground> AI
+loʔkačh <tire, make tired> TA
+loʔkateθi <tired> AI
+lokhaana <flour> NI
+lomʔkoon <anoint> TA [lomy-]
+lomʔkoowe <ointment> NI [lomy-]
+lomʔkwi <anoint> AI [lomy-]
+lomin <anoint> TI / TI_1 [lomy-]
+lominamaw <anoint> TA [lomy-]
+lominoowe <ointment> NI [lomy-]
+looθaši <Rufus> NA / NA_NAME
+looθii <Ruth> NA / NA_NAME
+loolooθo <be hired> AI
+looloošenikana <torch> NA
+loomeni <Roman> NA / NA_NAME
+lowaškwi <rue [herb]> NI
+lwaamatwi <descend> II [low-]
+lwaami <down, bottom> NI [low-]
+lwaʔšinwa <logde> AI
+lwe <make a sound> II
+lyeewe <have (such an) appearance> AI
+m <say to> TA
+maa <myrrh> NI
+maa <[indefinite remote]> 
+maačilepwa <feel moved> AI [maaci, maat-]
+maačilepwah <move, instill feeling> TA [lepwa]
+maačilooθi <small> AI
+maačitehe <feel moved> AI [(-)tehi; -tehe / maaci, maat-]
+maačkwaaθi <little> II
+maačkwaalakatooθi <narrow> II
+maaθe <Martha> NA / NA_NAME
+maalaakaši <a while> 
+maalaakwaamatooθi <near> II
+maalaakwaameθi <near> AI
+maalaakwaameθiiya <near> II
+maalaakwahi <over there (near or far)> 
+maalaakwahi <near> II
+maalaakwahiwi <near> AI
+maalaakwašihi <period of time, a while> 
+maalečihi <little, small amount> NI
+maaleθiiwe <abundance> NI [maale, mamaale-]
+maalekhi <piece> NI
+maalekhitaamʔkwe <region> NI
+maalektaši <in that area, around there> 
+maalešpi <low> 
+maaletwi <abundant> II
+maalhokwi <launch (out)> AI
+maali <many, greatly> Premodifier [maale, mamaale-]
+maali <much, abundantly> 
+maaloʔθeθiiya <slow> II
+maamaatakoška <epileptic> AI [maatakwi]
+maamamyeenaanhiwe <torment> AI [mamy- (+ -eenawe, -eenaan-); (+ -aatwe)]
+maamawaapam <turn to> TA
+maamʔθaapyeʔt <broaden> TI / TI_2
+maamʔkaweelemooθoowe <remembrance> NI [-eele- (+ -m-, -ta) / m?k-, miim?k-, -mi?k-]
+maamʔšiʔt <enlarge> TI / TI_2 [m?f-, m?s-, me?s-]
+maamʔšimekoθiʔtaw <exercise authority over> TA
+maamoošikiiškwe <prophet> NA
+maamoošikiiškweewi <be a prophet> AI
+maamoošikiiškweewi <prophet> Premodifier
+maapayečikaašiwe <be a neighbor> AI
+maapayeečikaal <be a neighbor to> TA
+maapyeečikaaletiima <neighbor> NA
+maapyeečikaaletiiwe <neighbor> NA
+maaša <in number of> 
+maaši <toward> 
+maašpeθiiθi <of short stature> AI [sp-]
+maatakoče <bent, doubled up> AI [maatakwi]
+maatakoška <epileptic> AI [maatakwi]
+maatakoškah <tear> TA [maatakwi]
+maataši <this place>  [maata(a)-]
+maatawi <[desiring]> Preverb [maataw-]
+maatawitehe <desire> AI [(-)tehi; -tehe / maataw-]
+maatawiteheewe <desire> NI [(-)tehi; -tehe / maataw-]
+maateeθi <over, at an end>  [maaci, maat-]
+maaten <move> TI / TI_1
+maatθwihi <few> 
+maatwiimehi <few> 
+maawaška <gather> AI
+maawaškaam <gather> TA
+maawaškaawe <gathering, assembly> NI
+maawaškotaw <gather> TA
+maawatom/maawatwim <call together> TA
+maawaton <gather> TA
+maawaton <collect, gather> TI / TI_1
+maawatonamaw <gather> TA
+maawatonike <gather with> AI / AI+O
+maawatonikeem <gather (something) along with (someone)> TA
+maawatonikeeya <gather> II
+maawatonikeʔθii <tax collector> NA
+maawatonoote <be gathered> II
+maawatoška <gather> AI
+maawatoškaam <gather around (someone)> TA
+maawatwaapi <be together> AI
+maawatwaʔkeepi <sit together> AI
+maawatweel <be gathered> AI
+maawatweelotaw <gather around (someone)> TA
+maawatwi <[together]> Preverb
+maawatwipto <run together> AI [ptoo(-)]
+mačaaθi <evil> II [mat-, mac-]
+mači <bad, evil> Premodifier
+mači-ašh <tempt> TA [mat-, mac-]
+mačiileθi <evil> AI [mat-, mac-]
+mačiileθiiwe <evil, sin> NI [mat-, mac-]
+mačiileθiwilawiiwe <sin> NI [mat-, mac-]
+mačiileni <evil person> NA [mat-, mac-]
+mačiišilawi <sin, do wrong> AI
+mačiišilawiiwe <sin> NI
+mačiišilot <sin against> TI / TI_1 [mat-, mac-]
+mačiišilotaw <sin against> TA [mat-, mac-]
+mačiišin <suffer, ungergo> TI / TI-O
+mačikalawi <curse, swear> AI [kala- / mat-, mac-]
+mačikalawiiwe <oath> NI [kala- / mat-, mac-]
+mačikalool <curse, speak evil of> TA [kala- / mat-, mac-]
+mačikaloot <curse, speak evil of> TI / TI_1 [kala- / mat-, mac-]
+mačikiišeki <bad day, bad weather> II [kiiseki, kiiskwe; kiisa?fwa, kiisfwa]
+mačikiteewe <anger, wrath> NI [mat-, mac-]
+mačilawi <do wrong, commit> AI / AI+O [mat-, mac-]
+mačilawiʔtaw <do wrong to someone> TA [mat-, mac-]
+mačilawiiwe <crime> NI [mat-, mac-]
+mačileʔθi <evil spirit> NA [mat-, mac-]
+mačilepwa <feel bad, be sorrowful> AI [lepwa / mat-, mac-]
+mačilepwaapeška <look sorrowful> AI [lepwa / mat-, mac-]
+mačilepwaawe <sorrow> NI [lepwa / mat-, mac-]
+mačilepwaaweθi <be sorry> AI [lepwa / mat-, mac-]
+mačilepwaaweni <have sorrow> AI [lepwa / mat-, mac-]
+mačilepwaawi <sad> Preverb [lepwa / mat-, mac-]
+mačilepwaškaw <grieve> TA [lepwa / mat-, mac-]
+mačiliikweewe <evil eye> NI [mat-, mac-]
+mačilot <destroy> TI / TI_1 [mat-, mac-]
+mačilotamaw <destroy, spoil> TA [mat-, mac-]
+mačilotaw <destroy> TA [mat-, mac-]
+mačilotoote <be destroyed> II [mat-, mac-]
+mačilotwaake <destroy> AI [mat-, mac-]
+mačim <reproach> TA [mat-, mac-]
+mačimaneto <devil> NA [maneto / mat-, mac-]
+mačimanetoowi <be a devil> AI [maneto / mat-, mac-]
+mačimooθoowe <reproach> NI [mat-, mac-]
+mačimyaakwimekiiθa <goat> NA [mat-, mac-]
+mačipenal <sin against> TA [?pena- / mat-, mac-]
+mačiškata <lust> NI [mat-, mac-]
+mačiweeneθwi <wine drinker> NA [mat-, mac-]
+mačiwiyeeθa <evil one> NA [mat-, mac-]
+maθaana <flax> NA
+maθaanimota <linen cloth> NI
+maʔkeen <beware of> TA
+maʔkooteleθa <colt> NA
+maiili <mile> NI
+maiši <remaining ones, rest, others> 
+makamaki <big> Preverb [mak-]
+makha <[interrogative]> 
+maki <great, large> Premodifier [mak-]
+makiiči <mighty> Premodifier [mak-]
+makiičilawiiwe <miracle> NI [mak-]
+makiičiweeθiiwe <majesty> NI [mak-]
+makimyeewi <highway> NI [mak- / miyeewi]
+makipookatwi <wave> II
+makoθeelem <care for, regard> TA
+makoθeelet <heed, take care> TI / TI-O
+makootakooti <robe> NI
+makooteleθa <colt> NA
+maloomiktika <vineyard> NI [kt-, kc-]
+mam <take> TA [mam-]
+mam <take> TI / TI_3 [mam-]
+mamaakeeya <take> II
+mamaatom <pray to> TA
+mamaatoma <pray> AI
+mamaatomaw <pray for> TA
+mamaatome <pray> AI
+mamaatomeewe <prayer> NI
+mamaatomeeweθi <prayerful, devout> AI
+mamaatomeewika <prayer house> NI
+mamaatomeewikamikwi <temple> NI
+mamaatomeewimaawatweloowe <church> NI
+mamaawena <elect, selected> NA
+mamaw <take> TA
+mamawiweya <take> II
+mameteelemo <hunger> AI
+mamʔpw <snatch> TA [-po / mam-]
+mamiiloowi <by force> Preverb [miiloowi-, mamiiloow-, mamiyeeloow-]
+mamiiloowih <compel> TA [miiloowi-, mamiiloow-, mamiyeeloow-]
+mamiiloowiʔkaw <compel> TA [miiloowi-, mamiiloow-, mamiyeeloow-]
+mamiiloowilawiiwe <extortion> NI [miiloowi-, mamiiloow-, mamiyeeloow-]
+mamiiloowilot <compel> TI / TI_1 [miiloowi-, mamiiloow-, mamiyeeloow-]
+mamooθo <be taken, be chosen> AI
+mamoote <be taken> II
+mamyaalakatowi <maimed> AI
+mamyaalakatowikaate <lame> AI
+mamyaalakh <wound> TA
+mamyaalakiθi <maimed> AI
+mamyaalakika <lame> AI
+mamyaatweewahoot <wail> TI / TI-O [mamy- (+ -eenawe, -eenaan-); (+ -aatwe)]
+mamyaatweewitehe <groan> AI [mamy- (+ -eenawe, -eenaan-); (+ -aatwe)]
+mamyeenaanh <torment> TA [mamy- (+ -eenawe, -eenaan-); (+ -aatwe)]
+mamyeenaani <grievous> Premodifier [mamy- (+ -eenawe, -eenaan-); (+ -aatwe)]
+mamyeenila <in torment, grievously>  [mamy- (+ -eenawe, -eenaan-); (+ -aatwe)]
+mamyeetaakwi <miserably> Preverb [mamy- (+ -eenawe, -eenaan-); (+ -aatwe)]
+mamyeetaawaapi <fix one's gaze> AI
+mamyeetaawatwi <grievous> II [mamy- (+ -eenawe, -eenaan-); (+ -aatwe)]
+mamyeetaʔkweyi <miserable> Premodifier [mamy- (+ -eenawe, -eenaan-); (+ -aatwe)]
+mamyetaawaapam <fix one's gaze on> TA
+maneto <God> NA / NA_NAME [maneto]
+manetoo <serpent> NA [maneto]
+manetooleθa <worm> NA
+manetoowi <God> Premodifier [maneto]
+maštatiiwi <mustard> Premodifier
+mata <[negative]> 
+mata-ini-otaʔpi <nevertheless> 
+mataačimoʔtaw <accuse> TA
+mataam <condemn, speak evil of> TA
+mataametiiwe <reproach> NI
+mataamo <swear> AI
+mataatotoote <be reproved> II
+mataʔkowaaθoowe <condemnation> NI
+mataʔkowaal <condemn, sentence> TA
+mataʔkowaašiwe <condemn> AI
+mataiini <blame> 
+matal <come upon, overtake> TA
+matalaakwa <never> 
+matalaakwanwi <without> 
+matalaakwaši <never> 
+matanoʔki <neither> 
+matawiyeeθekiši <worthless> II
+matawiyeeθekiših <treat as nothing> TA
+matawiyeeθekišihooθo <be considered worhless> AI
+matawiyeeθekišiʔt <treat as nothing> TI / TI_2
+matawiyeeθekišiwaʔkeeph <treat as nothing> TA
+matawiyeeθekišiwi <as nothing, worthless> Premodifier
+matawiyehi <nothing> Pronoun
+matayečiwi <impossible> II
+matayeečiwatwi <impossible> II
+matayeečiweeθi <fail> AI
+matayeečiweeθiiya <fail> II
+matayinišiteheewe <repentence> NI
+mateelem <oppose> TA
+mateeleti <oppose [reciprocal]> AI
+mateeletiiwena <adversary, enemy> NA
+mateθiiθi <evil> AI
+mawaapanwi <be near> II
+mawaapat <look at (over there)> TI / TI_1 [w- (+ -aapa-)]
+mawe <mourn> AI
+maweewahoot <wail> TI / TI-O
+maweʔtaw <mourn for> TA
+mawi <going there> Preverb
+mawi-čaakatθwi <ninth> 
+mawi-metaʔθwi <tenth> 
+mawi-metaʔθwi-kite-nyaalanwi <fifteenth> 
+mawi-nekotwaʔθwi <sixth> 
+mawi-nʔθoko <thrid day> 
+mawi-nʔθokonaki <be the third day> II
+mawi-nʔθwaašikθokonakiki <eighth day> 
+mawi-nʔθwi <third> 
+mawi-niišwaʔθwi <seventh> 
+mawi-niišwi <second> 
+mawi-nyeewene <fourth> 
+mawiθo <gather fruit> AI
+mawiθoowe <fruit> NI
+mawiθooweniwi <fruitful> II
+mawim <cry, weep> TA
+mawinačh <seize> 
+mawinačhi <seizing> Preverb
+mawinačt <seize> TI / TI_2
+mawinaʔk <oppose, struggle> 
+mawinehw <go against> TA
+mawit <weep for, mourn> TI / TI_1
+mayaaneθi <young> AI [maya- (+ -t-, -kii-, -an-)]
+mayaani <young> Premodifier [maya- (+ -t-, -kii-, -an-)]
+mayaanileni <young person> NA [maya- (+ -t-, -kii-, -an-)]
+mayaanileniiwe <youth> NI [maya- (+ -t-, -kii-, -an-)]
+mayaaoškiišekwi <right eye> NI / NI_DEP
+mayaawaʔkowaat <judge correctly> TI / TI_1 [mayaaw-]
+mayaawatwi <lawful, correct> II [mayaaw-]
+mayaaweθi <true> AI [mayaaw-]
+mayaaweθiima <elect, selected person> NA [mayaaw-]
+mayaaweθiiwe <right, privilege> NI [mayaaw-]
+mayaawθenwi <true, right, correct> II [mayaaw-]
+mayaawhooθo <be chosen, be elect> AI [mayaaw-]
+mayaawi <[true, right, correct]> Preverb [mayaaw-]
+mayaawi[nkw]iiya <soul (true self)> NA [mayaaw-]
+mayaawiileθi <righteous, faithful> AI [mayaaw-]
+mayaawiileθiiwe <righteousness> NI [mayaaw-]
+mayaawiileθiiwi <righteous> II [mayaaw-]
+mayaawiileθiiwi <as righteous> Preverb [mayaaw-]
+mayaawiinʔki <right side> NI [mayaaw-]
+mayaawilotaw <take from> TA [mayaaw-]
+mayaawim <instruct, command> TA [mayaaw-]
+mayaawiwel <guide (correctly)> TA [-we-, -eewe- (+ -l-, -to) / mayaaw-]
+mayaawiwet <guide> TI / TI_2 [-we-, -eewe- (+ -l-, -to) / mayaaw-]
+mayaawšim <appoint> TI
+mayači <strange> Premodifier [maya- (+ -t-, -kii-, -an-)]
+mayačilepwah <amaze> TA [lepwa / maya- (+ -t-, -kii-, -an-)]
+mayačitehe <marvel> AI [maya- (+ -t-, -kii-, -an-)]
+mayaki <new> Premodifier [maya- (+ -t-, -kii-, -an-)]
+mayakinhaakana <bridegroom> NA
+mayakinhaakaneʔkwe <bride> NA
+mayakinhaakaneʔkweewika <bride-chamber> NI
+mayateelet <wonder at> TI / TI_1 [maya- (+ -t-, -kii-, -an-)]
+mayatwi <be a mystery> II [maya- (+ -t-, -kii-, -an-)]
+mayečtoote <be made> II
+mayeelawaateθi <lazy, slothful> AI [meelawaat-]
+mayoʔkwaači <afterward, later> 
+mečaaθiki <evil> NI
+mečθenwi <ready> II
+mečθet <prepare> TI / TI_2
+mečθetaw <prepare> TA
+mečθetooθo <have prepared for> AI
+mečθetoote <be prepared, be finished> II
+mečh <make (as, to be)> TA
+mečhooθo <be made into> AI
+meči <many> 
+mečičikeemoowe <representative> NI
+mečičim <send> TA
+mečiileθiiya <evil> II
+mečilekhi <much, large amount> NI
+mečilooθi <little> AI
+mečimi <and> Conjunction
+mečkwaalakatooθinwi <narrow> II
+mečt <make> TI / TI_2
+mečtaakwatwi <be accomplished> II
+mečtaw <make> TA
+mečtoote <be made> II
+meeθ <Maath> NA / NA_NAME
+meeki-pakikawiki <? large drop ?> 
+meekiiθ <sheep> NA
+meekiiθiwi <of sheep> Premodifier
+meekwaʔki <mountain> NI [makw-]
+meelawaači <unwillingly> Preverb [meelawaat-]
+meelemawaaki <moisture> NI [melimwawa]
+meewaapaki <dawn> NI [waap-]
+meewim <lament> TA
+meewineh <come against> TA
+meθaʔkwimi <ear (of corn)> NI
+meθeθi <whole> AI [mef-]
+meθeθih <make whole> TA [mef-]
+meθeθihooθo <be made whole> AI [mef-]
+meθeθiiwe <wholeness> NI [mef-]
+meθhiike <whole, all of>  [mef-]
+meθi <whole>  [mef-]
+meθikwaʔθoowe <sandal> NI
+meθiyoo <Matthew> NA / NA_NAME
+meθoošila <Methuselah> NA / NA_NAME
+meθtekonehi <brook> NI
+meθtoote <be made whole> II [mef-]
+meh <[prioritive]> Preverb
+meh-tapiim <come together with> TA
+mehaleli <Mahalaleel> NA / NA_NAME
+meʔči <[perfective]> Preverb [me?t-]
+meʔčiileθi <ready> AI [me?t-]
+meʔčilawiiweθi <make ready> AI
+meʔčilot <accomplish> TI / TI_1 [me?t-]
+meʔčilotamaw <accomplish> TA [me?t-]
+meʔčilotaw <do something for someone> TA [me?t-]
+meʔčilotooθo <be perfected> AI [me?t-]
+meʔčilotoote <be accomplished> II [me?t-]
+meʔčim <have said to, promise> TA [me?t-]
+meʔčimiwe <promise> AI [me?t-]
+meʔčiteheʔtaw <prepare> TA
+meʔčiweeθi <ready> AI
+meʔšaaki <great> Premodifier
+meʔšeelwa <be many; multitude> 
+meʔši <great> 
+meʔšiileθi <great> AI [m?f-, m?s-, me?s-]
+meʔšiišitehe <proud> AI [m?f-, m?s-, me?s-]
+meʔšikkaki <wind> NI [m?siKka-]
+meʔtaačimo <agree> AI
+meʔtaačimoom <agree> TA
+meʔtaačimoowe <agreement, covenant> NI
+meʔtaapat <see, look at [perfective]> TI / TI_1 [w- (+ -aapa-)]
+meʔtaʔkeeph <puin the midst of> TA
+meʔtaʔkeepi <sit down> AI
+meʔtaʔkeepiim <sit with> TA
+meʔtaʔkeʔθenwi <be prepared> II
+meʔtaʔkeʔθetoote <be prepared> II
+meʔtaʔkowaaθo <be judged> AI
+meʔtaʔkowaaθoowe <judgment> NI
+meʔtaʔkowaal <judge> TA
+meʔtaʔkowaaletiiwe <judgment> NI
+meʔtaʔkowe <judge> AI / AI+O
+meʔtaʔkoweewe <judgment> NI
+meʔtaʔpil <bind [perfective]> TA
+meʔtawikaate <be written> II
+meʔtawike <write [perfective]> AI
+meʔteelemekoθiiwe <creation> NI
+meʔteelemiweewe <creation> NI
+meʔteelet <create> TI / TI_1
+meʔtek <sing> TI
+meʔtowe <say, speak [perfective]> AI
+meʔtoweya <say, state> II
+mekeeteni <Magadan> NI / NI_NAME
+mekiʔkoθi <be weak, faint> AI
+mekiʔkoθiiya <be weak, faint> II
+mekin <pick, choose> TI / TI_1 [mekin-, memekin-]
+mekin <pick, choose> TA [mekin-, memekin-]
+mekinhwe <animal> NA [mekin?hwe]
+mekini <picking> Preverb [mekin-, memekin-]
+mekipweʔθiiθiwi <old, aged> AI
+mekipweʔθiiθiwiiwe <old age> NI
+mekiteliina <Magdalene> NA / NA_NAME
+mekoθiʔt <exercise authority over> TI / TI_1
+mekoθiʔtaw <have authority over> TA
+melʔkaaya <Melchi> NA / NA_NAME
+melʔkaši <Malchus> NA / NA_NAME
+melʔške <whole> 
+melii <Mary> NA / NA_NAME
+meloneʔše <obey> AI
+meloneʔtaw <obey, be subject to> TA
+memekanwi <plentiful> II
+memekinaapam <look at> TA [mekin-, memekin-]
+memekinaapat <look at> TI / TI_1 [mekin-, memekin-]
+memekinaškwi <herb> NI
+memekineelem <consider> TA
+memekineelet <consider> TI / TI_1
+memekinʔčika <garden> NI
+memekinʔčikaaθa <gardener> NA
+memekinilotaw <serve> TA [mekin-, memekin-]
+memekinilotawiwe <serve> AI [mekin-, memekin-]
+memekinišem <question, examine> TA [mekin-, memekin-]
+memekinitehaaka <mind> NI [(-)tehi; -tehe / mekin-, memekin-]
+memekinitehaakani <have a mind, use the mind> AI [(-)tehi; -tehe / mekin-, memekin-]
+memekinitehe <think, reason> AI [(-)tehi; -tehe / mekin-, memekin-]
+memekiniteheemeti <reason, think [reciprocal]> AI [(-)tehi; -tehe / mekin-, memekin-]
+memekiniteheewe <reasoning, thought> NI [(-)tehi; -tehe / mekin-, memekin-]
+memekiniteheeya <think, reason> II [(-)tehi; -tehe / mekin-, memekin-]
+memekwi <run> AI
+memoošpeelemekwitoote <be exhalted> II [-eele- (+ -m-, -ta) / sp-]
+mena <Menna> NA / NA_NAME
+menawah <may, might> Preverb
+meneša <Manasseh> NA / NA_NAME
+menetoowikiišeki <week> NI
+menh <cause one to drink> TA [men(w)-]
+menʔkwatoowi <heavenly> Premodifier
+menʔkwatwi <heaven> NI
+meniʔθepi <fastening> NI
+meniti <moment [? minute ?]> 
+menoowe <drink> NI [men(w)-]
+menwa <drink> AI [men(w)-]
+menweelem <please> TA [-eele- (+ -m-, -ta)]
+menweelemooθo <be accepted> AI [-eele- (+ -m-, -ta)]
+menweelet <find pleasing> TI / TI_1
+menwi <[willing, pleasing]> Preverb
+menwilaašamamooweni <be pleasing> II
+menwilepwa <be pleased> AI [lepwa]
+menwitehe <be pleased> AI
+menwiteheeškooθo <be comforted> AI
+menwiteheetiiwena <comforter> NA
+menwiteheeweni <be pleased> AI
+menyeelwa <dance> AI [meny- (+ -eelwa)]
+mešaaya <messiah> NA
+mešaʔke <sit down> AI [mes-]
+mešen <take hold> TA [mes-]
+mešenooθo <be taken hold of> AI
+meškwaʔteeki <leather> Premodifier
+meškwiškipakiya <purple> II
+meštaamoowe <accusation> NI
+meštaawh <betray> TA
+meštaawheti <betray, deliver [reciprocal]> AI
+meštaawhiweewi <betray> AI
+meštaawhooθo <be betrayed> AI
+meštaawim <accuse, deliver, betray> TA
+meštaawt <betray> TI / TI_2
+meštele <master> NA
+metaamoowe <decision, judgement> NI
+metaʔθwi <ten>  [meta?f-]
+metaʔθwi-kite-nekoti <eleven>  [meta?f-]
+metaʔθwi-kite-nʔθwaašikθwi <eighteen>  [meta?f-]
+metaʔθwi-kite-niišwi <twelve>  [meta?f-]
+metaʔθwi-kite-nyeewi <fourteen>  [meta?f-]
+meteθa <Mattatha> NA / NA_NAME
+meteθaaeši <Mattathias> NA / NA_NAME
+meteθiiθi <bad, not usable> AI
+metemye <follow the path> AI [miyeewi]
+metenetiiwe-ipeneewe <pestilence> NI
+metθenii <Matthan> NA / NA_NAME
+metθete <Matthat> NA / NA_NAME
+meyale <[translation of Aramaic raca]> 
+mʔθaalakatwi <wide> II [m?f-, m?s-, me?s-]
+mʔθaapyeeya <wide> II [m?f-, m?s-, me?s-]
+mʔθaloomi <grape> 
+mʔθaloomiktika <vineyard> NI [kt-, kc-]
+mʔθaškwalwi <reed> NI
+mʔθe <abundant> II [m?f-, m?s-, me?s-]
+mʔθeelem <trust> TA
+mʔθeelet <need, rely on> TI / TI_1
+mʔθooθooθa <calf> NA
+mʔk <find> TI / TI_1 [m?k-, miim?k-, -mi?k-]
+mʔkaʔθo <find> AI [m?k-, miim?k-, -mi?k-]
+mʔkaʔθooweθi <profitable> AI [m?k-, miim?k-, -mi?k-]
+mʔkaʔθooweni <profitable> II [m?k-, miim?k-, -mi?k-]
+mʔkaʔkwika <tower> NI
+mʔkamaw <find> TA [m?k-, miim?k-, -mi?k-]
+mʔkateewalwi <coal> NI
+mʔkateewi <black> 
+mʔkateewkolaye <priest> NA [m?katee(w)-]
+mʔkateewt <make black> TI / TI_2 [m?katee(w)-]
+mʔkateokolayeewi <be a priest> AI
+mʔkaw <find> TA [m?k-, miim?k-, -mi?k-]
+mʔkaweelem <remember> TA [-eele- (+ -m-, -ta) / m?k-, miim?k-, -mi?k-]
+mʔkaweelemooθo <be remembered> AI [-eele- (+ -m-, -ta) / m?k-, miim?k-, -mi?k-]
+mʔkaweelet <remember> TI / TI_1 [-eele- (+ -m-, -ta) / m?k-, miim?k-, -mi?k-]
+mʔkawešiteheewe <recollection> NI [(-)tehi; -tehe / m?k-, miim?k-, -mi?k-]
+mʔkiθe <shoe> NI
+mʔkooθo <be found> AI [m?k-, miim?k-, -mi?k-]
+mʔšaawi <big, great> II [m?f-, m?s-, me?s-]
+mʔšeelwa <large group> NA
+mʔšeeweewaškwi <mint> NI
+mʔšeloowen <large group, multitude> N [m?f-, m?s-, me?s-]
+mʔši <much, big> Premodifier [m?f-, m?s-, me?s-]
+mʔši-okima <great chief, great king> NA [hokima / m?f-, m?s-, me?s-]
+mʔši-olakeeši <big boat> NI [m?f-, m?s-, me?s-]
+mʔšiilakim <magnify> TA [m?f-, m?s-, me?s-]
+mʔšiileθi <big, great> AI [m?f-, m?s-, me?s-]
+mʔšiileθi <great one> NA [m?f-, m?s-, me?s-]
+mʔšikamikwi <synagogue> NI
+mʔšikilo <great one> NA [m?f-, m?s-, me?s-]
+mʔšikiloʔtaw <rule> TA
+mʔšikiloʔtawiwe <rule> AI
+mʔšikilwa <big, great> II [m?f-, m?s-, me?s-]
+mʔšilot <magnify> TI / TI_1 [m?f-, m?s-, me?s-]
+mʔšinaakoθi <appear large> AI [m?f-, m?s-, me?s- / nen-, new-, nee- (nookw-, naakw-)]
+mʔšinepi <sea> NI [m?f-, m?s-, me?s-]
+mʔšiški <leaf, branch> NI [m?siski]
+mʔšiškiwiiya <be in leaf> II [m?siski]
+mʔškeekwi <lake> NI
+mʔškoteʔkwalwi <grass> NI
+mʔškoteʔkwalwiʔki <grassy> II
+mʔškowilokeewe <blood disease> NI [m?skw-]
+mʔškwaawi <red> 
+mʔškwakokwe <farthing> NI
+mʔškwi <blood> NI [m?skw-]
+mʔtekoniwi <become a tree> II [m?tekwi]
+mʔtekwaapiiwe <armor> NI
+mʔtekwi <tree> NI [m?tekwi]
+miiči <eat> TI / TI_3
+miikeeθa <pearl> NA
+miikeʔθa <pearl> NA
+miil <give> TA [miil-]
+miileti <give [reciprocal]> AI [miil-]
+miilia <Melea> NA / NA_NAME
+miiliwe <give> AI / AI+O [miil-]
+miiliweewe <gift> NI [miil-]
+miilooθo <be given> AI [miil-]
+miiloowi <nevertheless, yet>  [miiloowi-, mamiiloow-, mamiyeeloow-]
+miinʔka <seed> NI
+miinʔkaw <raise up seed> TA
+miinʔkawaškwi <herb> NI
+miinikaawiše <bramble bush> NA [kaawi]
+miišaama <messenger> NA
+miišamaake <serve, minister> AI
+miišamaakeema <servant, messenger> 
+miišamaakeewe <ministering, ministration> NI
+miišamaw <serve, minister to> TA
+moʔči <even> 
+moʔkaači <[as declaration]> Preverb
+moʔkaačim <declare> TI / TI_2
+moʔkaatotamaw <declare> TA
+moʔkeeška <appearing suddenly> Preverb
+moʔt <put dung on> TI / TI_2 [moKky-, moKkee]
+mokitanwi <spring up> II [mo?ky-]
+moni <money> NI
+monika <treasury> NI
+monikaaθa <banker> NA
+monipiitaaka <purse> NI [piitaaka]
+mookwatekwa <moth> NA
+mooleelet <perceive> TI / TI_1 [-eele- (+ -m-, -ta)]
+mooleeletamaw <perceive> TA [-eele- (+ -m-, -ta)]
+mooša <each> 
+moošaki <often> 
+moošatawi <always> Preverb [moosatawi]
+moošikiiškwaačim <prophesy> TA
+moošikiiškwaačimo <prophesy> AI
+moošikiiškwaačimoʔtaw <prophesy> TA
+moošikiiškwaatot <prophesy> TI / TI_1
+moošikiiškwe <prophesy> AI
+moošikiiškweewe <prophecy> NI
+moošinehikan <debt> NI
+moošinehikan <debtor> NA
+moošinehike <owe> AI / AI+O
+moošinehw <owe to> TA
+moošišii <Moses> NA / NA_NAME
+moošitehe <perceive> AI [(-)tehi; -tehe]
+moošpatenwi <high> Premodifier [sp-]
+moošpeelemehooθo <be exhalted> AI [-eele- (+ -m-, -ta) / sp-]
+moošpeelemekoθih <exhalt> TA [-eele- (+ -m-, -ta) / sp-]
+moošpeelemekoθiʔt <exhalt> TI / TI_2 [-eele- (+ -m-, -ta) / sp-]
+moošpeelemekwh <exhalt> TA [-eele- (+ -m-, -ta) / sp-]
+moošpeelemekwhooθo <be exalted> AI [-eele- (+ -m-, -ta) / sp-]
+moošpeelemekwit <exhalt> TI / TI_2 [-eele- (+ -m-, -ta) / sp-]
+moošpeelemooθo <be highly esteemed> AI [-eele- (+ -m-, -ta) / sp-]
+moošpi <high>  [sp-]
+moošpimekoθiiwi <high> Premodifier [sp-]
+moošpimʔkateewkolayeewimekoθiiwe <high-priesthood> NI [sp-]
+moošt <perceive> TI / TI_2
+moškiθa <come to the surface> AI [moosky-]
+moškoθe <come to the surface> AI [moosky-]
+mota <cloth> NI
+moyaleeweelem <despise> TA
+moyaleewilotaw <wrong> TA
+mwheewa <wolf> NA
+myaalaʔkowaaθo <be condemned> AI [miyaal-]
+myaalaʔkowaaθoowe <condemnation> NI [miyaal-]
+myaalaʔkowaal <condemn> TA [miyaal-]
+myaalaʔkowaalooθo <be condemned, be sentenced> AI [miyaal-]
+myaalaʔkowaat <condemn> TI [miyaal-]
+myaaleθii <fail> AI
+myaaleθiiwe <failure, fault> NI
+myaaleθiiya <fail> II
+myaaletwi <corrupt> II [miyaal-]
+myaanileniwi <be a young person> AI [maya- (+ -t-, -kii-, -an-)]
+myaašh <defile> TA
+myaašhooθo <be defiled> AI
+myaaši <false> Premodifier [miyaal-]
+myaaši-ašh <tempt> TA [miyaal-]
+myaaši-ašhetiiwe <temptation> NI [miyaal-]
+myaašimamiilooweθi <perverse> AI [miiloowi-, mamiiloow-, mamiyeeloow- / miyaal-]
+myaašimeekiiθa <goat> NA [miyaal-]
+myaašimekoθih <dishonor> TA
+myaašinamoowe <perdition> NI [miyaal-]
+myaašipawiiθa <dove> NA [miyaal- / pawiifa]
+myaašiwaškwi <weed> NI [miyaal-]
+myaašt <make bad, profane> TI / TI_2
+myeek <sell> TI / TI_3
+myeeki <sell> AI / AI+O
+myeekin <sell> TA
+myeekine <sell> AI / AI+O
+myeekinooθo <be sold> AI
+myeewe <way, path> NI [miyeewi]
+myeewi <way, path> NI [miyeewi]
+naakaani <guide, lead> AI
+naakahooweθiiwe <lasciviousness> NI
+naakahoowiikweka <harlot> NA
+naakaʔt <delay> TI / TI_2
+naakawʔkwe <harlot> NA
+naakoθi <appear, look like> AI
+naaleta <some> 
+naanaanhaačimo <lie> AI [haat- (+ -i-m, -ota)]
+naanatawčike <heal, be a physician> AI [nataw-]
+naanemi <near> 
+naanhaači <falsely> Preverb
+naanhaačim <lie> TA
+naanhaačimoowe <lie> NI [haat- (+ -i-m, -ota)]
+naanhaačimoowi <falsely> Preverb [haat- (+ -i-m, -ota)]
+naanʔšiʔka <alone> 
+naanʔšikaawi <alone> AI
+naanoʔkaačh <persecute> TA [nooc-]
+naanoʔkaačhetiiwe <persecution> NI [nooc-]
+naanoʔkaačhooθo <be persecuted> AI [nooc-]
+naanoomilohanwi <shake in the wind> II [noom-, noonoom-, naanoom-, naanaam-]
+naapeeya <cock, rooster> 
+naapeʔθemh <make into a eunuch> TA
+naapeʔθemʔt <make into a eunuch> TI
+naapeʔθemo <eunuch> 
+naašani <Nahshon> NA / NA_NAME
+naašeleθi <Nazareth> NI / NI_NAME
+naašeleθilenawe <Nazarene> NA / NA_NAME
+naašeleθileni <Nazarene> NA / NA_NAME
+naašeliini <Nazarene> NA / NA_NAME
+naašeliiniiwileni <Nazarene> NA / NA_NAME
+naašeliinileni <Nazarene> NA / NA_NAME
+naašonii <Nashon> NA / NA_NAME
+naašwašaʔte <beautiful> II [naaswi]
+naašweelet <like, love> TI / TI_1 [naaswi]
+naašwi <fine, delicate> Premodifier [naaswi]
+naašwiʔtaw <make beautiful, decorate> TA [naaswi]
+naatamaat <help> TI / TI_1
+naatamaatiiwe <help> NI
+naatamaw <help> TA
+naate <go after, recover> AI
+naati <nard [loanword]> NI
+naatiiwi <nard> Premodifier
+naawaloškaw <follow> TA [naawalw-]
+naawalwi <according to, after> Preverb [naawalw-]
+nahiika <near, up to, ready>  [nahiika]
+nak <sing> TI / TI_1
+nakaaθi <stay, tarry> AI
+nakačilotaw <try out> TA
+nakačit <leave> TI / TI_1 [naka-]
+nakaʔšinoom <stay with, tarry with> TA
+nakaʔšinwa <stay, tarry> AI
+nakal <leave> TA [naka-]
+nakalooθo <be left> AI [naka-]
+nakamoowe <music> NI [nekamo]
+nakat <leave> TI / TI_1 [naka-]
+nakatamaw <leave> TA [naka-]
+nakatame <leave> AI [naka-]
+nakateθiiweni <have as a custom> AI
+nakaye <? since; it being the case that ?> 
+nakeeška <cease> II [naky-]
+nakikaʔtoote <be stopped> II [naky-]
+nakin <hinder> 
+nakšk <meet, go against> TI / TI_1
+nakškaw <meet> TA
+nakwaaka <trap> NI
+nal <go after> TA
+namačiinʔki <left side> NI
+nameθkaal <fish for> TA [name?fa]
+nameθke <fish> AI [name?fa]
+nameʔθa <fish> NA [name?fa]
+nameʔθileʔθi <whale> NA
+nameʔθileni <fisherman> NA [name?fa]
+namoowe <vision, happening> NI
+nanaačimemekiniteheewe <imagination> NI [(-)tehi; -tehe / mekin-, memekin-]
+nanaačitehe <hope> AI [(-)tehi; -tehe]
+nanaačiteheewe <hope> NI [(-)tehi; -tehe]
+nanahi <prepare> AI [nanahii(-)]
+nanahi <ready, prepared>  [nanahii(-)]
+nanahiʔθet <prepare> TI / TI_2 [nanahii(-)]
+nanahiiwe <preparation> NI
+nanahilot <prepare> TI / TI_1 [nanahii(-)]
+nanahilotamaw <prepare> TA [nanahii(-)]
+nanahim <preach> TA [nanahii(-)]
+nanahimiwe <preach> AI
+nanahimooθo <be preached to> AI
+nanahit <preach> TI / TI_1 [nanahii(-)]
+nanaʔkawi <Gentile> NA / NA_NAME
+nanaʔkot <contradict> TI / TI_1
+nanaʔpaačhooθo <be humbled> AI
+nanaʔpaačiileθi <humble> AI
+nanaʔpaačiileθiiwe <lowliness> NI
+nanaʔpaačikeemoowe <begging> NI
+nanaʔpaačila <[humble]> 
+nanaʔpaačileθa <humble person> NA
+nanaʔpaačilot <humble> TI / TI_1
+nanaʔpaačilotooθo <be humbled> AI
+nanaʔpaačim <beg, pray, beseech> TA
+nanaʔpaačimekwhooθo <be humbled> AI
+nanaʔpaačimekwt <humble> TI / TI_2
+nanaʔpaačimoowe <begging> NI
+nanaʔpaačiteheeweni <humble, lowly in heart> AI [(-)tehi; -tehe]
+nanaʔpaačt <humble> TI / TI_2
+nanakohw <forbid> TA
+nanašθetaw <prepare> TA
+nanaškači <endangered> Preverb
+nanawačitehe <doubt> AI
+nanʔtaaki <alone> 
+napʔtalii <Naphtali> NI / NI_NAME
+natawaači <inquiring> Preverb [nato(o)-]
+natawaapam <look for> TA [nato(o)- / w- (+ -aapa-)]
+natawaapat <look for> TI / TI_1 [nato(o)- / w- (+ -aapa-)]
+natawaapi <look for> AI [nato(o)- / w- (+ -aapa-)]
+natoʔše <ask> AI [nato(o)-]
+natoʔšeewe <question> NI [nato(o)-]
+natoʔtame <ask> AI [nato(o)-]
+natoʔtaw <ask> TA [nato(o)-]
+natoʔtwaati <question, discuss [reciprocal]> AI [nato(o)-]
+natoʔtwaatiim <ask questions of, discuss with> TA [nato(o)-]
+natoʔtwaatiiwe <question> NI [nato(o)-]
+natom <call for, ask for> TA [nato(o)-]
+natoneh <seek> TI / TI_1
+natonehamaw <seek> TA
+natonehike <seek> AI
+natonehikeeya <seek> II
+natonehw <seek> TA
+natonemaw <seek> TA
+natot <ask for> TI / TI_1
+natotamaake <ask for> AI / AI+O
+natotamaw <ask someone for something> TA
+nawači <? according to ?> 
+nawaθw <outrun> TA [nawafw-]
+nawh <visit> TA
+nawhetiiwika <guest room> NI
+nawhiwe <visit> AI
+nawičika <possessions> NI
+nawito <about, approximately> 
+nawiwe <appear, seem> AI
+nawkoθiiwatwi <be observed> II [nen-, new-, nee- (nookw-, naakw-)]
+nawoote <be carried, be borne> II [nay-, naw-]
+nawtiim <appear to> TA [nen-, new-, nee- (nookw-, naakw-)]
+nay <sit on, ride> TA
+nayeʔθaawi <? healthy, whole ?> II
+nayeloʔči <pretending> Preverb
+nayoote <be carried> II
+neeθawe <who> Pronoun
+neekal <follow> TA [neeka-]
+neekašiwe <follow> AI / AI+O [neeka-]
+neekašiweeya <follow, come after> II [neeka-]
+neeloʔčilawi <be a hypocrite> AI
+neem <see> TI / TI_3 [nen-, new-, nee- (nookw-, naakw-)]
+neemani <Naaman> NA / NA_NAME
+neemaw <see> TA [nen-, new-, nee- (nookw-, naakw-)]
+neemoote <be seen> II [nen-, new-, nee- (nookw-, naakw-)]
+neew <see> TA [nen-, new-, nee- (nookw-, naakw-)]
+neewiwe <perceive> AI [nen-, new-, nee- (nookw-, naakw-)]
+neeyiišwi <both> 
+neθeni <Nathan> NA / NA_NAME
+neθeniali <Nathanael> NA / NA_NAME
+neha <Nahor> NA / NA_NAME
+nehalwaaθi <related, own> AI [nahalwaa-, ...n?halwaa- (+ -t-)]
+nehalwaaka <own, belonging to oneself> 
+nehalweelem <have as kin> TA
+nehami <Nahum> NA / NA_NAME
+neʔčipe <any> 
+neʔčipehi <any> Pronoun
+neʔθaapi <also> 
+nehiwe <what, what sort of> Pronoun
+neʔkatepkwe <throughout the night> 
+neʔki <arm> NI
+neʔkiiškwe <throughout the day>  [kiiseki, kiiskwe; kiisa?fwa, kiisfwa]
+neʔtawatwi <unique> Premodifier [ne?taw-]
+neini <Nain> NI / NI_NAME
+nekat <follow> TI / TI_2
+nekat <follow> TI / TI_1
+nekatiimaši <Nicodemus> NA / NA_NAME
+neke <see> AI [nen-, new-, nee- (nookw-, naakw-)]
+nekeewe <seeing> NI [nen-, new-, nee- (nookw-, naakw-)]
+nekeeya <Naggai> NA / NA_NAME
+nekoteʔθepatiokima <tetrarch> NA
+nekoteʔθepatiwi <tetrarch> Premodifier
+nekotenwi <[continuous]> Preverb
+nekoti <one> Pronoun [nekoti, nekotw-]
+nekotiiθenwi <become one> II [nekoti, nekotw-]
+nekotiiθi <be one> AI [nekoti, nekotw-]
+nekotiimehi <one, single> Premodifier [nekoti, nekotw-]
+nekotiiya <become one> II [nekoti, nekotw-]
+nekotiwi <be one> AI [nekoti, nekotw-]
+nekotoošaaka <single offspring> NA [nekoti, nekotw-]
+nekotoškaawe <crowd> NI
+nekotwaačimooya <agree, be consistent> II [nekoti, nekotw-]
+nekotwaaši <sixty> 
+nekotwaʔθoko <six days> 
+nekotwaʔθokonakatwi <three days> II
+nekotwaʔθwi <six> 
+nekotweelena <nation> NA [nekoti, nekotw-]
+nekotweelooθa <flock> NA [nekoti, nekotw-]
+nekotweelwa <group> AI [nekoti, nekotw-]
+nekotweloowe <crowd> NI [nekoti, nekotw-]
+nekotweši <in a group>  [nekoti, nekotw-]
+nekwaanwi <roar> II
+neloʔči <vain, in vain> Premodifier
+neloʔčilawiiwe <pretense, hypocrisy> NI
+neloʔčilawiweʔθi <hypocrite> NA
+nenaan <perceive> TA [nen-, new-, nee- (nookw-, naakw-)]
+nenekiθi <palsied> AI [naneky-]
+nenekiθiiwe <palsy> NI [naneky-]
+nenekonam <rub loose> TI / TI_3 [nenekwa]
+nenemʔki <thunder> NI
+nenemʔkiwa <thunder> II
+nenhiʔtaawi <first> AI
+neniθa <Nineveh> NI / NI_NAME
+neniθa <Ninevite> NA / NA_NAME
+nenoθi <discern> AI [nen-, new-, nee- (nookw-, naakw-)]
+nenoʔše <understand> AI [nen-, new-, nee- (nookw-, naakw-)]
+nenoʔšeewe <understanding> NI [nen-, new-, nee- (nookw-, naakw-)]
+nenoʔšeeweθi <understand> AI [nen-, new-, nee- (nookw-, naakw-)]
+nenoʔt <understand> TI / TI_1 [nen-, new-, nee- (nookw-, naakw-)]
+nepaawe <sleep> NI
+nepeewa <sleep> AI
+nephokwi <drown> AI
+nepi <water> NI
+nepipemi <salt> NI
+nepiwakokwa <water jug> NA
+nepiwi <be water> II
+nepiwilokeewe <dropsy> NI
+nepolaw <kill> TA
+nepoo <dead person> NA [(-)nepe, nepw-]
+nepoom <die together with> TA [(-)nepe, nepw-]
+nepoowaalakwi <tomb> NI
+nepoowe <death, sepulchre> NI
+nepooweθi <die> AI [(-)nepe, nepw-]
+nepoowena <corpse> NA
+nepoowi <of death> Premodifier
+nepoowiyaamwečika <bier> NI [(-)nepe, nepw-]
+nepooya <die> II [(-)nepe, nepw-]
+nepoškaw <crush> TA
+nepote <die, wither> II [(-)nepe, nepw-]
+nepwa <die, be dead> AI [(-)nepe, nepw-]
+nepwaškweʔt <choke> TI / TI_2 [(-)nepe, nepw-]
+nepwaškweʔtoote <be choked> II [(-)nepe, nepw-]
+nepwaškweya <choke> II [(-)nepe, nepw-]
+neyeʔka <already> 
+neyiišweelena <both> 
+neyiišwi <both> 
+neyoole <maybe, even> 
+nhaawaačθet <prepare> TI / TI_2
+nhaawaat <store up, keep> TI / TI_1
+nhaawaataw <store up> TA
+nhalwaaθiiwen <own self, own thing> N [nahalwaa-, ...n?halwaa- (+ -t-)]
+nhalwaaθiiweni <on one's own>  [nahalwaa-, ...n?halwaa- (+ -t-)]
+nhalwaaka <own self> N [nahalwaa-, ...n?halwaa- (+ -t-)]
+nhalweelet <be of the family> TI / TI-O [nahalwaa-, ...n?halwaa- (+ -t-)]
+nhalweeletiim <have dealings with> TA [nahalwaa-, ...n?halwaa- (+ -t-)]
+nhalweeletiimeti <deal with one another> AI [nahalwaa-, ...n?halwaa- (+ -t-)]
+nhalweeletiiwen <kin> NA [nahalwaa-, ...n?halwaa- (+ -t-)]
+nhalwelečikanileni <kin> NA [nahalwaa-, ...n?halwaa- (+ -t-)]
+nhawaači <saving (for the future)> Preverb
+nheθiiwe <craftiness, subtility> NI [n?h-]
+nhekol <trim> TA
+nʔθ <kill, destroy> TA
+nʔθekwi <dead, be killed> AI
+nʔθetiiwe <murder> NI
+nʔθoko <three days> 
+nʔθokonakatwi <three days> II
+nʔθwaapitaki <thirty> 
+nʔθwaapitaki-kite-nʔθwaašikθwi <thirty-eight> 
+nʔθwaašii-kite-nyeewi <eighty-four> 
+nʔθwaašikθoko <eight days> 
+nʔθwaašikθwi <eight> 
+nʔθwi <three> 
+nʔθwi-kite-nʔθweʔθepati <three and three-quarters> 
+nhiʔta <first> 
+nhiʔtaaθa <first> 
+nhiʔtaaweθi <be first> AI
+nhiʔtaawi <be first> II
+nhiʔtaawi <be first> AI
+nhiʔtawatwi <first> II
+nhilawiiwe <subtilty, cleverness> NI [n?h-]
+nhiwanimeθiiwe <deceit> NI [wan-]
+nʔkokeemo <consent> AI
+nʔkom <assent> TA
+nʔkot <consent to> TI / TI_1
+nʔkotamaw <consent to> TA
+nʔpenikwaate <border> II
+nʔšiwe <kill> AI
+nʔšiweewe <murder> NI
+nʔšiweeya <deadly> II
+nʔt <kill> TI / TI_2
+nʔtalawikaate <be written (there)> II
+nʔtamaw <kill> TA
+niθteliiwi <Naphtali> Premodifier
+niičaana <offspring> NA
+niičaaneeθa <offspring> NA
+niičaanin <beget> 
+niičaphi <so, thus> 
+niikaaneškaw <precede> TA [niikaani]
+niikaani <go ahead, go before> AI [niikaani]
+niikaani <before, in front of>  [niikaani]
+niikaanih <precede> TA [niikaani]
+niikaaniwel <lead astray> TA [-we-, -eewe- (+ -l-, -to) / niikaani]
+niiki <be born> AI
+niikičikeeya <bring forth, bear> II
+niikin <bear, bring forth> TA
+niikinike <give birth> AI
+niikiniwe <give birth> AI
+niikinwi <come from> II
+niikit <bear, bring forth> TI / TI_2
+niila/kiila/wiila <[emphatic pronoun]> Pronoun
+niilaai <Neri> NA / NA_NAME
+niim <carry, bear> TI / TI_3 [niim-]
+niimathooθo <be lifted up> AI [niim-]
+niimathw <lift up> TA [niim-]
+niimaw <carry, bear> TA [niim-]
+niinʔθoko <third day> 
+niinʔkaw <? put forward, encourage ?> TA
+niipawi <stand> AI
+niipawiiya <stand> II
+niipenwi <bear fruit> II [niipe-, naape-]
+niišiwaači <be two> AI
+niišoʔkalaatiiki <two together> AI
+niišoko <two days> 
+niišokonakatwi <two days> II
+niišokonakatwi <two days> II
+niišwaapitakitθene <twenty times> 
+niišwaaši <seventy> 
+niišwaašiitθene <seventy times> 
+niišwaʔθwi <seven> 
+niišwaʔθwi-kite-paʔθi <seven and one-half> 
+niišwaʔθwikiiškwe <week> NI
+niišweelena <two in number> Preverb
+niišwi <two> 
+niišwi-kite-paʔθi <two and one-half> 
+niišwipito <run together (as a pair)> AI [ptoo(-)]
+niišwitehaakani <be of two minds, doubt> AI [(-)tehi; -tehe]
+niitaw <shine upon> TA
+niitaw <shine> TI / TI_3
+niitawaaka <lamp> NA
+niiya/kiiya/wiiya <[object pronoun]> Pronoun
+niiyaana/kiiyaana/wiiyaana <body, self> NA
+niiyaawa/kiiyaawa/wiiyaawa <self> Pronoun
+niwi <bear> AI
+niyaalanweelena <five in number> 
+niyaawe <thanks> NI
+noʔki <again> 
+noʔkwaatamaw <lick> TA
+noʔpyeen <separate> TA
+noʔpyeen <separate> TI / TI_1
+noočh <fight> TA
+noočhaal <persecute> TA [nooc-]
+noočhaaletiiwe <persecution> NI [nooc-]
+noočhetiit <fight> TI / TI-O
+noočhetiiwe <war> NI
+noočhiwe <fight> AI
+nookoθi <appear> AI [nen-, new-, nee- (nookw-, naakw-)]
+nookoθiiwe <vision> NI
+nookwatwi <appear> II
+noole <quiet, still>  [noole]
+nooleewi <quiet, still> AI [noole]
+nooleewiiwe <peace, stillness, quiet> NI [noole]
+noomenoote <be shaken> II
+noomeškwa <shake> II [noom-, noonoom-, naanoom-, naanaam-]
+noon <suck> TI / TI_3 [noon-]
+noonhiwe <suckle> AI [noon-]
+noonooθi <be suckled> AI [noon-]
+noonoowe <nursing, suckling> NI [noon-]
+noošaačika <steward, servant> NA
+noošaaθiiwe <stewardship> NI
+noošaaθiiwena <steward> NA
+noošaal <take care of> TA
+noošeya <produce interest> II [noose]
+noot <hear> TI / TI_1
+noota <than> 
+nootaake <hear something [indefinite object] said> AI
+nootaakeewe <hearing> NI
+nootaakwatwi <be heard> II
+nootakeelem <honor> TA [-eele- (+ -m-, -ta)]
+nootamaw <hear (it) [of animate object]> TA
+nootamawooθo <be heard> AI
+nootaw <hear> TA
+nootkoθi <lack> AI
+nootkoška <lack> AI
+nootkwatwi <fail> II [nootkw-]
+nootkweelemekoθi <worthy> AI
+nootkwiileθi <lack> AI / AI+O [nootkw-]
+nootoote <be heard> II
+notakeelem <honor> TA
+nowa <Noah> NA / NA_NAME
+nowa <cheek> NI / NI_DEP [(-)nowa, -anowe]
+nyaalanwaapitaki <fifty> 
+nyaalanwi <five> 
+nyeeko <four days> 
+nyeewaapitaki <forty> 
+nyeewekθenwi <fourfold> II
+nyeewi <four> 
+nyeewi-niišwaapitaki <fourscore> 
+o <oh [exclamation]> 
+paačoona <Bar-Jonah> NA / NA_NAME
+paaθkwaʔki <cloud> NI [poof-]
+paalačiptwi <rush down> II
+paalačšinoom <go down with> TA
+paalačšinwa <down> AI
+paalatii <Pilate> NA / NA_NAME
+paaleewikawaškwi <barley> NI
+paalo <until, as far as> 
+paamaami <journey> AI
+paamaamiiwe <journey> NI
+paameči <nevertheless, all the more> Preverb
+paamʔθe <walk> AI [paam-]
+paamʔθeewe <journey> NI
+paamwel <carry around> TA [-we-, -eewe- (+ -l-, -to)]
+paapaakeʔθiiθa <gnat> NA
+paapemešit <go around, encompass> TI / TI_2
+paapyeeči <necessarily, obligatorily> 
+paapyeeminakweya <spin [thread]> II [piyem-]
+paaši <as> 
+paatamiiaš <Bartimaeus> NA / NA_NAME
+pačikam <kiss> TA
+pačikamiweewe <kiss> NI
+pačkametiiwe <kiss> NI
+pačkat <kiss> TI / TI_1
+paθalamyo <Bartholomew> NA / NA_NAME
+paθekwi <rise, stand> AI [pafekw-]
+paθekwičθat <rise up against> TI [pafekw-]
+paθekwičθataw <rise up against> TA [pafekw-]
+paθekwičθe <jump up> AI [pafekw-]
+paθekwiiya <arise> II [pafekw-]
+pah <[andative]> Preverb
+paʔθeʔka <separate, be divided> AI [pa?f-, pf-]
+paʔθeʔka <divided> II [pa?f-, pf-]
+paʔθeʔkaati <separate, divide [reciprocal]> AI [pa?f-, pf-]
+paʔθeʔkaatiiya <divided> II [pa?f-, pf-]
+paʔθeʔkaawe <division> NI
+paʔθen <divide> TI / TI_1 [pa?f-, pf-]
+paʔθenamaw <divide> TA [pa?f-, pf-]
+paʔθeneti <divide [reciprocal]> AI [pa?f-, pf-]
+paʔθenetiiya <divided> II [pa?f-, pf-]
+paʔθeniwe <divide> AI [pa?f-, pf-]
+paʔθi <half>  [pa?f-, pf-]
+paʔθišekali <half-shekel> NI [pa?f-, pf-]
+paʔkašeen <reveal> TI / TI_1 [pa?ka-]
+paʔkašeenoote <be revealed> II [pa?ka-]
+paʔkašeeya <open> II [pa?ka-]
+paʔkin <open, reveal> TI / TI_1 [pa?ka-]
+paʔkinamaw <open, reveal, bear [witness]> TA [pa?ka-]
+paʔkinoote <be revealed> II [pa?ka-]
+paʔtaaθi <accursed> AI
+paʔtaam <blaspheme> TA
+paʔtaamo <blaspheme> AI
+paʔtaamooθoowe <blasphemy> NI
+paʔtaamoowe <blasphemy> NI
+paʔtaʔkaaθa <one cursed> NA
+pakači <near, by>  [pak-]
+pakačikana <along the path, by the wayside> 
+pakθaten <take away> TI / TI_1 [pak-]
+pakθeelet <forgive> TI / TI_1 [pak-]
+pakθeeletamaw <release, forgive, deliver> TA [pak-]
+pakθeeletamawiwe <forgive> AI / AI+O [pak-]
+pakθeeletamawooθo <be forgiven> AI [pak-]
+pakθeeletamawooθoowe <forgiveness> NI [pak-]
+pakθeeletoote <be forgiven> II [pak-]
+pakθeθiiwe <forgiveness> NI [pak-]
+pakθeθiiweni <have forgiveness> AI / AI+O [pak-]
+pakθemaw <release, forgive, deliver> TA [pak-]
+pakθen <release, deliver> TA [pak-]
+pakθen <release, deliver, offer> TI / TI_1 [pak-]
+pakθenamaake <deliver> AI / AI+O [pak-]
+pakθenamaw <deliver, hand over> TA [pak-]
+pakθenike <offer> AI [pak-]
+pakθenikeewe <offering, gift> NI [pak-]
+pakθeniwe <release, deliver> AI [pak-]
+pakθenooθo <be delivered> AI [pak-]
+pakθenooθoowe <excuse> NI [pak-]
+pakθenoote <be delivered, be handed over> II [pak-]
+pakiči <going home> Preverb [pakici]
+pakičiʔkaatiim <oppose> TA
+pakičiʔkoote <be spoken against> II
+pakičkwaʔkot <tend a vineyard> TI / TI-O
+pakit <throw, spend, put away from> TI / TI_1 [pak-]
+pakitaam <condemn> TA
+pakitaʔθo <spend> TI / TI_2 [pak-]
+pakiteʔt <leave as a crumb> TI / TI_1
+pakiteʔtoote <be left as a crumb> II
+pakšimwa <go down> AI [pak-]
+pakšimwi <go down> II [pak-]
+pakšinwa <fall> AI
+pakwači <wild> Premodifier
+pakwataʔki <land, ground> NI
+palašaana <offspring of an animal> NA
+palašaanimeekiiθe <lamb> NA
+palašaanimekiiθa <lamb> NA
+paleečika <chest bone> NI [?paleewa]
+paleewa <chest> NI / NI_DEP
+palepašii <Barabbas> NA / NA_NAME
+panʔtaš <Pontius> NA / NA_NAME
+papaʔθen <divide> TI / TI-O [pa?f-, pf-]
+papaʔθenamaati <divide [reciprocal]> AI [pa?f-, pf-]
+papaweška <tremble> AI [(pa)paw-]
+papaweškaawe <trembling> NI [(pa)paw-]
+papawkweʔtaw <wag one's head at> TA [(pa)paw-]
+papawkweška <wag the head> AI [(pa)paw-]
+papškwaʔki <desert> NI
+papškwaʔkwatwi <be desert> II
+pašiphooθo <be pierced> AI
+pašitoo <old> 
+paškaapi <look up> AI
+paškaʔkweya <emerge> II
+pawaawe <treasure, riches> NI
+pawaawileʔθi <richness personified, mammon> NA
+pawaškwhaawi <threshing> Premodifier
+pawaten <shake off>  [(pa)paw-]
+paweewa <rich> AI
+paweewe <treasure, riches> NI
+paweewi <rich> Premodifier
+pawen <sift> TA [(pa)paw-]
+pawiiθa <pigeon> NA [pawiifa]
+pawiiθalanimiiše <palm tree> 
+pawnii <pound (unit of money)> NI
+payaakilahi <away> Preverb [pak-]
+payakila <motion away> Preverb
+payeči <ever> Preverb
+payeekwa <but> Conjunction
+peeθakoθe <adhere> II
+peeθakwaakiašiški <clay> NI
+peekškeʔka <piece> NI
+peelaawiki <summer> NI [pelaawi]
+peelekaaya <Barachiah> NA / NA_NAME
+peeleko <once>  [peeleko(n)-]
+peeleta <trust> TI / TI_1
+peeliyeešii <Perez> NA / NA_NAME
+peemaameʔkiki <embankment> NI
+peemaapačike <be looking> AI [-aape; -aapi; -aapa-]
+peemaʔkeepi <be sitting> AI
+peemakoθeki <beam> NI
+peemekwaamwa <be sleeping> AI
+peemʔtaki <stream> NI
+peemi-hoči-lenaweewiiwe <that from which one lives> NI
+peemitakoθeki <beam> NI
+peepaki <lightning> NI
+peepekičaawi <dark> Premodifier
+peešekwi <completely> Preverb
+peθakokwiinwa <close> AI
+peθeči <Bethphage> NI / NI_NAME
+peθečiiki <Bethpage> NI / NI_NAME
+peθene <Bethany> NI / NI_NAME
+peθenoowe <speck> NI
+peθešte <Bethesda> NI / NI_NAME
+peθeta <obey> 
+peθlihemi <Bethlehem> NI / NI_NAME
+peθšeite <Bethesaida> NI / NI_NAME
+pehi <only> 
+peʔkali <flame> NI
+peʔkeeyakoki <branch> NI
+peʔkwaakamiki <pool> NI
+peʔšat <taste> TI / TI_1
+peʔšen <touch> TA [pe?s-]
+peʔšen <touch> TI / TI_1 [pe?s-]
+peʔšenamaw <touch> TA [pe?s-]
+peʔšilečeen <touch the hand> TA [(-)lec- / pe?s-]
+pekateθi <work> AI
+pekateθiʔt <work for something> TI / TI_1
+pekateθiim <work with> TA
+pekateθiiwe <work> NI
+pekateθiiya <work, be in effect> II
+pekaten <perform> TI / TI_1
+pekaten <serve> TA
+pekatenamaw <do something for someone> TA
+pekatenoote <be performed> II
+pekiʔk <mumur> TI / TI_1
+pekiʔkaat <mumur> TI / TI_1
+pekiʔkaati <dispute [reciprocal]> AI
+pekiʔkaatiiwe <contention> NI
+pekiʔkaawe <mumur> AI
+pekiʔkaw <mumur> TA
+pekikalawiiwe <speech> NI [kala-]
+pekilot <perform, do> TI / TI_1
+pekiškim <revile> TA
+pekiškowe <murmur (against)> AI [pek-]
+pekškin <break into pieces> TI / TI_1
+pekškinoote <be broken into pieces> II
+pekwe <grain, bit> NI
+pekwi <dust, ash> NI [pekw-, pekow-]
+pelaʔči <until> 
+peleeθ <chick> NA
+peleewa <hen> NA [pelee-]
+peleši <Pharisee> NA / NA_NAME
+pelh <unbind> TI / TI_1
+pelhamaw <release to someone> TA [pele-]
+pelhooθo <be released> AI [pele-]
+pelhooθoowe <release> NI [pele-]
+pelhoote <be unbound> II [pele-]
+pelʔškoʔka <become loose> II [pele-]
+pelʔškon <release> TA [pele-]
+pelhw <unbind> TA [pele-]
+peloočihi <afterwards> 
+pelowaamatwi <far> II
+pelowi <far> 
+pemaalakwi <? hole ?> NI
+pemaatowaaθoowe <parable> NI
+pemaatoweewe <parable> NI
+pemapiwa <be sitting> AI
+pemʔθaal <pass (someone)> TA [-?fe(-), -?fa(a)- / pem-]
+pemʔθaašiweewe <passover> NI [-?fe(-), -?fa(a)- / pem-]
+pemʔθaašiweeweni <be the passover> II [-?fe(-), -?fa(a)- / pem-]
+pemʔθaašiweewi <be the passover> II [-?fe(-), -?fa(a)- / pem-]
+pemʔθe <pass, walk> AI [-?fe(-), -?fa(a)- / pem-]
+pemʔθeeya <pass> II [-?fe(-), -?fa(a)- / pem-]
+pemʔkaam <? dip ?> TA
+pemʔkaawe <piece of bread, sop> NI
+pemi <[progressive]> Preverb
+pemi <oil> NI
+pemoote <walk> AI [pem-]
+penen <take down> TA
+penenooθo <be thrown down> AI
+penʔθenwi <fall> II
+penʔšinwa <fall> AI
+pepekiča <dark> II
+pepekičhooθo <be darkened> AI
+pepekiči <dark> Premodifier
+pepelooni <Babylon> Premodifier
+pepikwa <trumpet> NI
+pepikwe <play the flute> AI [pepikwa]
+pepikweʔtaw <play the flute> TA [pepikwa]
+pepoonʔkiiki <north> NI [pepoo-]
+pepoonwi <be winter> II [pepoo-]
+pešθenwi <touch on, concern> II
+pešhalwe <certify> AI
+pešhalwem <certify> TA
+pešikwaʔkočehooθo <be made straight> AI
+pešikwi <straight> II
+pešikwi <oneself> 
+pešipeʔteemi <? grape ?> NI
+petakhoote <be covered> II [petakw-]
+petakhoowe <covering> NI [petakw-]
+petakhooya <cover> II
+petakhw <cover> TA [petakw-]
+petakwθenwi <be covered> II [petakw-]
+petawh <cover> TA
+petekakit <restore, redeem> TI / TI_1 [peteki]
+petekθet <restore, redeem> TI / TI_2 [peteki]
+petekθetaw <redeem, restore (to)> TA [peteki]
+petekθetwaatiiwe <recompense> NI [peteki]
+peteki <back, in return, restore, redeem>  [peteki]
+petekinamoowe <recovery> NI [peteki]
+petekinooθoowe <redemption> NI [peteki]
+petekišhooθo <be restored> AI [peteki]
+petekištoote <be restored> II [peteki]
+petekitepen <redeem> TA [peteki]
+petθakatwi <be troubled> II [petfak(y)-]
+petθakh <trouble, vex> TA [petfak(y)-]
+petθakiθi <be troubled> AI [petfak(y)-]
+petθakiθiiya <be troubled> II [petfak(y)-]
+petθakit <trouble> TI / TI_2 [petfak(y)-]
+petθakitehe <be troubled> AI [(-)tehi; -tehe / petfak(y)-]
+petθakiteheešk <trouble, vex> TA [(-)tehi; -tehe / petfak(y)-]
+petθakiteheewe <care, trouble> NI [(-)tehi; -tehe / petfak(y)-]
+petθakowe <murmur> AI [petfak(y)-]
+petθakoweewe <murmur> NI [petfak(y)-]
+pethan <catch> TA
+pethatat <catch> TI / TI_2
+pethataw <catch> TA
+pθekho <? wear ?> AI
+pθiiwenehi <piece of cloth, napkin> NI
+piʔči <long, long time> 
+piʔšaaka <cord> NI
+piʔtawi <joined> Premodifier [pi?taw-]
+piʔtawikooti <coat, cloak> NI [pi?taw-]
+piʔtawiniišene <twice, two-fold>  [pi?taw-]
+piʔtawipiitenika <coat, cloak> NI [pi?taw- / piitenika]
+piʔtawipiitenike <wear a robe> AI [pi?taw- / piitenika]
+piʔteeweθi <foam> AI [pi?te]
+piʔtowe <repetition> NI
+piičθaal <enter into> TA [piit-]
+piičθaam <enter into> TA [piit-]
+piičθah <cause to enter, bring in> TA [piit-]
+piičθat <enter> TI / TI_1 [piit-]
+piičθatamaw <enter> TA [piit-]
+piičθe <enter> AI / AI+O [piit-]
+piičθe <[in, into]> Preverb [piit-]
+piičθeem <enter (to where someone is)> TA [piit-]
+piičθeeya <enter> II [piit-]
+piičθeʔθenwi <be thrown in> II
+piiči <inside>  [piit-]
+piičika <inner room> NI [piit-]
+piičtaamʔkwe <country, region> NI
+piikone <? sulphur [with siikona] ?> Premodifier
+piikweʔšinwa <fall> AI
+piileki <Peleg> NA / NA_NAME
+piilepe <lest> 
+piilepeeke <lest> 
+piileški <wilderness> NI [piileski]
+piimeelem <think bad of> TA [piim-]
+piimi <wrongly> Preverb [piim-]
+piimi-ašhetiiwe <temptation> NI [piim-]
+piimi-ašhooθoowe <temptation> NI [piim-]
+piimilawi <do wrong> AI / AI+O [piim-]
+piimilawiiwe <error> NI [piim-]
+piimileʔθi <malefactor> NA [piim-]
+piimilot <pervert, mislead> TI / TI_1 [piim-]
+piimilotaw <wrong; make evil> TA [piim-]
+piimiwel <lead astray> TA [-we-, -eewe- (+ -l-, -to) / piim-]
+piimiwelooθo <be led astray> AI [-we-, -eewe- (+ -l-, -to) / piim-]
+piimiwešiwe <lead astray> AI / AI+O [piim-]
+piimotaw <conceive in> TA
+piinh <put in> TI [piin-]
+piipkeeweni <be apart> II [pk(y)-]
+piipkwilečwh <beat> TA
+piipokwilečwh <hit> TA
+piišikalawi <affirm> AI
+piišiteheewe <patience> NI
+piita <Peter> NA / NA_NAME
+piitaaka <wallet> NI [piitaaka]
+piitaakanʔθečika <wallet> NI [piitaaka]
+piitaakaniko <wallet> NI [piitaaka]
+piitaakanimota <sackcloth> NI [piitaaka]
+piitaalakeʔšeen <touch inside the ear> TA [piit-]
+piitawi <be Peter> AI
+piiten <wear> TI / TI_1 [piitenika]
+piitenika <clothing, garment> NI [piitenika]
+piitenike <wear> AI [piitenika]
+piitenikeh <clothe> TA [piitenika]
+piitenikehooθo <be clothed> AI [piitenika]
+piitika <inside room> NI [piit-]
+piitike <in, within>  [piit-]
+piitikeen <take in, house> 
+piiwalwi <bush> NA
+pike <stray> AI
+pikeewh <put away, set aside> TA
+pkalen <light, kindle> TI / TI-O
+pkalenoote <be lit, be kindled> II
+pkameewi <gluttonous, ravenous> Premodifier
+pkameθiwi-leni <gluttonous person> NA
+pkeewa <apart from> AI [pk(y)-]
+pkeewh <put apart> TA [pk(y)-]
+pkeeyaʔkoθiiwe <branch> NI
+pkeeyaʔkwatwi <put forth branches> II
+pkeʔka <come apart, break> II
+pkehooθo <be set apart> AI
+pkehotiiwi <separating> Preverb [pk(y)-]
+pkehw <set apart> TA [pk(y)-]
+pkin <tear, separate> TA [pk(y)-]
+pkin <tear, separate, pluck> TI / TI_1 [pk(y)-]
+pkiteh <hit> TI / TI_1
+pkiteʔθenwi <be hit> II
+pkiteʔθet <hit> TI / TI_2
+pkitehike <hit> AI
+pkitehw <hit> TA
+pkonaapatamwa <faint> TI / TI-O
+pletoolyami <Praetorium> NI
+poʔkičeška <break, burst> AI [po?k(y)-]
+poʔkičeškaw <burst> TA [po?k(y)-]
+poʔkin <break> TA [po?k(y)-]
+poʔkwaʔkeen <root up, tear out> TI / TI_1 [po?k(y)-]
+pok <book> NI
+pokh <break> TI / TI_1
+pokhoote <be broken into> II
+pokwa <taste> II [(?)pokwa-]
+pokwaʔkeešk <uproot> TI
+poočaaki <corner> NI
+poočeeya <make a corner> II
+pooenačiiš <Boanerges> NA / NA_NAME
+pooešii <Boaz> NA / NA_NAME
+pooθi <perhaps> 
+pookamʔtoote <be disturbed> II
+pookatwi <wave> II
+poon <have, put> TI / TI_1 [poon-]
+poon <have, put> TA [poon-]
+poonaʔθat <store away> TI / TI_1
+poonaʔθočika <container> NI
+poonaʔθoom <possess> TA
+poonaʔθoowakokwa <container> NI
+poonaʔθoowika <storage place> NI
+poonamaw <have, put (it) [of animate object]> TA
+poonameya <have> II
+pooneelem <have in mind> TA
+poonooθo <be had, be put> AI
+poonoote <be put> II
+pootaačikeeya <blow> II
+pootaalaawa <skin> NA
+pooteθamaačika <altar> NI
+pooteθamaačikani <altar> Premodifier
+poothaaka <mill> NI [pooth-]
+poothaakanišiikona <millstone> NA [pooth-]
+popoškwiʔšinwa <be broken> AI
+pošili <bushel> NI
+pošk <break> TI / TI_1
+poškhoote <be broken> II
+poškon <break> TI / TI_1
+poškonoote <be broken> II
+poškwikaathooθo <have the leg broken> AI
+poškwikaathw <break the leg> TA
+ppaktehooθo <be beaten> AI [*pak-]
+ppaktehw <beat> TA [*pak-]
+ppeʔči <[in opposition]> Preverb [Ppe?t-, pet-]
+ppeʔčim <speak against> TA [Ppe?t-, pet-]
+ppeʔten <resist, oppose> TA [Ppe?t-, pet-]
+ppeʔten <oppose> TI / TI_1 [Ppe?t-, pet-]
+pškipaapo <vinegar> NI
+pškipeθiiwe <taste> NI
+pškipeθooθo <be seasoned> AI
+pškipete <be seasoned> II / II_DP
+pwaa <[negative]> Preverb
+pwaa-laakwaši <never> 
+pwaateepweʔšeewe <unbelief> NI [teepwe]
+pwaatepašawiileθiiwe <unrighteousness> NI
+pyaawe <coming> NI
+pyeeči <[come]> Preverb [piyeet-, piyet-]
+pyeel <bring> TA [piyee-]
+pyeelaakwaam <the time comes> II [piyee-]
+pyeelʔkamaw <send> TA [piyee-]
+pyeelʔkamawooθo <be sent> AI
+pyeelʔkaw <send> TA [piyee-]
+pyeelʔšipalii <Beelzebub> NA / NA_NAME
+pyeelooθo <be brought out> AI [piyee-]
+pyeelot <come to> TI / TI_1 [piyee-]
+pyeelotamaw <come> TA [piyee-]
+pyeelotaw <come to> TA [piyee-]
+pyeemikatwi <happen> II
+pyeepto <run to someone> AI [ptoo(-)]
+pyeet <bring> TI / TI_2 [piyee-]
+pyeetaačimoowe <news> NI
+pyeetaʔkamikatwi <come to be> II
+pyeetaʔkoθa <rise> AI
+pyeetaʔkoθamaw <rise for> TA
+pyeetapičike <draw (water)> AI / AI+O
+pyeetapit <draw, fetch> TI / TI_2
+pyeetathamaw <bring, present> TA [piyee-]
+pyeetaw <bring to> TA [piyee-]
+pyeetawiwe <bring> AI / AI+O [piyee-]
+pyeeteelet <expect> TI / TI_1
+pyeeten <bring to> TA [piyee-]
+pyeetθe <come near> AI
+pyeethanwi <get to, arrive at> II
+pyeethw <bring to> TA [piyeet-, piyet-]
+pyeetooθo <be brought> AI [piyee-]
+pyeetoote <be brought> II [piyee-]
+pyeewa <come> AI [piyee-]
+pyeeya <come> II [piyee-]
+šaailiinii <Cyrene> NI / NI_NAME
+šaakweelemo <faint, pine away> AI [saakw-,siikw-]
+šaamiiwekamoowe <psalm> NI
+šaapoči <through> Preverb [saapw-, saapwot-]
+šaaponika <needle> NI
+šaapwi <through, go through> AI [saapw-, saapwot-]
+šaapwi <through>  [saapw-, saapwot-]
+šaatami <Sodom> NI / NI_NAME
+šaatamiiwi <Sodom> Premodifier
+šaatanii <Sidon> NI / NI_NAME
+šaataniiwi <Sidon> Premodifier
+šaawe <withdraw, depart> AI [saawe]
+šaaweya <leave, depart> II [saawe]
+šaayan <Zion> NI / NI_NAME
+šaʔθo <wither> AI
+šaʔkiki <down> 
+šaʔšaakitoon <make naked> TA
+šaʔšaakitwi <naked> AI
+šaʔte <scorched,, withered>  [sa?te]
+šaika <Sychar> NI / NI_NAME
+šailoomi <Siloam> NI / NI_NAME
+šaimanii <Simon> NA / NA_NAME
+šalamanii <Solomon> NA / NA_NAME
+šamaakana <soldier> NA
+šapa <dine> AI
+šapa <supper> NI
+šapaawe <supper> NI
+šapkahi <indeed> 
+šči <lo [interjection]> 
+ščih <lo [exclamation]> 
+šeekwa <aroma> NI
+šeekwanwi <dull> II
+šeθi <Seth> NA / NA_NAME
+šeʔkamika <long time, long time ago>  [se?k-, sa?k-]
+šeʔkipakimʔškwa <purple> II
+šeʔkwaalawe <hungry> AI
+šeʔkwaalaweeweni <exist hunger> II
+šeʔpaalakiki <steep hill> NI
+šeʔpaameʔki <steep> II
+šeʔpateki <high> 
+šekalaaya <Zachariah> NA / NA_NAME
+šekali <shekel> NI
+šekaten <spread> TI / TI_1
+šekθenwi <be laid on, lie> II
+šekθet <lay> TI / TI_2
+šekθetaw <lay> TA
+šekiaš <Zacchaeus> NA / NA_NAME
+šekiθet <lay down> 
+šekimyaakwa <spice> NI
+šekišim <lay> TA
+šekolaayeš' <Zacharias> NA / NA_NAME
+šekšim <lay> TA
+šekšimooθo <be laid> AI
+šekšinwa <lie, recline> AI
+šekwaθkoote <be bruised> II
+šele <Zerah> NA / NA_NAME
+šeleni <penny> NI
+šelʔtye <Shealtiel> NA / NA_NAME
+šeliθe <Zarephath> NA / NA_NAME
+šelimi <Salim> NI / NI_NAME
+šelmanii <Salmon> NA / NA_NAME
+šeloomi <Salome> NA / NA_NAME
+šem <Shem> NA / NA_NAME
+šemelia <Samaritan> NA / NA_NAME
+šemelie <Samaria> NI / NI_NAME
+šemeliyewi <Samaritan> Premodifier
+šemeliyewiikwe <Samaritan woman> 
+šemeliyewilenawe <Samaritan> NA / NA_NAME
+šemeliyewiyani <be from Samaria> AI
+šemiyani <Semein> NA / NA_NAME
+šenʔši <farthing> NI
+šepakθenai <sabachthani [Aramaic word]> 
+šepetii <Zebedee> NA / NA_NAME
+šešipaaθi <empty> AI
+šešipaaya <empty> II
+šeškiθi <empty-handed; barren> AI
+šeškiʔkwe <virgin> NA [hkwee-, ...y?kwee-]
+šeškiikweeθa <virgin> NA [hkwee-, ...y?kwee-]
+šeškiikweθiwiiwe <virginity> NI
+šeškwati <? be devoid of ?> II
+šešonamaw <anoint> TA
+šešwilaaka <plate> NI
+šetaka <Sadoc> NA / NA_NAME
+šetenii <Satan> NA / NA_NAME
+šetošii <Sadducee> NA / NA_NAME
+šθet <prepare> TI / TI_2
+šθetaw <order; prepare> TA
+šθetooθo <be prepared> AI
+ši <[manner]> Preverb
+ši-šiikwaʔkamikiθiiwena <desolation (personified)> NA
+šiθo <be called, be named> AI
+šiiθaši <Cephas> NA / NA_NAME
+šiikawi-ykwe <widow> NA [hkwee-, ...y?kwee- / saakw-,siikw-]
+šiikawi-ykweewi <be a widow> AI
+šiikeelem <hate> TA
+šiikeelemekoθi <be hated> AI
+šiikeelemekoθiim <cause to be hated> TA
+šiikeelet <hate> TI / TI_1
+šiikeeleti <hate [reciprocal]> AI
+šiikona <stone> NA [siikona]
+šiikonaʔkatwi <rocky> II [siikona]
+šiikonakatwi <rocky> II
+šiikonhw <stone> TA [siikona]
+šiikoninepiwakokwa <stone water jug> NA [siikona]
+šiikwaʔkamikiθiiwe <desolation> NI
+šiikwi <left over [after death]> Premodifier [saakw-,siikw-]
+šiikwitaʔθoowe <goods obtained by force> NI
+šiikwitooweθi <extort> AI
+šiikwitooweθiiwe <extortion> NI
+šiila <Shelah> NA / NA_NAME
+šiilaki <Serug> NA / NA_NAME
+šiilat <Zealot> NA / NA_NAME
+šiipaači <under, beneath> 
+šiipeθiiya <harden> AI
+šiipenamaw <harden> TA
+šiipθenwi <become hard> II
+šiipiteheewe <hardness of heart> NI [(-)tehi; -tehe]
+šiiša <Caesar> NA / NA_NAME
+šiišešiiwinoočhiweewe <insurrection> NI
+šilawen <welcome> TA
+šilawiim <do with, concern onself with> TA
+šilawiiya <do> II
+šiliye <Syria> NI / NI_NAME
+šiliyeewiθeniišiyeewi <Syro-Phoenician> Premodifier
+šiliyeewileni <Syrian> NA / NA_NAME
+šimekoθiʔtamaw <have authority over> TA
+šimekoθiot <have authority over> TI / TI_1
+šimiyani <Symeon> NA / NA_NAME
+šimyaakwi <have an odor> II
+šin <marry> TA
+šinaakwatwi <seem, be like> II [nen-, new-, nee- (nookw-, naakw-)]
+šinamoowe <vision> NI
+šinetiiwe <title> NI
+šini <call, name> AI
+šinooθo <be called, be named> AI
+šipolanii <Zebulun> NA
+šipolaniiwi <Zebulun> Premodifier
+šišalye <Caesarea> NI / NI_NAME
+šišimooθo <be laid> AI
+šišinwa <be thus> AI
+šiškiwakkonʔke <make earthenware pots> AI [-aKkwa, -akkwa, -akwkwa / hasiski]
+šit <call, name> TI / TI_1
+šitamaw <call, name> TA
+šitašini <citizen> NA
+šiteheeweni <have a wish, have a feeling> AI [(-)tehi; -tehe]
+šitoote <be called, be named> II
+šiwelooθo <be led, be taken> AI [-we-, -eewe- (+ -l-, -to)]
+šiwiyeθa <that one who> Pronoun
+škahot <make wet> TI / TI_2
+škahotaw <make wet> TA
+škanooθi <soft> II [sky-, skaa-]
+škata <further, additionally> 
+škilaweʔθiiθa <boy> NA
+škilaweʔθiwi <male> Premodifier
+škipaki <green, blue>  [skipaky-]
+škipakškaʔki <green grass> NI [skipaky-]
+škipwaawi <hyssop> NI
+škonooθo <be left> AI
+škote <fire> NI
+škwaalawaaθiiwe <famine> NI
+škwaalawe <hungry> AI
+škwaalaweewaʔkamikatwi <famine> II
+škwaalaweewe <hunger> NI
+škwaalaweeweni <famine> II
+škwaapye <edge, coast> NI
+škwaate <gate, door> NI
+škwaatekeʔčitawaʔtoo <guard a gate> TI / TI_2
+škwaaya <border> NI
+škwat <have left over> TI / TI-O [skw-]
+škwatoote <be left over, be excess> II [skw-]
+škwiʔθen <spare, have left over> TI / TI_1 [skw-]
+škwiileθi <increase, become larger> AI
+škwiilenawe <generation> NA
+škwiilenaweewiiwe <generation> NI
+škwiinamaw <increase> TA
+škwiiwa <increase> AI
+škwiiwe <generation> NI
+škwiiwena <generation> NA
+škwiiya <increase> II
+škwikami <rise> II
+škwiniiki <grow> AI
+škwiniikinwi <grow> II
+šolopeepalii <Zerubbabel> NA / NA_NAME
+šoošooni <basket> NI [soosooni]
+šoošyena <Susanna> NA / NA_NAME
+šoškhol <summon> TA
+šoškiiwa <get up> AI
+šoškwaaθi <drag> AI
+šoškwaten <let get away (fail to keep)> TA [soskw-, sasoskwa]
+špaalakatwi <deep> II [sp-]
+špaalakwi <deep> Preverb [sp-]
+špaʔkwikaani <porch> NI
+špatenwi <high> Premodifier [sp-]
+špeelemekoθi <be above> AI [sp-]
+špeelemekoθih <exhalt> TA [sp-]
+špeelemekwatwi <important> II [-eele- (+ -m-, -ta) / sp-]
+špeθiiwe <stature, height> NI [sp-]
+špemeθeki <above>  [sp-]
+špemeki <up>  [sp-]
+špiʔθenwi <deep> II [sp-]
+špitemi <deep> II [sp-]
+štoote <be made> II
+taakteli <doctor> NA
+taamʔkwe <country, region> NI
+taamošii <Thomas> NA / NA_NAME
+taamyaši <Timaeus> NA / NA_NAME
+taaniʔkiwe <where> 
+taaniwe <which, what> Pronoun
+taapiliašii <Tiberius> NA / NA_NAME
+taapiliašii <Tiberias> NI / NI_NAME
+taapiliašiiwi <Tiberias> Premodifier
+taaši <? location ?> Preverb
+taawalon <open> TA [taw-]
+taayaa <Tyre> NI / NI_NAME
+tah <[locational]> Preverb
+takohwa <bread>  [takhwa; takhw-]
+takohwaani <bread> Premodifier [takhwa; takhw-]
+takohwaaniwi <be bread> AI [takhwa; takhw-]
+takot <join together> TI / TI_2 [takw-]
+takwaačimo <agree> AI [takw-]
+takwaatot <compare, liken> TI / TI_1 [takw-]
+takweelemekoθi <be compared to, be likened to> AI [takw-]
+takweelemekwatwi <be compared to, be likened to> II
+takweelet <compare to, liken> TI / TI_1 [takw-]
+takwhike <grind> AI [takhwa; takhw-]
+takwi <belong to, be part of> II [takw-]
+takwi <together> Preverb [takw-]
+takwiθet <join to> TI / TI_2 [takw-]
+takwikwaate <be joined> II [takw-]
+takwin <join together> TI / TI_1 [takw-]
+takwinamaaw <assign a thing to someone> TA [takw-]
+talahoot <cry out> TI / TI-O
+talateθo <be burdened (burden oneself)> AI
+talatelaakwi <be burdened> AI
+talawikaal <write about> TA
+talawike <write about> AI
+tale <away from> Preverb
+taliθe <talitha [Aramaic]> 
+talmanooθa <Dalmanutha> NI / NI_NAME
+talwaʔθeeletamaw <entrust to> TA
+talwaʔθw <put in charge> TA
+talwe <make sound> II
+talweeweʔθenwi <fall making noise> II
+tamaka <? deep ?> II
+taši <place> 
+tašimo <cry out> 
+tašimooweθi <use the voice, speak> AI
+tašiwe <? be somewhere ?> AI
+tatawaaθiiwe <tumult> NI
+tatawaanʔke <make noise> AI
+tatawaanʔkeewe <tumult> NI
+tatawaanʔkeewi <noisy, riotous> Premodifier
+tatawaanwi <noisy> II
+tateekakwi <thoroughly> Preverb
+tawaači <openly> Preverb [taw-]
+tawaaθiiwe <opportunity> NI [taw-]
+tawaawi <open> II [taw-]
+tawaawiinamiiwe <free time, leisure> NI
+taweeteewika <tower> NI
+tawen <open> TI / TI_1 [taw-]
+tawenamaw <open> TA [taw-]
+tawenehika <key> NI [taw-]
+tawenooθo <be opened> AI [taw-]
+tawenoote <be opened> II [taw-]
+taweška <open> II [taw-]
+tawšk <open> TI / TI_1
+tayeewahi <opening, openly> Preverb [taw-]
+teekšh <tithe, tax> TI / TI_1
+teekšhiwe <tax,collect tolls> AI
+teekšhooθoowe <tribute> NI
+teekšhotiiwe <tribute> NI
+teekšiiwi <tax> Premodifier
+teekšiiwi-maawatonikeʔθii <tax collector> NA
+teemaa <Tamar> NA / NA_NAME
+teenial <Daniel> NA / NA_NAME
+teepaʔkole <give light thus far> II [teep-]
+teepali <table> NI
+teepašawaʔkoniwe <judge> NA
+teepašawateniwe <judge> AI
+teepašawʔt <justify> TI / TI_2
+teepašawi <honest> AI
+teepašawiileθi <just> AI
+teepatwi <be enough> II
+teepeelečikan <rule> NI
+teepeelečike <ruler, lord> NA
+teepeelečike <rule, be lord over> AI
+teepeelem <rule, be lord> TA
+teepeelemh <fill, satisfy> TA [teep-]
+teepeelemiwe <rule, be lord> AI
+teepeelemiwen <ruler, lord> NA
+teepeelemo <be satisfied, be content> AI [teep-]
+teepeelemweewi <be the lord> AI
+teepeelet <rule, be lord over> TI / TI_1
+teepeeletamʔpenal <lord over> TA [?pena-]
+teepθenwi <enough> II [teep-]
+teephetiiwe <gift> NI
+teephiwe <offer, present> AI / AI+O
+teephiweewe <offering> NI
+teephool <fill> TA [teep-]
+teephoolo <be filled> AI [teep-]
+teepi <enough>  [teep-]
+teepiileθi <able, worthy, enough> AI [teep-]
+teepileelet <consider worthy> TI / TI_1 [-eele- (+ -m-, -ta) / teep-]
+teepim <convict> TA
+teepim <silence> TA [teep-]
+teepinaakoθi <appear> AI [nen-, new-, nee- (nookw-, naakw-)]
+teepitehe <dare, be willing> AI [(-)tehi; -tehe / teep-]
+teepiteheeya <willing> II
+teepitii <David> NA / NA_NAME
+teepitiiwika <house of David> NI
+teepiwatwi <possible> II [teep-]
+teepowaašiwee <adjudicate> AI [teepwe]
+teepowe <counsel> AI [teepwe]
+teepwe <be true> AI [teepwe]
+teepweeminek <bear witness> TI / TI_2 [teepwe]
+teepweewe <witness, testimony, truth> NI [teepwe]
+teepweewena <witness> NA [teepwe]
+teepweewenh <testify> TA [teepwe]
+teepweewenʔka <make testimony> AI [teepwe]
+teepweeweni <have truth, be true> II [teepwe]
+teepweeweniwiiwe <witnessing> NI [teepwe]
+teepweewenwi <truly> Preverb [teepwe]
+teepweʔšaakani <have faith> AI [teepwe]
+teepweʔše <believe> AI / AI+O [teepwe]
+teepweʔšeeθa <believer [dimunitive]> NA [teepwe]
+teepweʔšeewe <belief, faith> NI [teepwe]
+teepweʔšeeweni <have faith> AI [teepwe]
+teepweʔšeewi <believe> AI [teepwe]
+teepweʔt <believe> TI / TI_1 [teepwe]
+teepweʔtamaw <believe> TA [teepwe]
+teepweʔtaw <believe> TA [teepwe]
+teetaʔkwa <eagle> NA
+teewa <dwell> AI
+teewahi <it being the case that> 
+teh <[teh]> Preverb
+teheʔtoote <be determined> II
+teheʔtwaati <think, wish [reciprocal]> AI
+tehi <heart> NI [(-)tehi; -tehe]
+teʔka <cold> II
+tekawihi <a little bit>  [tekawii]
+tekhaaka <axe> NI
+teki <[prohibitive]> Preverb
+tekwaačipenal <treat shamefully> TA [?pena- / tekwe-, tekawa-]
+tekwaačipenalooθo <be treated shamefully> AI [?pena- / tekwe-, tekawa-]
+tekweewʔpenal <treat badly> TA [?pena- / tekwe-, tekawa-]
+tekweθi <be ashamed> AI [tekwe-, tekawa-]
+tekweh <be ashamed of> TA [tekwe-, tekawa-]
+teleθ <befit, be in a state> 
+telenʔt-moni <talent [monetary unit]> NI
+teleni <talent [monetary unit]> NI
+tenaliiwe <dinner> NI
+tenelyaš <denarius, penny> NI
+tepaači <[as testimony]> Preverb
+tepaačim <confess, testify> AI / AI+O
+tepaačimoʔtaw <confess, testify> TA
+tepaane <apart, except for, besides> 
+tepaani <separately> Preverb
+tepaatan <commant> TI / TI_1
+tepačikaal <measure> TA
+tepačikamhw <fill up> TA
+tepačikan <measure> NI [tepaat-, tepawaw-]
+tepačike <measure> AI
+tepakoθen <floor> 
+tepakoθenoowe <floor> NI
+tepal <measure> TA
+tepašawaačim <confess> TA
+tepašawaačimo <confess> AI
+tepašawaačimoowe <account> NA
+tepašawakoweewe <righteous judgment> NI
+tepašawatwi <righteous> II
+tepašaweelemekoθiʔt <justify> TI / TI_2
+tepašaweθi <faithful, just> AI
+tepašaweθiiwi <[righteously]> Preverb
+tepašawh <judge> TA
+tepašawʔpenaletiiwe <judgment> NI [?pena-]
+tepašawi <faithful, just> Premodifier
+tepašawi-lenii <righteous person> NA
+tepašawiileθiiwe <righteousness> NI
+tepeelemekoθitaw <have lordship over> TA [tep-]
+tepeeletameθi <free> AI [tep-]
+tepeeletameθiiwaʔkeeph <make free> TA [tep-]
+tepeeletamʔθeya <free> II [tep-]
+tepeeletami <freely> Preverb [tep-]
+tepeeletamooweθi <free> AI [tep-]
+tepeeletamooweθiiwe <freedom> NI [tep-]
+tepeewe <hundred> 
+tepeʔki <night> NI
+tepeʔki <be night> II [tep(e?)ki]
+tepeʔkikiišθwa <moon> NA
+tepeʔkiniitawaaka <lantern> NA
+tepeʔše <hear> AI
+tepen <buy> TI / TI_1 [tep-]
+tepen <buy> TA [tep-]
+tepenamaw <buy> TA [tep-]
+tepenike <buy> AI [tep-]
+tepetwahoot <cry out together> TI / TI-O
+tepetwi <together> Preverb
+teph <pay> TI / TI_1 [tep-]
+tephaw <pay> TA [tep-]
+tephika <cup> NA [tep-]
+tephike <pay> AI / AI+O [tep-]
+tephikeewe <payment> NI [tep-]
+tephoθiiwe <reward> NI [tep-]
+tephooθoowe <wage> NI [tep-]
+tephotiiwe <wage> NI [tep-]
+tepikeem <give commandment to> TA
+tepikeemo <command> AI
+tepikeemooθo <be commanded> AI
+tepikeemoowe <commandment> NI
+tepilahi <even, just, precisely> Premodifier
+tepilo <truly, exact> 
+tepim <command> TA
+tepimetiiwe <charge, command> NI
+tepimooθoowe <charge, command> NI
+tepin <see> TI / TI-O
+tepinaakoθiʔtaw <appear to> TA [nen-, new-, nee- (nookw-, naakw-)]
+tepinaakwatwi <appear> II [nen-, new-, nee- (nookw-, naakw-)]
+tepinaakwi <open, apparent, plain> Preverb [nen-, new-, nee- (nookw-, naakw-)]
+tepinaakwiθenwi <be made clear> II [nen-, new-, nee- (nookw-, naakw-)]
+tepinalekowe <pronounce, testify> AI
+tepinalekwi <by testifying> Preverb
+tepinalekwim <pronounce, instruct, command> TA
+tepinamoowe <sight> NI [nen-, new-, nee- (nookw-, naakw-)]
+tepinamooya <see> II [nen-, new-, nee- (nookw-, naakw-)]
+tepinaw <see> TA [nen-, new-, nee- (nookw-, naakw-)]
+tepinawkθetooθo <be manifested> AI [nen-, new-, nee- (nookw-, naakw-)]
+tepinawkhooθo <be revealed> AI [nen-, new-, nee- (nookw-, naakw-)]
+tepinawkoθet <show, manifest> TI / TI_2 [nen-, new-, nee- (nookw-, naakw-)]
+tepinawkoθetaw <show to, manifest to> TA [nen-, new-, nee- (nookw-, naakw-)]
+tepinawkoθetoote <be shown> II [nen-, new-, nee- (nookw-, naakw-)]
+tepinawkoθi <appear> AI [nen-, new-, nee- (nookw-, naakw-)]
+tepinawkoθiʔtaw <appear to> TA [nen-, new-, nee- (nookw-, naakw-)]
+tepinawkoθiim <be manifested to> TA [nen-, new-, nee- (nookw-, naakw-)]
+tepinawkot <make apparent, manifest> TI / TI_2 [nen-, new-, nee- (nookw-, naakw-)]
+tepinawkwaatot <testify about> TI / TI_1 [nen-, new-, nee- (nookw-, naakw-)]
+tepinawkwi <appear> II [nen-, new-, nee- (nookw-, naakw-)]
+tepineem <see clearly> TI / TI_3 [nen-, new-, nee- (nookw-, naakw-)]
+tepiškwi <openly> Preverb
+tepiwiitamaw <tell, explain> TA
+tepki <level ground> NI [tepki]
+tepow <counsel> TA [tepowe]
+tepowaaθoowe <test, trial, temptation> NI [tepowe]
+tepowaal <conspire against, judge> TA [tepowe]
+tepowaašiwe <judge> AI [tepowe]
+tepowaašiweewe <judgment> NI [tepowe]
+tepowaat <judge> TI / TI_1 [tepowe]
+tepowe <counsel> AI [tepowe]
+tepoweewakhoowe <courtyard> NI [tepowe]
+tepoweewe <council, counsel> NI [tepowe]
+tepoweewi <judgment> Premodifier [tepowe]
+tepoweewiwakhoowe <courtyard> NI [tepowe]
+tepoweewiyaʔpapiiwe <judgment seat> NI [tepowe]
+tepwh <pay> TA [tep-]
+tetepaʔpiθo <be wrapped> AI
+tetepaʔpiθoowe <band> NI
+tetepaʔpil <wrap> TA
+tetepaʔtekwi <vine> NI
+tetepapiθoowe <swaddling clothing> NI
+tetepečeenoote <be rolled up> II [tetep-]
+tetepen <roll> TA [tetep-]
+tetepiikwepiθo <have the face covered> AI
+tθani <bed> NI
+tθene <quantity, amount> 
+tθenwi <be so much> II
+tθokwi <day> NI
+tθwahoot <quit crying out> TI / TI-O
+tθweekθenwi <times as much, -fold> II
+tθweekinwi <times as much, -fold> II
+tθweelena <group> 
+tθweelenawa <number among> AI
+tθweeloowe <group> N
+tθweelwa <number among, make up a group> AI
+tθwi <as many as> Premodifier
+tθwi <be as many as> AI
+tθwiʔka <stop> TI / TI_1
+tθwiʔkaw <stop> TA
+tθwikamikiθiiwe <membership of clan> NI
+tθwike <be a group> AI
+tθwilawi <stop> AI [tfw-]
+tiikeepolaši <Decapolis> NI / NI_NAME
+tiila <Terah> NA / NA_NAME
+tiitθweelenawakiθi <be in a group, be in order> AI
+tikiʔθetaw <cool> TA
+tikiniikinwi <become cold> II
+tiliwaškwi <anise> NI
+titimaš <Didymus> NA / NA_NAME
+tkikami <well> NI
+tkikamiiwaalakwi <well> NI
+tkikamiiwi <be a well> II
+toke <whether, else> 
+towath <knock> TI / TI_1
+towathike <knock> AI
+twekonaatiš <Trachonitis> NI / NI_NAME
+waakeeθa <locust> NA
+waaki <stoop, bend> AI [waaky-]
+waakičeelwa <stoop> AI
+waakičiikwaneška <kneel> AI [(-)ciikwa(n-)]
+waakičikweška <bow the head> AI [waaky-]
+waakimyaakokiwi <spice, incense> Premodifier
+waakimyaakwa <spice, incense> NI
+waakočeʔθi <fox> NA
+waakom <know> TA [waakw-]
+waakomekoθi <be known> AI [waakw-]
+waakomekoθih <make known> TA [waakw-]
+waakometiim <acquaintance> NA
+waakometiiwen <acquaintance> NA
+waakot <know> TI / TI-O [waakw-]
+waakotamaw <know> TA [waakw-]
+waakoteθi <learn> AI
+waakoteθih <make known> TA [waakw-]
+waakoteθihiwe <make known (to indefinite object)> AI / AI+O [waakw-]
+waakoteθiiya <know> II [waakw-]
+waakotel <make known, show> TA [waakw-]
+waakotešiwe <make known> AI [waakw-]
+waakotoote <be known> II [waakw-]
+waalʔke <dig> AI [waal?ke]
+waalʔkwathoote <be cut, be hewn> II [waal?kwa]
+waalʔkwatwi <valley> II [waal?kwa]
+waamekhoote <be caused to become> II
+waani <be lost> AI [waani]
+waaniiwi <lost> Premodifier [waani]
+waaniwel <lead astray> TA [-we-, -eewe- (+ -l-, -to) / waani]
+waapake <tomorrow, next day> 
+waapakeewe <sight> NI
+waapaki <daily, every day> Premodifier [waap-]
+waapalaačh <mock> 
+waapalaačhooθo <be mocked> AI
+waapalaačim <mock> TA
+waapaleelem <mock> TA
+waapam <look at> TA [w- (+ -aapa-)]
+waapam <see> TI / TI_1
+waapamekoθiiwe <showing> NI
+waapameti <look at [reciprocal]> AI [w- (+ -aapa-)]
+waapanaači <safely> Preverb
+waapaneščika <salvation> NI
+waapanešh <save, make whole> TA [waap-]
+waapanešhiwe <save> AI [waap-]
+waapanešhooθo <be saved> AI [waap-]
+waapanešt <save, make whole> TI / TI_2 [waap-]
+waapaneštaw <save> TA [waap-]
+waapaneštoote <be saved, be made whole> II [waap-]
+waapanʔši <recover, be saved> AI [waap-]
+waapanʔšii <savior> NA
+waapanʔšiiwe <salvation> NI
+waapanʔšiiwena <savior> NA
+waapanʔšiiwi <salvation> Premodifier
+waapanʔšiweewe <salvation> NI
+waapanwi <morning> AI [waap-]
+waapašiphikeewe <adultery> NI
+waapašiphikeeweθi <adulterous> AI
+waapašiphikeeweθiiya <adulterous> II
+waapašiphikeewiikwe <adulteress> NA [hkwee-, ...y?kwee-]
+waapašiphikeʔθi <adulterer> NA
+waapat <look at> TI / TI_1 [w- (+ -aapa-)]
+waapatel <show> TA [w- (+ -aapa-)]
+waapatešiwe <show> AI / AI+O [w- (+ -aapa-)]
+waapi <white> Premodifier [waap-]
+waapimaθaanimota <linen cloth> NI
+waapimoni <silver coin> NI [waap-]
+waapit <make white> TI / TI_2 [waap-]
+waaptoote <be whitened> II [waap-]
+waašaalakwi <den, hole> NI [wasaala- (wasi- + -aala- + -ky-, -kw-)]
+waašikaki <power> NI
+waaweši <be dressed, be decorated> AI
+waawešiʔkate <decorated> II
+waawešiʔkatoote <be decorated> II
+waawešiwi <decorative, sumptious> Preverb
+waawiin <send> TA
+waawiinekoθiiwe <fame> NI
+waawiineškaw <send> TA
+waawiineškooθo <be sent> AI
+waawiinʔke <send to> AI / AI+O
+waawiinooθo <be sent> AI
+waawiyaakačθenwi <be mixed> II [wawiy-, waawiy- (+ -aa-, -ee-, -ak-, -aak-)]
+wačiwaʔki <mountain> NI
+wah <[dependent future]> Preverb
+wahataam <borrow> TA
+waʔθaači <glorious> Premodifier [wa?fee-]
+waʔθaačimekoθih <glorify> TA [wa?fee-]
+waʔθaačimekoθihooθo <be glorified> AI [wa?fee-]
+waʔθaačimekoθiʔt <glorify> TI / TI_2 [wa?fee-]
+waʔθaačimekoθiiwe <glory> NI [wa?fee-]
+waʔθaačimekoθiiwh <glorify> TA [wa?fee-]
+waʔθaačimekohw <glorify> TA [wa?fee-]
+waʔθaačimekwit <glorify> TI / TI_2 [wa?fee-]
+waʔθeeya <light> NI [wa?fee-]
+waʔθeθ <shine> TI / TI-O [wa?fee-]
+waʔθeθamooya <shine> II [wa?fee-]
+waʔθeθiiya <shine> II [wa?fee-]
+waʔθeθike <shine> AI [wa?fee-]
+waʔθeθikeewe <shining> NI [wa?fee-]
+waʔθeʔtaw <shine upon> TA [wa?fee-]
+waʔθekeeya <shine> II [wa?fee-]
+waʔθeška <appear (as light), flash> II [wa?fee-]
+waʔθete <bright> II [wa?fee-]
+waʔθiikwθoowatwi <dazzle> II [wa?fee-]
+waʔθiikwiθoowaši <shining clothing> NI [wa?fee-]
+waʔkanakya <white> II [wa?kanaky-]
+waiini <wine> NI
+waiiniiwi <wine> Premodifier
+wakh <fence in> TI / TI_1 [wak-]
+wakhoowe <fence, enclosure> NI [wak-]
+wakhoowika <court> NI
+waleškhot <waste> TI / TI_2
+waleškhotaw <waste> TA
+waleškhotoote <be wasted> II
+wanaateθiiwe <wickedness> NI
+waneθo <drunk> AI
+waneθoowe <drunkness> NI
+wanh <lose> TA
+wanʔθoneeweθi <be perplexed> AI
+wanʔt <lose> TI / TI_2
+wanʔtoote <be lost> II [wan-]
+waniʔkaalooθo <be forgotten> AI [wan-]
+waniʔkaat <forget> TI / TI_1 [wan-]
+waniʔšakaa <fool> NA
+waniʔšakaaweθi <foolish> AI
+waniʔšakaawi <foolish> Premodifier
+waniʔšakaawiiwe <foolishness> NI
+wanikeemo <deceive> AI
+wanimeθiiwe <deceit> NI [wan-]
+wanimetiiwe <deceit> NI [wan-]
+wanineʔθi <devil> 
+wašθa <be part of> II
+wayaakya <crooked> II [waaky-]
+wayaʔθem <cast light on> TA [wa?fee-]
+wayaʔθeya <light> II [wa?fee-]
+wayeeči <towards> Postposition
+wayeetaʔkwe <side> NI
+wayiniʔt <make into wine> TI / TI_2
+weečameh <tame> TA
+weečeeninaati <be a sibling> AI
+weečihi <easy>  [weet-]
+weečihiwatwi <easy> II [weet-]
+weečikeenahi <therefore> Conjunction
+weečita <consequently> Preverb
+weečitaya <necessary> II
+weečiwephi <except for, unless> Conjunction
+weeka <but> Conjunction
+weekhi <though> 
+weelaa <or> Conjunction
+weelaake <else> Preverb
+weelakwiima <fatling> NA
+weelena <immediately> 
+weelenawakatwi <immediate> II
+weenaateθi <wicked> AI
+weenaʔkwi <? presumably ?> 
+weeneθo <drunk> NA
+weenikeemo <deceiver> NA
+weepeelem <fornicate> TA
+weepeeletiiwe <fornication> NI
+weepeeletiiwhetiiwe <fornication> NI
+weepeθi <mad, insane> AI [weep-]
+weepθe <go> AI
+weepθeeya <go> II
+weepi <cold> II
+weepikišiθoowe <fever> NI
+weepokwaʔkičeephoote <be uprooted> II
+weepškweete <loaf> NI
+weeweetepi <quickly> 
+weeweθhoowe <fan> NI
+weeya <person, appearance> NI
+weeyaʔka <depth, goodness> NI [weeya?ka-]
+wehi <[suggestion]> Preverb
+weʔšeteki <high> 
+weʔšiya <husband> NA
+weyaʔkaawi <get better (health)> AI [weeya?ka-]
+weyakaačaaki <uncleanness> NI
+wiʔθakakkooθa <jar> NA
+wiʔθakakkooθa <jar> NA
+wiʔθakwe <weep> AI [wi?fa- (+ -kwe)]
+wiʔθakweewe <weeping> NI [wi?fa- (+ -kwe)]
+wiʔθakweeweni <there is weeping> II [wi?fa- (+ -kwe)]
+wiʔθaya <hair> NI [wi (+ -?faya)]
+wiʔθenʔčike <cause eating, hold a feast> AI [wi?feni]
+wiʔθenʔčikeewe <feast> NI [wi?feni]
+wiʔθeni <eat, feast> AI [wi?feni]
+wiʔθeniiwe <food> NI [wi?feni]
+wiʔkaaneti <be friends [reciprocal]> AI
+wiʔkaanetiʔke <make friends with> AI
+wiʔkaanima <friend, companion> NA / NA_DEP [(-)?kaana]
+wiʔkaanin <be a partner of> TA
+wiʔkoči <most> 
+wiʔkokeemo <call> AI [wi?ko-]
+wiʔkom <call>  [wi?ko-]
+wiʔkometi <call to [reciprocal]> AI [wi?ko-]
+wiʔkomooθo <be called> AI [wi?ko-]
+wiʔkwiʔkaw <compel> TA
+wiʔpeem <be with> TA
+wiʔpom <eat with> TA
+wiʔši <[purposive]> Preverb [wa?si-]
+wiʔši <dog> NI [wi?si]
+wiʔšiikwaya <chaff> NI
+wiičeekilawiiwe <pleasure> NI [wiiceeky-]
+wiičheti <marry [reciprocal]> AI [wiit-, (w)-iit-, wi?-]
+wiičhetiiwe <marriage, wedding> NI [wiit-, (w)-iit-, wi?-]
+wiičhetiiwi <marriage> Premodifier [wiit-, (w)-iit-, wi?-]
+wiičhetiiwipiitenika <wedding garment> NI [piitenika / wiit-, (w)-iit-, wi?-]
+wiiči <with, in the company of> Preverb [wiit-, (w)-iit-, wi?-]
+wiiči <with, in the company of> 
+wiiči-aloolaakaaθa <fellow-servant> NA [wiit-, (w)-iit-, wi?-]
+wiiči-wiʔθeniim <eat in the company of> TA [wi?feni / wiit-, (w)-iit-, wi?-]
+wiičiim <be with, accompany> TA [wiit-, (w)-iit-, wi?-]
+wiičikeem <live with> TA [wiit-, (w)-iit-, wi?-]
+wiičikwakwileni <companion>  [wiit-, (w)-iit-, wi?-]
+wiičitehaat <intend> TI / TI_1
+wiičiweθi <accompanied by, having> AI [wiit-, (w)-iit-, wi?-]
+wiičiwelooθo <be led with> AI [-we-, -eewe- (+ -l-, -to) / wiit-, (w)-iit-, wi?-]
+wiičiwi <be with> AI [wiit-, (w)-iit-, wi?-]
+wiiθo <be named> AI
+wiiθoowe <name> NI
+wiiθwi <gall> NI
+wiikehooθoowe <consolation> NI [wiikee-]
+wiikinaakwi <even> 
+wiikiwa <house> NI [wiikiwa]
+wiikiwaalakwi <den> NI [wiikiwa]
+wiikiwaapi <house> Premodifier [wiikiwa]
+wiikka <build> AI
+wiilaani <let, allow; let it be> 
+wiilaanišiweewe <permission> NI
+wiilan <tongue> NI [(w)-iilani]
+wiileʔθi <hair> NI / NI_DEP [(w)-iil-]
+wiipiči <tooth> NI [(w)-iipici]
+wiiša <[volitional]> Preverb
+wiišaačitehe <be fearful> AI [(-)tehi; -tehe]
+wiišaaθi <fear> AI
+wiišaaθih <stir up, arouse> TA
+wiišaaθiiya <fear> II
+wiišaalepwa <fear> AI [lepwa]
+wiišaθoowe <sweat> NI
+wiišeya <constricted> II [wiisee-]
+wiiši <head> NI / NI_DEP [(w)-iil-]
+wiišikatowi <strong> AI [wiisiki]
+wiišikatowiiwe <strength, power> NI
+wiišiki <endure> AI
+wiišiki <strongly, diligently> Preverb [wiisiki]
+wiišikiʔk <strive> TI / TI_1
+wiišikileni <strong man> NA [wiisiki]
+wiišikimekoθi <mighty> AI
+wiišikin <strengthen> TA
+wiišikitehe <endure, bear up> AI
+wiišikiteheewi <boldly> Preverb
+wiišikiteheʔtaw <bear up with, stand for> TA
+wiišikowe <be loud> AI
+wiišiwalakeema <lily> NI
+wiitaapowem <drink with> TA [wiit-, (w)-iit-, wi?-]
+wiitaθoom <be with> TA
+wiitakimekoθi <associate with> AI
+wiitakimooθo <be associated with> AI
+wiitamaw <tell> TA
+wiitapiim <sit with> TA
+wiitatwh <hit> TA
+wiiteem <go with, follow> TA
+wiiteet <go with> TI / TI_1
+wiiteθi <go with> II [wiit-, (w)-iit-, wi?-]
+wiiteθiim <be with> TA
+wiitθeem <be with> TA [-?fe(-), -?fa(a)-]
+wiitθem <be in company with> TA [wiit-, (w)-iit-, wi?-]
+wiitθemiwe <be in company> AI [wiit-, (w)-iit-, wi?-]
+wiitki <trade, buy and sell> AI
+wiitkiiwe <trading> NI
+wiitkiiwika <store> NI
+wiitootamaw <tell, confirm> TA
+wiitpenem <die with> TA
+wiiwa <wife> NA [(w)-iiwa]
+wiiwapil <bind, cover> TA
+wiiwašh <load, place a burden on> TA
+wiiwaši <bear> AI [wiiwasi]
+wiiwašiiwe <burden> NI [wiiwasi]
+wiiwiilali <horn> NI
+wiiwin <marry> TA
+wiškalelwa <stink> AI [wiskale-]
+wiškaletwi <rot> II [wiskale-]
+wiškiloʔθaka <bird>  [wiskilo?fa]
+wiyakaačit <distort> TI / TI_2
+wiyakahoot <cry out> TI / TI-O
+wiyakahootamoowe <outcry> NI
+wiyakileči <dirty hand> NI [(-)lec- / wiyak- (+ -aaci)]
+wiyakileʔθi <unclean spirit> NA [wiyak- (+ -aaci)]
+wiyakiwanineʔθi <unclean spirit, devil> NA
+wiyakowe <angry> AI
+wiyakoweewe <anger> NI
+wiyakoweewi <angrily, fiercely> Premodifier
+wiyakoweʔtaw <be angry at> TA
+wiyakwe <we are> AI
+wiyameškwi <?> Preverb
+wiyanaatihooθo <be shamed> AI
+wiyanaatiiwe <shame> NI
+wiyawaačh <praise> TA
+wiyawaačim <praise> TA
+wiyawaačimekwh <praise> TA
+wiyawaačimetiiwe <praise> NI
+wiyawaačimoowe <praise> NI
+wiyawaʔkaal <praise> TA
+wiyawen <? surrender, commend to ?> TA
+wiyawθi <flesh, meat> NI [wiyaw?fi]
+wiyawθima <flesh> NA [wiyaw?fi]
+wiyawθiwi <be flesh> II [wiyaw?fi]
+wiyawθiwiiyaana <body> NA [wiyaw?fi]
+wiyeeči <in the direction of, toward> 
+wiyeeθa <someone> Pronoun [wiyee-]
+wiyehi <things, goods> NI
+wiyehi <something> Pronoun [wiyee-]
+wiyehileelemiwe <judge> AI [-eele- (+ -m-, -ta)]
+wiyehiši <means, manner> Preverb
+wiyehlyeeweewe <bodily form> NI
+wiyeʔši <any> 
+wiyeʔšimekoθiiwe <authority> NI
+wiyeʔšimekoθiiwena <authority, power> NA
+wiyeʔšimota <cloth, textile> NI
+wiyeʔšiwa <skin> NA
+wiyeši <any> Pronoun
+wyiakaači <corrupt> 
+yaakwateekimoowi <dunghill> NI
+yaalʔk <repeatedly step, always step> TI / TI-O
+yaami <Er> NA / NA_NAME
+yaamikami <flood> NI
+yaapweeweθi <withered> AI
+yaašoon <exchange> TI / TI_1
+yaataaki <room> NI
+yah <[with negative, intensifier]> Preverb
+yaška <same> 
+yeečiwi <possible> II
+yeeθoška <crowd> AI
+yeekwaaki <end> NI
+yeekwaakwalʔki <rust> NI
+yeekwiʔθe <end> NI
+yeelaakwa <since the time> 
+yeelaakwaši <while> 
+yeelaapaači <by interpretation> Preverb
+yeelaapam <rule, govern> 
+yeelaawaʔkweki <south> NI
+yeelaʔθameθite <in front of, opposite> AI
+yeelaʔθamʔθenwi <in front of, opposite> II
+yeelaʔθami <in front of, opposite> AI
+yeelaʔθamiikwe <in front of, opposite> AI
+yeelaʔθamiiya <in front of, opposite> II
+yeelaʔθamiwem <in front of, opposite> TA
+yeelaʔkamikiki <era, temporal stage> 
+yeele <[as something was happening, in the process of]> Preverb
+yeelekokwaʔkamikiki <world> NI
+yeepθateki <side>  [pa?f-, pf-]
+yeešθeki <according to, following> 
+yeešim <say (so) to> TA
+yeešiteheeweni <will, wish> II [(-)tehi; -tehe]
+yeešiweeθi <be thus> AI
+yeeteka <kind, sort, such> 
+yeh <[subordinate]> Preverb
+yeheeyehi <while> Conjunction
+yeʔki <earlier, in the past> 
+yʔkweelemekoθi <worthy> AI
+yʔkweewa <woman> NA [hkwee-, ...y?kwee-]
+ykweelemekwatwi <worthy> II
+yo <[? indeed ?]> 
+yoo/ni/hi <[this, that]> Pronoun / Pronoun_dem
+yooči <hence, henceforth> 
