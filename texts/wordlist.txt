@@ -18,6 +18,7 @@
 (hoʔ)pelowi
 (mšiʔhwe)
 (ni)paapaʔwaniiteθi
+[  ]šipeθi
 [h]apeloʔθaki
 [h]iyekoči
 [ha]peloθhi
@@ -35,6 +36,8 @@ h[ah]šamaali
 h[i]škiči
 h[o]šinaali
 h[o]ʔkanali
+h[oo]tayeeli
+ha(a)poošiiθa
 haaloonʔška
 haalwipemʔθe
 haapi
@@ -54,6 +57,7 @@ hapeloʔθa
 hapeloʔθaki
 hapeloʔθali
 hapeloθhi
+hapka
 hatθoʔke
 hatθoʔkeelo
 hawapokhaana;
@@ -114,6 +118,10 @@ hokithaanaawa
 hokišiθwahi
 hokookinaali
 hokwaakʷtaanaawa
+hokwiʔθwaali
+holaapaateθi
+holaapateθi
+holahθwahi
 holaʔθwawimʔkiθena
 holekonaanaawa
 holečiwali
@@ -121,16 +129,21 @@ holiikinaali
 homa(a)winalaali
 homaatawi-noočhetiimaali
 homaatawi-noočhetiimali
+homaatawimiičina
 homamenaawa
+homehčitoona
 homečštoona
 homeʔteelema[h]i
 homeʔči-čaakhahi
 homiilaali
 homiiči
+homiičina
 homiičinaawa
 homʔkawaali
 homʔkawahi
 homʔšikamekoki
+honaalaawaali
+honaanaawena
 honaaniikanʔθetoonaawa
 honakškawaawahi
 honanʔθahi
@@ -147,17 +160,20 @@ honeewaawaali
 honeewahi
 honiičaanali
 honootawaawaali
+honoočhetiimaali
 honʔkoona
 honʔška
 honʔškaaya
 honʔθaali
 honʔθaawaali
 honʔθahi
+hoopaʔtakškawaawaali
 hoowe
 hopa-hamačhahi
 hopaapiyeelahi
 hopah-noočhetiimaawahi
 hopah-wiʔpomaali
+hopakilaali
 hopakθenaali
 hopawaakani
 hopašitoomali
@@ -174,9 +190,11 @@ hopokhaana
 hopoona
 hopootaataana
 hopyeelaali
+hopyeelaawaali
 hopyeetoonaawa
 hotaamowelekooli
 hotaanaake
+hotaayawe
 hotami-noočiweeki
 hotamowaali
 hotamwaali
@@ -186,16 +204,25 @@ hotawe
 hotawenini
 hotayeeli
 hoteepweʔta
+hoteh-pwah-miičina
+hoteh-θakinʔkeenaali
 hotekooli
 hotekowaali
 hotelaali
 hoteleniimali
+hotešiwelaali
+hotkweemʔhi
+hotooneki
 howaakota
 howaawali
+howawšhahi
+howawšto
+howawštoona
 howe
 howe=na
 howe=ni
 howe[n]e
+howeena
 howeene
 howenaašita
 howeni-taši-noočhetiimekowahi
@@ -204,6 +231,7 @@ howeno
 howenoʔki
 howešilaašamamo
 howiiteemaali
+howiiwinaali
 howiiši[k]ilenaweewiiwe
 howiʔkomaali
 howiʔčikeemahi
@@ -217,6 +245,7 @@ hočehni
 hočipaški
 hočipaškiiki
 hošhahi
+hošiletamwa
 hošimo
 hošimooki
 hošitoonaawa
@@ -242,6 +271,7 @@ kaakiišenaačiʔke
 kakaawačipʔto
 kakawahiweečki
 kakčatawahahi
+kamooči
 kateškihi
 kaweška
 kaʔkataalaakwa
@@ -259,6 +289,7 @@ keewaki
 keh-kwiikookinaape
 keh-liʔθihwanʔhwipwa
 keh-nawači-natoneʔhwa
+keh-pakiči
 kehila
 kehošto
 kekʔkiči=taweelemaaki
@@ -277,8 +308,10 @@ kilaweʔθiiθa
 kiliʔθiwanʔhokonaaki
 kimaatawikaloolele
 kimeʔšoomʔθenaaki
+kimiičina
 kimowaanepiki
 kineewaaki
+kinekipweʔθiiθiwi
 kiniičaana
 kipečaaleʔšinwa
 kitaalwiwitam[θ]alepe
@@ -287,7 +320,10 @@ kitahʔkwiloke
 kitamʔkawa
 kiteleθi
 kitešipwa
+kiwaakota
+kiwaawiyakilepwahi
 kiwiiyakiwi
+kiwiiθoowenʔ[a]kawa
 kiwiʔtamawa
 kičitaʔšehikana
 kišiθooki
@@ -295,6 +331,7 @@ kiʔθena
 kiʔθeθi
 kkešiiki
 kkeʔšiiki
+kkilenaweeki
 kolaahwaapanwi
 kolahwaapanwi
 kookinakwe
@@ -315,6 +352,7 @@ kčiipite
 kšake
 l[a]apeškaate
 laakwaši
+laaleʔθeelo
 laamaaki
 laamʔtekwiiki
 laawe-kiišekike
@@ -329,8 +367,11 @@ lenawahi
 lenawe
 lenawee
 lenaweeki
+lenaweewiika
+lenaweewiiθo
 lenaweewilite
 lenawehi
+lew[aa]weewiwi[ʔ]aθo
 leʔθeelo
 liʔθiiwanʔhoθooki
 lo[ʔ]kateθi
@@ -361,14 +402,18 @@ matalaakwa
 matanilenawe
 matawoθaami
 mawinalaali
+mayaanileni
 mayaaniyʔkwe
+mayaaniyʔkweeli
 mačiileniiθeeθaki
 mačikiišeki
 mačileniiθeeθaki
 mačilota
 mačimaneto
+meeloʔči
 meemeʔteelemooθočki
 meemʔkatehota
+meetaaθiči
 mekinʔhwe
 melimawʔθeki
 memekinilenawe
@@ -400,6 +445,7 @@ mškočiθhi
 mʔkwaki
 mʔtekwi
 mʔšaawi
+mʔškoowi
 mθeelemekwatwi
 n(i)meešoomʔθa
 n[i]taakičθa
@@ -407,6 +453,7 @@ naaleta
 naameni
 naanatwʔčike
 naanemi
+naatkweeweeki
 naašiiθeeki
 naašiiθeki
 nahiika
@@ -430,6 +477,8 @@ neh-pemokoopi
 neh-penʔšine
 nehiwe
 nekepeʔθiiθa
+nekipweʔθiiθa
+nekipweʔθiiθali
 nekotenwinʔheewa
 nekoti
 nekotwaʔθwi
@@ -444,6 +493,7 @@ neʔkapepo
 neʔkiiškwe
 neʔčipehi
 neʔθaapi
+nhaakaneyʔkwe
 nhiʔtanekoti
 ni-yeekowaači
 ni=mʔši=pešiili
@@ -459,6 +509,7 @@ niilapiima
 niilayoo(hi )na
 niipawi
 niipenitakhwa
+niipitali
 niiwa
 niiyetaawaači
 niiša-nʔθekoopi
@@ -493,6 +544,7 @@ nipiičθa
 nit[a]
 nita
 nitaalimešena
+nitaaneeθaˀ
 nitaši
 nitaʔkatawi=wiita
 nitaʔkiči[t]hwa
@@ -505,6 +557,7 @@ niteštehe
 niteʔnootawa
 nitooneki
 niwaa[k]ota
+niwaakota
 niweewa
 niweečipemʔθeeči
 niwi[ʔ]peema
@@ -529,6 +582,7 @@ noočiweepθeeki
 noošaalate
 noošimo
 nowešilaašamamo
+noʔ[h]k[a]mmθa
 noʔki
 noʔkiini
 noʔkinihi
@@ -547,6 +601,7 @@ pa-halawiiki
 pa-noʔčiweeki
 paalo
 paalohi
+paapah-manʔθe
 paapahalawi
 paapahalawiiki
 paapetθakhiweeta
@@ -560,6 +615,7 @@ pah-noočhiweeki
 pakaana
 pakaana’
 pakhaana
+pakiči
 pakičiiki
 payeekwa
 pa·····lohi
@@ -567,10 +623,13 @@ pašitooθali
 pašitooθhi
 paškime
 paʔpekilotawooθo
+paθekwi
 peepah-nočhiweečki
 peepaškihaački
 peepe[k]ilotaki
 pekateθiiwe
+pekwapwaana
+pekwapwe
 peleeli
 peleewa
 peloočihi
@@ -597,11 +656,15 @@ pileški-peleewa
 piyaawaate
 piyeeči-halweʔšinwa
 piyepʔt[o]
+piškitiinataʔ
 pokkeeši
 pokkeši
 poonamowaači
 poonike
 pootaačike
+poošiiθa
+poošiiθa[ʔ]
+poošiiθali
 pooθi
 pyeeki
 pyeeli
@@ -614,10 +677,12 @@ ta[h]owešiniipeki
 taami
 taanikaawe
 taanikaaweeki
+taatakhwke
 taayečoomiiči
 tah-lematapiči
 tah-niipawiiči
 tah-noočhetiki
+takhwaanepi
 takčaʔkwateteeki
 talaakwa
 talaakwaleniiki
@@ -629,6 +694,7 @@ tayečiwi=howiʔpomahi
 tačheko
 taʔniipawiči
 taʔpiyečilenaweewiči
+teetateʔškameθiθa
 teki
 tekiiwii
 tekikeečiiθeθi
@@ -742,6 +808,8 @@ weeči-waakotooteeki
 weeči=wiinači
 weečita
 weeša
+weešilemaači
+weh-pakiči
 weh-pakičiiki
 weh-pokhaana
 weh-poonooθo
@@ -763,17 +831,20 @@ weʔpiyeewa
 weʔpiyeči
 weʔpiyečišinaakoθiliči
 wiikiwaapeki
+wiila
 wiilʔtekwiiwali
 wiiwali
 wiiyeeθa
 wiičilenawahi
 wiičilenaweewiimači
 wiiša
+wiiša-miičina
 wiišahamokooli
 wiišanʔθaali
 wiišaooč[h]etiimeʔke
 wiišiwali
 witam[oo]laake
+wiyakowe
 wiyawʔθi
 wiye[h]iši
 wiyeeθa
@@ -819,6 +890,8 @@ yeeyaʔkwateteeki
 yeeyooči
 yeešahkwateteeki
 yeešayiči
+yeeši-mʔškooweči
+yeeši-mʔškoowileči
 yeeši-waakotaki
 yeeši=piyečineemeya
 yeeši[-]lenaweewiči
@@ -831,6 +904,7 @@ yeešiyeekwe
 yeešiči
 yeešiθowaači
 yeeʔwiiša(=)neewaači
+yeh-meʔčitooči
 yeh-pwa[a]-honʔškaači
 yeh-pwa[a]-mʔkwalawiiki
 yeh-wiʔθeniči
@@ -857,6 +931,7 @@ yeʔwaawaawiya[ko]θ[k]aatiči
 yeʔwaawiwaači
 yeʔwiišiki[ ]ka[ ]ki
 yeʔčiwiye
+ykweeli
 ykweewa
 yomačaa
 yooloma
@@ -894,6 +969,7 @@ yʔkwehi
 šekʔšinwaaki
 šeʔkamika
 šiikonaki
+šiiʔθo
 šiktika
 šinaakoθiči
 šinanaʔpaačinaakoθiye

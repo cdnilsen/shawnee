@@ -762,7 +762,7 @@
 12.24.Ĝ then | that | she goes home | she has to go home | he divorces her
 
 12.25.Ŝ Weena mayaanileni hošiletamwa kotakali ykweeli mayaaniyʔkweeli.
-12.25.Ĝ then | that | young man | she marries him | other (obv.) | woman | young woman
+12.25.Ĝ then | that young man | she marries him | other (obv.) | woman | young woman
 
 13.1.Ŝ Hina yʔkweewa θapa pelowi teh-teewa. 
 13.1.Ĝ that | woman | supposedly | far away | she lives there
@@ -1595,7 +1595,7 @@
 24.1.Ŝ Maameyeelooki. Haapetaalakwa laakwa wiyeeθa yeetaači maameyeelooki.
 24.1.Ĝ they dance (redup.) | once in a while | … | somebody | where he lives | they dance (redup.)
 
-24.2.Ŝ Mata waawaneθopi -- waaweši-meyeelooki.
+24.2.Ŝ Mata waawaneθopi waaweši-meyeelooki.
 24.2.Ĝ not | there is drunkenness | they dance well (redup.)
 
 24.3.Ŝ Tepeʔki noʔki payakila maameyeelooki noʔki payakilaalaakwa hotaka wiyeeθa yeetaači maameyeelepi.
@@ -1619,7 +1619,7 @@
 25.1.Ŝ Kwaškamaweepi. 
 25.1.Ĝ there is football playing
 
-25.2.Ŝ Kwaʔkaškamaweeki -- paapoonikaatiiki pθiiwena -- yʔkweeki hawikeepičikana.
+25.2.Ŝ Kwaʔkaškamaweeki paapoonikaatiiki pθiiwena yʔkweeki hawikeepičikana.
 25.2.Ĝ they play football | they bet with each other | handkerchiefs | women | ribbons
 
 25.3.Ŝ Paapoonikeeki yʔkweeki yeh-kwaškamawaawaači.
@@ -1659,7 +1659,7 @@
 26.4.Ĝ they eat | they are full | they feel good
 
 26.5.Ŝ Yeh-teepholowaači nooči-meni-nepeeki.
-26.5.Ĝ when they are full | from that | they like to sleep
+26.5.Ĝ when they are full | from that they like to sleep
 
 26.6.Ŝ Ye-hamamowaači noʔki honatotaanaawa wa[h]ši-wiʔθeniwaači.
 26.6.Ĝ when they awake | again | they ask for it | that they will eat 
@@ -1667,11 +1667,11 @@
 26.7.Ŝ We nimekipweʔθiima hotšamahi koškoowiyaaka.
 26.7.Ĝ then | my old lady | she feeds them | pork
 
-26.8.Ŝ We nooči-meni-lenaweewiiki.
-26.8.Ĝ then | from that | they like to be alive
+26.8.Ŝ Wenooči meni-lenaweewiiki.
+26.8.Ĝ then from that | they like to be alive
 
-26.9.Ŝ We pah-waniiteθiiki kilakiθiiki.
-26.9.Ĝ then | they go out to play | they are happy
+26.9.Ŝ Wepaʔwaniiteθiiki kilakiθiiki.
+26.9.Ĝ then they go out to play | they are happy
 
 27.1.Ŝ Šeʔkamika ninaanootawaaki pašitooθaki yaaši-mʔθooθkeewaači.
 27.1.Ĝ long ago | I hear them | old men | when they go hunting buffalo 
@@ -1688,20 +1688,20 @@
 27.5.Ŝ Hotešiwetawahi hotelenaweemʔhi. 
 27.5.Ĝ he takes him | his relatives
 
-27.6.Ŝ We niʔki wiʔθeniiki nooči-howešilaašamamooki.
-27.6.Ĝ then | those | they eat | from that | they feel good
+27.6.Ŝ Weniʔki wiʔθeniiki nooči-howešilaašamamooki.
+27.6.Ĝ then those | they eat | from that they feel good
 
-27.7.Ŝ Yeh[t]epholowaači kaačika nooči-menilenaweewiiki.
-27.7.Ĝ when they are full | always | from that | they are glad to be alive 
+27.7.Ŝ Yeʔčepholowaači kaačika nooči-menilenaweewiiki.
+27.7.Ĝ when they are full | always | from that they are glad to be alive 
 
 27.8.Ŝ Kilakiθiiki kšake teephoolooki.
 27.8.Ĝ they are happy | because | they are full
 
-27.9.Ŝ Yeeši-nʔtaaweeči hokkileemwaali yeh-čaakataki hini wiyawʔθi noʔki kotakali honatoneʔhwaali hiini yaška yeešilawiiči.
-27.9.Ĝ when he kills it | their parent | when he eats it all up | that | meat | again | other (obv.) | he hunts for him
+27.9.Ŝ Yeeši-nʔtaaweeči hokkileemwaali yeʔčaakataki hini wiyawʔθi noʔki kotakali honatoneʔhwaali hiiniyaška yeešilawiiči.
+27.9.Ĝ when he kills it | their parent | when he eats it all up | that | meat | again | other (obv.) | he looked for/hunted him | that's still | what he is doing
 
 27.10.Ŝ Paaši weški noʔki. 
-27.10.Ĝ … | … | again, still
+27.10.Ĝ seems like | at first | again, still
 
 27.11.Ŝ Kotakali ši-mekinʔhweeli honatoneʔhwaali kšake hoškatata nekotweelena ši-wiyawʔθi.
 27.11.Ĝ other (obv.) | kind of animal | he hunts for him | because | he tires of it | one kind | kind of meat
@@ -1710,7 +1710,7 @@
 27.12.Ĝ that | from | again | other (obv.) | he searches for him
 
 27.13.Ŝ Nanaʔpi piileški-peleeli honatoneʔhwaali kšake kotaki ʔpokwalwa.
-27.13.Ĝ also (?) | wild | turkey (obv.) | he searches for him | because | other | he has a taste
+27.13.Ĝ also (?) | wild turkey (obv.) | he searches for him | because | other | he has a taste
 
 27.14.Ŝ Kotaki wiyawʔθi mameteelemo.
 27.14.Ĝ other | meat | he craves (it)
@@ -1721,8 +1721,8 @@
 28.2.Ŝ Yeh-meʔči-pškwahikoči nooči homelhʔθaali.
 28.2.Ĝ when he finishes tanning | from that (then) | he stretches it
 
-28.3.Ŝ Howe hopeekweekhwaali -- yeh-meʔči-peekweekhwaači ho[o]we čhiine holanʔθawaali.
-28.3.Ĝ then | he dries him | when he is finished drying him | then | he smokes him | then | … | he smokes it 
+28.3.Ŝ Howe hopeekweekhwaali yeʔ-meʔči-peekweekhwaači ho[o]wečhiine holanʔθawaali.
+28.3.Ĝ then | he dries him | when he is finished drying him | then | he smokes him 
 
 28.4.Ŝ Yeh-meʔči-holaʔθawaači howe homaʔkiθe hoštoona. 
 28.4.Ĝ when he finishes smoking him | then | his moccasin | he makes it 
@@ -1737,7 +1737,7 @@
 28.7.Ĝ they wear out? | his moccasin | also | his relatives
 
 28.8.Ŝ Waʔši-pθekholiči hiini wawʔčiwiiši-kalawiči honiikaanʔθeto wa-mʔθeeletaki. 
-28.8.Ĝ that he may continue to wear them | that he may contine to hunt | he lays it ahead | that which he derives benefit from
+28.8.Ĝ that he may continue to wear | them | that he may contine to hunt | he lays it ahead | that which he derives benefit from
 
 28.9.Ŝ Weški wiyawhθi homiiči waʔθayeeli pθekho waʔši‑pwa‑mʔkaweʔθiiči noʔki waʔši‑wiišikilaašamamoliči hotelenaweemʔhi.
 28.9.Ĝ first | meat | he eats it | he wears him | skin | so that he may not get briars in his feet | also | that he may feel strong | his relatives
@@ -1769,8 +1769,8 @@
 29.7.Ŝ Mata laakwa nineewa yeeyaʔkwameeta hotayimaaθa payeekwa -- ninaaneewa hiini ši-mekinʔhwe.
 29.7.Ĝ not | time | I see him | one who is wild | pet (dimin.) | only | I see him (redup.) | that | such an animal
 
-30.1.Ŝ Yaaši-naanootawaki pašitooθaki naanatoneewaawaači homekinhhweemwaali piileški‑mhθooθooli yaašθetoowaači wiyawhθi noʔki meθiikopemi waʔši‑pwa‑mačaaθiki nahiika piyeetoote yeetaači neʔkapepo wa-mʔθeeletaki noʔki hotelenaweemʔhi, mata wiila pehi laakwθwi hileniiki noʔki yškweeki waawiiči nʔheeki ye-mʔθooθkeewaači hileniiki.
-30.1.Ĝ the way I hear him (redup.) | old men | that they search for him (redup.) | their animal | wild | buffalo | how they fix it | meat | also | tallow | that it may not spoil | up there | it is brought (?) | where he lives | all winter | what they derive benefit from | again | his relatives | not | he | only | few (?) | men | also | women | … | they go there | where they hunt buffalo | men
+30.1.Ŝ Yaaši-naanootawaki pašitooθaki naanatoneewaawaači homekinʔhweemwaali piileški‑mhθooθooli yaašθetoowaači wiyawʔθi noʔki meθiikopemi waʔši‑pwa‑mačaaθiki nahiika piyeetoote yeetaači neʔkapepo wa-mʔθeeletaki noʔki hotelenaweemʔhi, mata wiila pehi laakwθwi hileniiki noʔki yškweeki waawiiči nʔheeki ye-mʔθooθkeewaači hileniiki.
+30.1.Ĝ the way I hear him (redup.) | old men | that they search for him (redup.) | their animal | wild buffalo | how they fix it | meat | also | tallow | that it may not spoil | up there | it is brought (?) | where he lives | all winter | what they derive benefit from | again | his relatives | not | he | only | few (?) | men | also | women | … | they go there | where they hunt buffalo | men
 
 30.2.Ŝ Yʔkweeki paapaškotaaweeki. 
 30.2.Ĝ women | they jerk it (meat) (redup.)
