@@ -187,4 +187,42 @@ def main():
         main()
 
 
-main()
+#main()
+
+
+def getTextNum(line):
+    line = line.strip()
+    if line != "" and "." in line:
+        return int(line.split(".")[0])
+    else:
+        return 0
+
+def listTranscripts(existingCopies):
+    rawLines = open("./output.txt", "r", encoding="utf8").readlines()
+
+    allTextNums = []
+    for i in range (1, 219):
+        allTextNums.append(str(i))
+
+    textExistsDict = {}
+    for textNum in allTextNums:
+        textExistsDict[textNum] = False
+
+    for line in rawLines:
+        lineTextNum = getTextNum(line)
+        if lineTextNum != 0:
+            textExistsDict[str(lineTextNum)] = True
+
+
+    listOfTexts = []
+    for textNum in allTextNums:
+        if (existingCopies == textExistsDict[textNum]):
+            listOfTexts.append(textNum)
+
+    print(listOfTexts)
+    print(str(len(listOfTexts)) + " texts total")
+    
+
+listTranscripts(False)
+#main()
+    
