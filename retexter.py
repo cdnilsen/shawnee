@@ -2,6 +2,34 @@
 
 import os
 
+doneTranscripts = [
+    (1, 9),
+    (12, 12),
+    (14, 16),
+    (20, 20),
+    (24, 28),
+    (30, 30),
+    (43, 56),
+    (68, 76),
+    (78, 78),
+    (109, 110),
+    (141, 146),
+    (217, 218)
+]
+
+def checkDoneTranscripts(num):
+    finalDict = {}
+    for i in range(num + 1):
+        finalDict[i] = False
+    
+    for tuple in doneTranscripts:
+        for i in range(tuple[0], tuple[1] + 1):
+            if finalDict[i] == False:
+                finalDict[i] = True
+            
+    return finalDict
+
+
 def getLineDict(rawLine):
     rawDict = {}
     splitLetter = "Ĝ"
@@ -197,6 +225,7 @@ def getTextNum(line):
     else:
         return 0
 
+
 def listTranscripts(existingCopies):
     rawLines = open("./output.txt", "r", encoding="utf8").readlines()
 
@@ -214,15 +243,15 @@ def listTranscripts(existingCopies):
             textExistsDict[str(lineTextNum)] = True
 
 
+    otherDoneTranscripts = checkDoneTranscripts(218)
     listOfTexts = []
     for textNum in allTextNums:
-        if (existingCopies == textExistsDict[textNum]):
+        if (existingCopies == textExistsDict[textNum] and otherDoneTranscripts[int(textNum)] == False):
             listOfTexts.append(textNum)
 
     print(listOfTexts)
     print(str(len(listOfTexts)) + " texts total")
     
-
 listTranscripts(False)
 #main()
     
