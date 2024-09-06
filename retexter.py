@@ -10,8 +10,7 @@ doneTranscripts = [
     (24, 28),
     (30, 30),
     (43, 56),
-    (68, 76),
-    (78, 78),
+    (68, 78),
     (109, 110),
     (141, 146),
     (217, 218)
@@ -252,6 +251,10 @@ def listTranscripts(existingCopies):
     print(listOfTexts)
     print(str(len(listOfTexts)) + " texts total")
     
-listTranscripts(False)
-#main()
+#listTranscripts(False)
+main()
     
+
+tornilloDict = {
+    
+}
