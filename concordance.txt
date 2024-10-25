@@ -75,6 +75,10 @@ maataši
     PT
     'here'
 
+mθaloomaapo
+    NI
+    'wine
+
 *mʔθeelemooθo
     VAI
     'use is derived from him'
