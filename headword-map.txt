@@ -90,3 +90,24 @@
 # kiišenaači
     kiišenaači
 
+# noʔkomʔθa
+    noʔkomʔθa
+    koʔkomʔθa
+    koʔkomʔθena
+
+# nimeʔšoomʔθa
+    nimeʔšoomʔθa
+    kimeʔšoomʔθa
+    kimeʔšoomʔθena
+
+# čaakiwiyeeθa
+    čaakiwiyeeθa
+
+# niila
+    niila
+
+# kiila
+    kiila
+
+# wiila
+    wiila
