@@ -4,12 +4,22 @@
 # θapa
     θapa
 
+# paalohi
+    paalohi
+
 # mθooθwayi
     mθooθwayi
     mʔθooθwayi
 
 # kwteletiiwe
     kwteletiiwe
+
+# lenaweewi
+    lenaweewi
+
+# nepi
+    nepi
+    nepiki
 
 # hiine
     hiine
@@ -153,12 +163,30 @@
 # hilooθo
     hilooθo
     hilooθooki
+    yeelooθoči
+
+# haatakwka
+    haatakwka
 
 # hanikwa
     hanikwa
 
 # čaakiwiyehi
     čaakiwiyehi
+
+# čišh-
+    čišhate
+    keʔčišha
+    neʔčišha
+
+# hišiwe
+    hišiwe
+    hišiweeki
+
+# wiškiloʔθa
+    wiškiloʔθa
+    
+
 
 # wiinaši
     wiinaši
@@ -189,6 +217,27 @@
     kita
     neha
     keha
+    heeki
+    yehaači
+
+# piyeewa
+    piyeewa
+    piyeeki
+    yeʔpiyaači
+
+
+# yooma
+    yooma
+
+# lekhwanwi
+    lekhwanwi
+
+# kwaakwtelooθo
+    kwaakwtelooθo
+    kwaakwtelooθooki
+
+# meneʔθi
+    meneʔθi
 
 # haʔteewi
     haʔteewi
