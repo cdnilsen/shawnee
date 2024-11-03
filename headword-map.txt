@@ -8,6 +8,9 @@
     mθooθwayi
     mʔθooθwayi
 
+# kwteletiiwe
+    kwteletiiwe
+
 # hiine
     hiine
 
@@ -27,6 +30,27 @@
 
 # hiišooweθi
     hiišooweθiili
+
+# θiipi
+    θiipi
+    θiipiiwali
+
+# kiilawa
+    kiilawa
+
+# mekinʔhwe
+    mekinʔhwe
+    mekinhwe
+    kimekinʔhweemena
+
+# mata
+    mata
+
+# kkinooloowe
+    kkinooloowe
+
+# čeeče
+    čeeče
 
 # nilooka
     holookaali
@@ -90,10 +114,17 @@
 # kiišenaači
     kiišenaači
 
+# noʔki
+    noʔki
+
 # noʔkomʔθa
     noʔkomʔθa
     koʔkomʔθa
     koʔkomʔθena
+
+# mečimi
+    mečimi
+
 
 # nimeʔšoomʔθa
     nimeʔšoomʔθa
@@ -111,3 +142,56 @@
 
 # wiila
     wiila
+
+# meʔteelet
+    yeemeʔteeletaki
+    meemeʔteeletaka
+
+# šitehe
+    šitehe
+
+# hilooθo
+    hilooθo
+    hilooθooki
+
+# hanikwa
+    hanikwa
+
+# čaakiwiyehi
+    čaakiwiyehi
+
+# wiinaši
+    wiinaši
+
+# weepθe
+    weepθe
+    keʔweepθe
+    neʔweepθe
+
+# hinoki
+    hinoki
+
+# nahiika
+    nahiika
+
+# hašiški
+    hašiški
+
+# penʔθe
+    penʔθe
+
+# ktoʔθe
+    ktoʔθe
+
+# heewa
+    heewa
+    nita
+    kita
+    neha
+    keha
+
+# haʔteewi
+    haʔteewi
+    haʔteeki
+
+    
