@@ -59,6 +59,14 @@
 # kkinooloowe
     kkinooloowe
 
+# nootaw-
+    honootawaali
+
+# nitašimo
+    nitašimo
+    ninitašimope
+    yeetašimoliči
+
 # čeeče
     čeeče
 
@@ -90,6 +98,9 @@
 # lapačike
     lapačike
 
+# čiʔθeθi
+    čiʔθeθi
+
 # noomwa
     noomwa
 
@@ -120,6 +131,9 @@
     neemooki
     neemowaači
     neeneemeki
+
+# neew
+    honeewaali
 
 # kiišenaači
     kiišenaači
@@ -193,7 +207,7 @@
 
 # kaakikayileni
     kaakikayileni
-    
+
 # wiinaši
     wiinaši
 
