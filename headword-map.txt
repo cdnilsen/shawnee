@@ -186,8 +186,14 @@
 # wiškiloʔθa
     wiškiloʔθa
     
+# mtekwileni
+    mtekwileni
+    mtekwileniiki
+    mtekwileniili
 
-
+# kaakikayileni
+    kaakikayileni
+    
 # wiinaši
     wiinaši
 
