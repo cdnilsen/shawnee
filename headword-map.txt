@@ -34,6 +34,39 @@
 # weeka
     weeka
 
+# mʔkaw- (TA)
+    nemʔkawa
+
+# mʔškwaawi (II)
+    wemʔškwaawi
+
+# winepaʔče
+    winepaʔče
+    winepačeeki
+
+# paapaamaaθiwe
+    nipaapaamaaθiwe
+    
+# takooθiwe
+    nitakooθiwe
+
+# mʔtekwi
+    mʔtekwi
+    mtekwi
+    mʔtekoki
+    mtekoki
+    mʔteko
+    mteko
+
+# ničaaši
+    ničaaši
+    kičaaši
+    hočaaši
+    ničaaleki
+    kičaaleki
+    hočaaleki
+
+
 # mkwa
     mkwa
     mʔkwa
@@ -103,6 +136,16 @@
 
 # noomwa
     noomwa
+
+# lekon- (TI)
+    holokona
+    nilekona
+    
+# haʔkalaamo
+    haʔkalaamo
+
+# pakkiθo
+    pakkiθo
 
 # neem
     nineeme
@@ -199,6 +242,17 @@
 
 # wiškiloʔθa
     wiškiloʔθa
+
+# kwiilaw- (TA)
+    hokwiilawaali
+    nitaʔkwiilawa
+    
+
+# katawiʔk- (TI)
+    hokatawiʔka
+
+# paʔpaʔšooθa
+    paʔpaʔšooθa
     
 # mtekwileni
     mtekwileni
@@ -244,6 +298,11 @@
     piyeewa
     piyeeki
     yeʔpiyaači
+    keʔpiyaapwa
+
+# kalawi
+    kalawi
+
 
 
 # yooma
