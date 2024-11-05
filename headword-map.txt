@@ -36,6 +36,7 @@
 
 # mʔkaw- (TA)
     nemʔkawa
+    nimʔkawa
 
 # mʔškwaawi (II)
     wemʔškwaawi
@@ -147,6 +148,9 @@
 # pakkiθo
     pakkiθo
 
+# yaška
+    yaška
+
 # neem
     nineeme
     kineeme
@@ -176,6 +180,7 @@
     neeneemeki
 
 # neew
+    kinaaneewaape
     honeewaali
 
 # kiišenaači
@@ -188,6 +193,15 @@
     noʔkomʔθa
     koʔkomʔθa
     koʔkomʔθena
+    koʔkomʔθenaali
+
+# loʔθe 
+    loʔθe
+
+# taawalwa
+    taawalwa
+
+le
 
 # mečimi
     mečimi
@@ -246,7 +260,7 @@
 # kwiilaw- (TA)
     hokwiilawaali
     nitaʔkwiilawa
-    
+
 
 # katawiʔk- (TI)
     hokatawiʔka
