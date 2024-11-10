@@ -242,6 +242,12 @@ le
 # hanikwa
     hanikwa
 
+# nikiya
+    kikina
+
+# mamaatomeewe
+    mamaatomeewe
+
 # čaakiwiyehi
     čaakiwiyehi
 
