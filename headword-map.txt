@@ -11,6 +11,9 @@
     mθooθwayi
     mʔθooθwayi
 
+# mʔθeelet- (TI-1)
+    nimʔθeeleta    
+
 # kwteletiiwe
     kwteletiiwe
 
@@ -74,6 +77,8 @@
     kičaaleki
     hočaaleki
 
+# natoneh- (TI-1?)
+    ninatoneha
 
 # mkwa
     mkwa
