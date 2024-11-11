@@ -41,9 +41,16 @@
 # mʔškwaawi (II)
     wemʔškwaawi
 
+# ničeenina
+    ničeenina
+    hočeeninaali
+
 # winepaʔče
     winepaʔče
     winepačeeki
+
+# naatamaatiiwe
+    naatamaatiiwe
 
 # paapaamaaθiwe
     nipaapaamaaθiwe
@@ -86,6 +93,7 @@
     mekinʔhwe
     mekinhwe
     kimekinʔhweemena
+    homekinʔhweemali
 
 # mata
     mata
@@ -101,6 +109,12 @@
     ninitašimope
     yeetašimoliči
 
+# wiilani
+    wiilani
+
+# leʔθeelo
+    leʔθeelo
+
 # čeeče
     čeeče
 
@@ -109,6 +123,9 @@
 
 # šekšinwa
     šekšinwa
+
+# kšake
+    kšake
 
 # šeʔkamika
     šeʔkamika
@@ -139,8 +156,11 @@
     noomwa
 
 # lekon- (TI)
-    holokona
+    holekona
     nilekona
+
+# kaʔkiθ- (TI)
+    hokaʔkiθa
     
 # haʔkalaamo
     haʔkalaamo
@@ -194,6 +214,9 @@
     koʔkomʔθa
     koʔkomʔθena
     koʔkomʔθenaali
+
+# šaaškwiiwa
+    šaaškwiiwa
 
 # loʔθe 
     loʔθe
@@ -270,6 +293,9 @@ le
 
 # katawiʔk- (TI)
     hokatawiʔka
+
+# payeekwa
+    payeekwa
 
 # paʔpaʔšooθa
     paʔpaʔšooθa
