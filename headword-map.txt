@@ -7,6 +7,11 @@
 # paalohi
     paalohi
 
+# pšekθi
+    pšekθi
+    pšekθiili
+    pšekθiiki
+
 # mθooθwayi
     mθooθwayi
     mʔθooθwayi
@@ -20,12 +25,46 @@
 # lenaweewi
     lenaweewi
 
+# poon- (TA)
+    hopoonaali
+
+# hapiwa
+    hapiwa
+    nitapi
+
+# šiikona
+    šiikona
+    šiikonali
+
+# θakipw- (TA)
+    niθakipokwa
+    yeʔ=θakipokoči
+
+# wiʔši
+    wiʔši
+    wiʔšiili
+    wiʔšiiki
+
 # nepi
     nepi
     nepiki
 
 # hiine
     hiine
+
+# hawooθo
+    hawooθo
+    hawooθooki
+
+# penʔšinwa
+    penʔšinwa
+    yeʔ=penʔšiki
+
+# čaakat- (TI-1)
+    hočaakata
+
+# nʔθene
+    nʔθene
 
 # papawi
     papawi
