@@ -40,6 +40,9 @@
     niθakipokwa
     yeʔ=θakipokoči
 
+# pawaal- (TA)
+    hopawaalaali
+
 # wiʔši
     wiʔši
     wiʔšiili
@@ -167,6 +170,22 @@
 
 # šekšinwa
     šekšinwa
+    šekšinooki
+
+# wiiyakowe
+    wiiyakowe
+
+# notoʔtaw- (TA+O?)
+    honotoʔtawaali
+
+# wiʔkanwi
+    wiʔkanwi
+
+# niθekwiʔθa
+    niθekwiʔθa
+
+# poli
+    poli
 
 # kšake
     kšake
@@ -208,6 +227,9 @@
     
 # haʔkalaamo
     haʔkalaamo
+
+# haʔšamooθo
+    haʔšamooθo
 
 # pakkiθo
     pakkiθo
