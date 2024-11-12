@@ -12,6 +12,10 @@
     pšekθiili
     pšekθiiki
 
+# nʔθiimeeθa
+    nʔθiimeeθa
+    nθiimeeθa
+
 # mθooθwayi
     mθooθwayi
     mʔθooθwayi
@@ -85,6 +89,12 @@
 
 # mʔškwaawi (II)
     wemʔškwaawi
+
+# mʔšeewe
+    mʔšeewe
+    mšeewe
+    mʔšeeweeli
+    mšeeweeli
 
 # ničeenina
     ničeenina
@@ -177,6 +187,15 @@
 
 # notoʔtaw- (TA+O?)
     honotoʔtawaali
+
+# mešen- (TA)
+    nimešenekoopi
+
+# kimoot- (TI? AI+O?)
+    kikimoote
+    kimootwa
+
+
 
 # wiʔkanwi
     wiʔkanwi
@@ -406,8 +425,12 @@ le
     heeki
     yehaači
 
-# nilekwala
+# nilekwalʔθa
+    nilekwalʔθa
     kilekwalʔθena
+
+# pakθen- (TA)
+    nipakθenekoopi
 
 # haačimoowe
     haačimoowe
