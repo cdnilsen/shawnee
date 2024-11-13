@@ -29,12 +29,26 @@
 # lenaweewi
     lenaweewi
 
+# lenawe
+    lenawe
+    lenaweeki
+    lenaweeli
+    lenawehi
+
 # poon- (TA)
     hopoonaali
+
+# hapeloʔθa
+    hapeloʔθa
+    hapeloʔθaki
+    hapeloʔθali
+    hapeloʔθhi
+    kitapeloʔθemenaaki
 
 # hapiwa
     hapiwa
     nitapi
+    wehapiwa
 
 # šiikona
     šiikona
@@ -194,6 +208,9 @@
 
 # mešen- (TA)
     nimešenekoopi
+
+# mešen- (TI)
+    keʔmešena
 
 # kimoot- (AI+O)
     kikimoote
