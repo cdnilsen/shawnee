@@ -87,6 +87,10 @@
     nemʔkawa
     nimʔkawa
 
+# mʔkaweelem- (TA)
+    mʔkaweelemakwe
+    mkaweelemakwe
+
 # mʔškwaawi (II)
     wemʔškwaawi
 
@@ -191,7 +195,7 @@
 # mešen- (TA)
     nimešenekoopi
 
-# kimoot- (TI? AI+O?)
+# kimoot- (AI+O)
     kikimoote
     kimootwa
 
@@ -350,8 +354,11 @@ le
 # hanikwa
     hanikwa
 
-# nikiya
+# nikya
+    nikya
+    kikya
     kikina
+    kikinaaki
 
 # mamaatomeewe
     mamaatomeewe
@@ -381,6 +388,9 @@ le
 
 # payeekwa
     payeekwa
+
+# haʔpiyaloowe
+    haʔpiyaloowe
 
 # paʔpaʔšooθa
     paʔpaʔšooθa
