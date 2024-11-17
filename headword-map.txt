@@ -66,6 +66,15 @@
     wiʔšiili
     wiʔšiiki
 
+# nepwa
+    ninepe
+    kinepe
+    nepwa
+    neʔnepe
+    keʔnepe
+    weʔnepe
+
+
 # nepi
     nepi
     nepiki
@@ -216,7 +225,8 @@
     kikimoote
     kimootwa
 
-
+# wiʔtem- (TA)
+    howiʔtemaali
 
 # wiʔkanwi
     wiʔkanwi
@@ -242,6 +252,14 @@
 # mkwayi
     mkwayi
     mʔkwayi
+
+# wiyawʔθi
+    wiyawʔθi
+
+# hilemo
+    hilemo
+    nehilemo
+    nehiilemo
 
 # wiyeeθa
     wiyeeθa
@@ -305,7 +323,10 @@
     neemowaači
     neeneemeki
 
-# neew
+# taami
+    taami 
+
+# neew- (TA)
     kinaaneewaape
     honeewaali
 
@@ -346,6 +367,9 @@ le
 
 # niila
     niila
+
+# niniiča (?)
+    kiniičaanaki
 
 # kiila
     kiila
@@ -455,6 +479,9 @@ le
 # nilekwalʔθa
     nilekwalʔθa
     kilekwalʔθena
+
+# pakit- (TI-1)
+    keʔpakita
 
 # pakθen- (TA)
     nipakθenekoopi
