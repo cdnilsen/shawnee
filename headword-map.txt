@@ -47,6 +47,7 @@
 
 # hapiwa
     hapiwa
+    hapiiki
     nitapi
     wehapiwa
 
@@ -109,6 +110,8 @@
 # mʔkaw- (TA)
     nemʔkawa
     nimʔkawa
+    homʔkawaawahi
+    
 
 # mʔkaweelem- (TA)
     mʔkaweelemakwe
@@ -122,6 +125,10 @@
     mšeewe
     mʔšeeweeli
     mšeeweeli
+    mšeewehi
+    mʔšeewehi
+    mʔšeeweeki
+    mšeeweeki
 
 # ničeenina
     ničeenina
