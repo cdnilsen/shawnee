@@ -98,7 +98,80 @@
     neʔnepe
     keʔnepe
     weʔnepe
+    nepwa
+    nepooli
 
+    <CAT> VAI
+    <DEF> he dies
+    <PA> *nepwa
+
+# nepeewa
+    nepeewa
+    neʔnepa
+
+    <CAT> VAI
+    <DEF> he sleeps
+    <PA> *nepe·wa
+
+# kškišeepilooθo
+    kškišeepilooθo
+
+    <CAT> VAI
+    <DEF> he is tied up
+
+# meekiiθa
+    meekiiθa
+    meekiiθhi
+
+    <CAT> NA
+    <DEF> a sheep
+
+# tamakanwi
+    tamakanwi
+
+    <CAT> VII
+    <DEF> it is deep
+    <PA> 
+    
+
+# nephol-
+    honepholaali
+    
+    <CAT> VTA
+    <DEF> he drowns him
+
+# kwašθe
+    kwašθe
+
+    <CAT> VAI
+    <DEF> he comes down, descends
+    <PA>--check this, cannot find a good match.
+
+# pakθat-
+    hopakθata
+
+    <CAT> VTI-1
+    <DEF> he lets it loose
+
+# loʔkateθi
+    loʔkateθi
+
+    <CAT> VAI
+    <DEF> he is tired
+
+# haloolooθo
+
+    haloolooθo
+    <CAT> VAI
+    <DEF> he is employed, hired
+    <PA> *aθo·θ-
+
+# pakiči
+    pakiči
+    
+    <CAT> VAI
+    <DEF> he goes home
+    <PA> *pakiči·wa 'he surrenders himself, gives up'
 
 # nepi
     nepi
@@ -189,6 +262,70 @@
     tekoʔšiya
     tekoʔšiyaki
     tekoʔšiyali
+
+    <DEF> white man
+
+# šilemačθe
+
+    <CAT> VAI
+    <DEF> he jumps in
+
+# šiθo
+    šiθo
+
+    <CAT> VAI
+    <DEF> he is called (so)
+
+# kookweeneeθa
+
+    <CAT> NA
+    <DEF> an unknown person
+
+# pootaat-
+    hopootaata
+
+    <CAT> VTI-1
+    <DEF> he blows (on) it
+    <PA> *po·ta·tamwa
+
+# haakwate
+    haakwate
+
+    <CAT> VII
+    <DEF> it's piled up, in a heap
+    <PA *a·nkwate·wi
+
+# holamo
+    holamooli
+
+    <CAT> NA
+    <DEF> vermillion
+
+
+
+# hašaʔθo
+    hašaʔθo
+    yehašaʔθowaači
+    wehašaʔθo
+
+    <CAT> VAI
+    <DEF> he is painted
+    <PA> aša·Ɂsowa
+
+# waniikweenooθo
+    waniikweenooθo
+
+    <CAT> VAI
+    <DEF> he is misled
+    <PA> *wani·
+
+# wanimooθo
+    wanimooθo
+    wanimooθoči
+
+    <CAT> VAI
+    <DEF> he is fooled, cheated
+    <PA> *wan-im-
 
 # waniʔšakaawi
     waniʔšakaawi
@@ -463,11 +600,52 @@ le
 # hanikwa
     hanikwa
 
+    <CAT> NA
+    <DEF> squirrel
+    <PA> *anyikwa
+
+# haʔkoʔkwa
+    haʔkoʔkwa
+
+    <CAT> NA?
+    <DEF> bucket
+
+# liʔθiiwanʔhooθo
+    liʔθiiwanʔhooθo
+
+    <CAT> VAI
+    <DEF> he is whipped
+
+
+# θiikin-
+    hoθiikina
+
+    <CAT> VTI-1
+    <DEF> he pours it (out)
+    <PA> *si·kenamwa
+
+
+# hapaši
+    hapaši
+
+    <CAT> NI
+    <DEF> stick
+    <PA> *apanšwiyi 'lodgepole' (as inanimate?)
+
+# memekwi
+    memekwi
+
+    <CAT> VAI
+    <DEF> he runs
+    <PA> *memekwi·wa
+
 # nikya
     nikya
     kikya
     kikina
     kikinaaki
+    hokeeli
+
 
 # aatot- (TI-1)
     nitaatota
