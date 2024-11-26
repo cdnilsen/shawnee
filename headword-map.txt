@@ -146,6 +146,12 @@
 # ničeenina
     ničeenina
     hočeeninaali
+    hočeeninaawaali
+
+# elaapat- (TI-1)
+    nitelaapata
+
+    <PA> *iθa·pantamwa
 
 # winepaʔče
     winepaʔče
@@ -426,6 +432,12 @@ le
     kikya
     kikina
     kikinaaki
+
+# aatot- (TI-1)
+    nitaatota
+    nehaatota
+
+    <PA> *a·totamwa
 
 # mamaatomeewe
     mamaatomeewe
