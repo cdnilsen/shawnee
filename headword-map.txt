@@ -33,6 +33,12 @@
     mθooθwayi
     mʔθooθwayi
 
+# mateta
+    mateta
+    homateta
+
+    <PA> *matetayi
+
 # mʔθeelet- (TI-1)
     nimʔθeeleta    
 
@@ -554,6 +560,10 @@ le
 # kalawi
     kalawi
 
+# waneθo
+    niwaneθo
+    niwaawaneθo
+    waneθo
 
 
 # yooma
