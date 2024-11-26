@@ -190,6 +190,11 @@
     tekoʔšiyaki
     tekoʔšiyali
 
+# waniʔšakaawi
+    waniʔšakaawi
+
+    <PA> *wan
+
 # mʔtekwi
     mʔtekwi
     mtekwi
