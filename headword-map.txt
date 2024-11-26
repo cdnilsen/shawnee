@@ -39,6 +39,11 @@
 
     <PA> *matetayi
 
+# mʔkopelekwi
+    mʔkopelekwi
+    mkopelekwi
+
+
 # mʔθeelet- (TI-1)
     nimʔθeeleta    
 
@@ -179,6 +184,11 @@
     
 # takooθiwe
     nitakooθiwe
+
+# tekoʔšiya
+    tekoʔšiya
+    tekoʔšiyaki
+    tekoʔšiyali
 
 # mʔtekwi
     mʔtekwi
