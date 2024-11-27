@@ -274,6 +274,15 @@
     <CAT> NA
     <DEF> terrapin
 
+
+
+# nanahi
+    nanahi
+    ninanahiipe
+
+    <CAT> VAI
+    <DEF> he prepares
+
 # kwašθe
     kwašθe
 
@@ -826,6 +835,25 @@ le
     niwaawaneθo
     waneθo
 
+# wanem-
+    howanemekooli
+
+    <CAT> VTA
+    <DEF> he fools him
+
+# lekwiiwa
+    lekwiiwa
+    nilekwi
+    lekwiiki
+
+    <CAT> VAI
+    <DEF> he's covered
+
+# poonooθo
+    poonooθo
+
+    <CAT> VAI
+    <DEF> he's placed
 
 # yooma
     yooma
