@@ -73,6 +73,9 @@
     hapiwa
     hapiiki
     nitapi
+    nehapi
+    kitapi
+    kehapi
     wehapiwa
 
 # šiikona
@@ -151,7 +154,7 @@
 
     <CAT> VAI
     <DEF> he rises, gets up
-    <PA> *paθekwi·wa
+    <PA> *pasekwi·wa
 
 # tamakanwi
     tamakanwi
@@ -259,12 +262,21 @@
     hočeeninaali
     hočeeninaawaali
 
-# elaapat- (TI-1)
+# elaapat-
     nitelaapata
-
+    
+    <CAT> VTI-1
     <PA> *iθa·pantamwa
 
+# kwašθe
+    kwašθe
+
+    <CAT> VAI
+    <DEF> he gets off, get down
+
 # wiikilwa
+    niwiile
+    kiwiile
     wiikilwa
 
     <PA> *wi·nkeθwa
@@ -328,10 +340,33 @@
     <CAT> NA
     <DEF> vermillion
 
+# mooleelem-
+    homooleelemaali
 
+    <CAT> VTA
+    <DEF> he suspects, is suspicious of him
+    <PA> *mo·Le·reme·wa
+
+# niišʔθe
+    niišʔθe
+    niišθe
+    niišθeeki
+
+    <CAT> VAI
+    <DEF> (they) go together
+    <PA> *nyi·šohθe·wa
+
+# waakočeʔθi
+    waakočeʔθi
+    waakočeʔθiili
+
+    <CAT> NA
+    <DEF> fox
 
 # hašaʔθo
     hašaʔθo
+    nitašaʔθo
+    kitašaʔθo
     yehašaʔθowaači
     wehašaʔθo
 
