@@ -126,6 +126,33 @@
     <CAT> NA
     <DEF> a sheep
 
+# noole
+    noole
+
+    <CAT> PT
+    <DEF> still, nevertheless
+
+# ktikami
+    ktikami
+    ktikamiiki
+
+    <CAT> NI?
+    <DEF> spring (of water)
+
+# petakineʔθi
+    petakineʔθi
+    petakineʔθiili
+    
+    <CAT> NA
+    <DEF> rabbit
+
+# paθekwi
+    paθekwi
+
+    <CAT> VAI
+    <DEF> he rises, gets up
+    <PA> *paθekwi·wa
+
 # tamakanwi
     tamakanwi
 
