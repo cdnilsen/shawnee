@@ -823,6 +823,21 @@ le
     heeki
     yehaači
 
+# koona
+    koona
+    koonali
+
+    <CAT> NA
+    <DEF> snow
+
+# pkaleenamwa
+    pkaleenamwa
+    nipkaleena
+    pkaleenamooki
+
+    <CAT> VAI
+    <DEF> he makes a fire
+
 # lekamo
     lekamo
     lekamooki
@@ -873,6 +888,36 @@ le
 
     <CAT> VAI
     <DEF> he's covered
+
+# haakwal-
+    hotaakwalaali
+
+    <DEF> he piles him up
+    <CAT> VTA
+
+# nitooni
+
+    nitooni
+    hotooni
+    hotooneki
+
+    <CAT> DNI
+    <DEF> my mouth
+    <PA> *neto·ni
+
+# hamamo
+    hamamo
+    hamamooki
+
+    <DEF> he wakes up
+    <CAT> VAI
+    <PA> *amamowa
+
+# hawaθo
+    hawaθo
+    <DEF> he warms himself (by the fire)
+    <CAT> VAI
+    <PA> *awasowa
 
 # šekaakwa
     šekaakwa
