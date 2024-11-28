@@ -183,8 +183,26 @@
     <CAT> VTI-1
     <DEF> he lets it loose
 
+# niθiči
+    niθiči
+    niθitali
+
+    <CAT> DNI
+    <DEF> my foot
+    <PA> *nesiči
+
+# θookatenwi
+    θookatenwi
+    θookateno
+
+    <CAT> VII
+    <DEF> it's frozen
+
+
 # loʔkateθi
     loʔkateθi
+    niloʔkateθi
+    kiloʔkateθi
 
     <CAT> VAI
     <DEF> he is tired
@@ -904,6 +922,22 @@ le
     <CAT> DNI
     <DEF> my mouth
     <PA> *neto·ni
+
+# hameʔkwa
+    hameʔkwa
+    hameʔkwali
+
+    <CAT> NA
+    <DEF> beaver
+    <PA> *ameθkwa
+
+# hoθaškwaaloweʔθi
+    hoθaškwaaloweʔθi
+    hoθaškwaaloweʔθiili
+
+    <CAT> NA
+    <DEF> possum
+
 
 # hamamo
     hamamo
