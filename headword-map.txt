@@ -607,6 +607,21 @@
 
 # waapata- (TI-1)
     waapatamoko
+    waapatano
+
+# niθowaalwi
+    niθowaalwi
+    kiθowaalwi
+
+    <CAT> DNI
+    <DEF> my tail
+
+# kilakkaw-
+    nikilakkawa
+    kilakkawakwe
+
+    <CAT> TA
+    <DEF> he makes him happy
 
 # neew- (TA)
     kinaaneewaape
@@ -808,15 +823,25 @@ le
     heeki
     yehaači
 
+# lekamo
+    lekamo
+    lekamooki
+
+    <CAT> VAI
+
 # nilekwalʔθa
     nilekwalʔθa
     kilekwalʔθena
 
-# pakit- (TI-1)
+# pakit- 
     keʔpakita
 
-# pakθen- (TA)
+    <CAT> VTI-1
+
+# pakθen-
     nipakθenekoopi
+
+    <CAT> VTA
 
 # haačimoowe
     haačimoowe
@@ -848,6 +873,24 @@ le
 
     <CAT> VAI
     <DEF> he's covered
+
+# šekaakwa
+    šekaakwa
+
+# nipwaami
+    nipwaami
+    hopwaami
+    hopwaamali
+
+    <CAT> DNI
+    <DEF> my thigh
+    <PA> *nepwa·mi
+
+# piškitil-
+    hopiškitilaali
+
+    <CAT> VTA
+    <DEF> he farts on him
 
 # poonooθo
     poonooθo
