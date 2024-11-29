@@ -39,6 +39,29 @@
 
     <PA> *matetayi
 
+# pemʔθe
+
+    <CAT> VAI
+    <DEF> he goes about
+    <PA> *pemiʔre·wa
+
+# wiʔkom-
+    keʔwiʔkomi
+    keʔwiʔkomele
+    howiʔkomaali
+
+    <CAT> VTA
+    <DEF> he calls him (hither)
+    <PA> *wi·hkwime·wa
+
+# pšiinʔkwe
+    pšiinʔkwe
+    kepšiinʔkweepe
+    pšiinʔkweeki
+
+    <CAT> VAI
+    <DEF> they do skinning
+
 # mʔkopelekwi
     mʔkopelekwi
     mkopelekwi
@@ -622,6 +645,15 @@
 
 # nkaači
     nkaači
+
+# waapikoloʔθa
+    waapikoloʔθa
+    waapikoloʔθaki
+    waapikoloʔθhi
+    waapikoloʔθali
+
+    <CAT> NA
+    <DEF> mouse
 
 # waapata- (TI-1)
     waapatamoko
