@@ -694,9 +694,24 @@
     <CAT> NA
     <DEF> mouse
 
-# waapata- (TI-1)
+
+# waapam-
+    howaapamaali
+    howaapamekooli
+    niwaapama
+    kiwaapama
+
+    <CAT> VTA
+    <DEF> he looks at him
+    <PA> *wa·pame·wa
+
+# waapat-
     waapatamoko
     waapatano
+
+    <CAT> VTI-1
+    <DEF> he looks at it
+    <PA> *wa·pantamwa
 
 # niθowaalwi
     niθowaalwi
@@ -709,12 +724,16 @@
     nikilakkawa
     kilakkawakwe
 
-    <CAT> TA
+    <CAT> VTA
     <DEF> he makes him happy
 
-# neew- (TA)
+# neew-
     kinaaneewaape
     honeewaali
+
+    <CAT> VTA
+    <DEF> he sees him
+    <PA> *ne·we·wa
 
 # kiišenaači
     kiišenaači
@@ -736,8 +755,6 @@
 
 # taawalwa
     taawalwa
-
-le
 
 # mečimi
     mečimi
@@ -763,7 +780,19 @@ le
 # wiila
     wiila
 
-# meʔteelet
+# nileči
+    nileči
+    kileči
+    kilečiki
+    kilečiwali
+    holeči
+    holečiki
+
+    <CAT> DNI
+    <DEF> my hand
+
+
+# meʔteelet-
     yeemeʔteeletaki
     meemeʔteeletaka
 
@@ -827,11 +856,16 @@ le
     kikinaaki
     hokeeli
 
+    <CAT> DNA
+    <DEF> my mother
+    <PA> *nekya
 
-# aatot- (TI-1)
+
+# aatot-
     nitaatota
     nehaatota
 
+    <CAT> VTI-1
     <PA> *a·totamwa
 
 # mamaatomeewe
@@ -852,13 +886,17 @@ le
 # wiškiloʔθa
     wiškiloʔθa
 
-# kwiilaw- (TA)
+# kwiilaw-
     hokwiilawaali
     nitaʔkwiilawa
 
+    <CAT> VTA
 
-# katawiʔk- (TI)
+
+# katawiʔk-
     hokatawiʔka
+
+    <CAT> VTI-1
 
 # payeekwa
     payeekwa
@@ -894,8 +932,12 @@ le
 # hašiški
     hašiški
 
-# nʔθ- (TA)
+# nʔθ-
     kitanʔθa
+
+    <CAT> VTA
+    <DEF> he kills him
+    <PA> *neʔre·wa
 
 # penʔθe
     penʔθe
