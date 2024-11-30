@@ -646,6 +646,28 @@
 # nkaači
     nkaači
 
+# pašinat-
+    hopašinato
+
+    <CAT> TI-2
+    <DEF> he glances at it (e.g. his killing misses?)
+    <PA> *pašinata·wa
+
+# mekoʔθi
+    mekoʔθi
+    mekoʔθali
+
+    <CAT> NI
+    <DEF> a fork
+
+# niilemwa
+    niilemwa
+    wiilemooli
+
+    <CAT> DNA
+    <DEF> my sister-in-law
+    <PA> *ni·θemwa
+
 # matal-
     homatalaali
     neʔmatala
