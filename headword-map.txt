@@ -646,6 +646,23 @@
 # nkaači
     nkaači
 
+# matal-
+    homatalaali
+    neʔmatala
+    yeʔmatalaači
+    matalake
+
+    <CAT> VTA
+    <DEF> he overtakes him
+    <PA> *mataθe·wa
+
+# miiθi
+    miiθi
+
+    <CAT> VAI
+    <DEF> he defecates
+    <PA> *mi·si·wa
+
 # waapikoloʔθa
     waapikoloʔθa
     waapikoloʔθaki
