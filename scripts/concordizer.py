@@ -59,11 +59,19 @@ def getAllTextFiles():
     allWords = list(masterDict.keys())
 
     hapaxCount = 0
+    disCount = 0
+    trisCount = 0
     for word in allWords:
         if masterDict[word] == 1:
             hapaxCount += 1
+        elif masterDict[word] == 2:
+            disCount +=1
+        elif masterDict[word] == 3:
+            trisCount += 1
 
     print(str(hapaxCount) + " hapaxes")
+    print(str(disCount) + " dis legomena")
+    print(str(trisCount) + " tris legomena\n")
     print(str(len(allWords)) + " total words")
     print(str(allWordCount) + " total tokens")
 
