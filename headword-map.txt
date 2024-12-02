@@ -1016,6 +1016,14 @@
     <CAT> VTA
     <DEF> he fools him
 
+# waneelet-
+    niwaneeleta
+    kiwaneeleta
+
+    <CAT> VTI-1
+    <DEF> he wonders about it
+    <PA> *wane·rentamwa 'he forgets about it'
+
 # lekwiiwa
     lekwiiwa
     nilekwi
