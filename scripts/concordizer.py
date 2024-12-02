@@ -33,7 +33,7 @@ for line in alfordList:
 def processTextLine(line, dict, count):
     if "\\\\" in line:
         word = line.split("\\\\")[0].strip()
-        spuriousChars = ["[", "]", "(", ")", "{", "}"]
+        spuriousChars = ["[", "]", "(", ")", "{", "}", "<", "="]
         for char in spuriousChars:
             word = word.replace(char, "")
         if word not in dict:
