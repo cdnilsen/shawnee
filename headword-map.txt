@@ -1016,6 +1016,13 @@
     <CAT> VTA
     <DEF> he fools him
 
+# piilehanwi
+    piilehanwi
+
+    <CAT> VII
+    <DEF> it's suspended
+    
+
 # waneelet-
     niwaneeleta
     kiwaneeleta
