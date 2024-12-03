@@ -434,6 +434,14 @@
     <DEF> he is painted
     <PA> aša·Ɂsowa
 
+# ašaʔθw-
+    nitašaʔθwa
+    hotašaʔθwaawaali
+
+    <CAT> VTA
+    <DEF> he painted him
+    <PA> *aša·ʔswe·wa
+
 # waniikweenooθo
     waniikweenooθo
 
@@ -1021,7 +1029,7 @@
 
     <CAT> VII
     <DEF> it's suspended
-    
+
 
 # waneelet-
     niwaneeleta
