@@ -96,6 +96,12 @@
     hapeloʔθhi
     kitapeloʔθemenaaki
 
+# noošθemeeθa
+    noošθemeeθa
+
+    <CAT> DNA
+    <DEF> my grandchild
+
 # hapiwa
     hapiwa
     hapiiki
@@ -750,6 +756,20 @@
 # kiišenaači
     kiišenaači
 
+# kiišaʔθwa
+    kiišaʔθwa
+
+    <CAT> NA
+    <DEF> the sun
+    <PA> *ki·šeʔθwa (with unexplained /a/ for *e?)
+
+# ᵉleelet-
+    hoteleeleta
+
+    <CAT> VTI-1
+    <DEF> he creates it
+    <PA> *iθe·rentamwa
+
 # noʔki
     noʔki
 
@@ -758,6 +778,17 @@
     koʔkomʔθa
     koʔkomʔθena
     koʔkomʔθenaali
+
+    <CAT> DNA
+    <DEF> my grandmother
+    <PA>
+
+# pemapiwa
+    pemapiwa
+    pemapiiki
+
+    <CAT> VAI
+    <DEF> they stay
 
 # šaaškwiiwa
     šaaškwiiwa
