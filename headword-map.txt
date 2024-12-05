@@ -319,6 +319,35 @@
     <CAT> VTI-1
     <PA> *iθa·pantamwa
 
+# škote
+    škote <CIT>
+    škoteeki <LOC>
+
+    <CAT> NI
+    <DEF> fire
+
+# leekawi
+    leekawi <CIT>
+
+    <CAT> NI
+    <DEF> sand
+    <PA> re·kawi
+
+# pekwi
+    pekwi <CIT>
+    pekoki <LOC>
+
+    <CAT> NI
+    <DEF> dust
+    <PA> *penkwi
+
+# pečhwa
+    pečhwa <CIT>
+    pečhwaaki <PL>
+    
+    <CAT> NA
+    <DEF> a bead
+
 # mškoteelawe
     mškoteelawe
 
@@ -694,6 +723,13 @@
     <CAT> VTA
     <DEF> he accompanies him
     <PA> *wi·te·me·wa
+
+# mam-
+    homamaali
+
+    <CAT> VTA
+    <DEF> he takes him (away)
+    <PA> *mame·wa
 
 # wiitamaw-
     keʔwiitamawi
