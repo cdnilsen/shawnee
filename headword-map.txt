@@ -586,6 +586,14 @@
     hoopašitoomali
     hopašitoomali
 
+# noošaal-
+    keʔnoošaalele
+
+    <CAT> VTA
+    <DEF> he takes care of him
+
+
+
 # mkwayi
     mkwayi
     mʔkwayi
@@ -679,6 +687,26 @@
 
     <CAT> NI
     <DEF> a fork
+
+# wiiteem-
+    keʔwiiteemi
+
+    <CAT> VTA
+    <DEF> he accompanies him
+    <PA> *wi·te·me·wa
+
+# wiitamaw-
+    keʔwiitamawi
+
+    <CAT> VTA
+    <DEF> he tells him
+
+# hawaθo
+    kehawaθo
+
+    <CAT> VAI
+    <DEF> he gets warms
+    <PA> *awasowa
 
 # niilemwa
     niilemwa
