@@ -870,9 +870,19 @@
 
 
 # nimeʔšoomʔθa
-    nimeʔšoomʔθa
+    nimeʔšoomʔθa <CIT>
     kimeʔšoomʔθa
     kimeʔšoomʔθena
+
+    <CAT> DNA
+    <DEF> my grandfather
+
+# pemoweeĺ-
+    keʔpemoweeši
+
+    <CAT> VTA
+    <DEF> he carries him along
+    <PA> 
 
 # čaakiwiyeeθa
     čaakiwiyeeθa
