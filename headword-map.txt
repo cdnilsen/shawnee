@@ -980,6 +980,12 @@
     <DEF> my mother
     <PA> *nekya
 
+# škoteʔθi
+    škoteʔθi \\ <CIT>
+    škoteʔθiili <OBV.SG>
+
+    <CAT> NA
+    <DEF> fire person
 
 # aatot-
     nitaatota
