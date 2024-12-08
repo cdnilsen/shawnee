@@ -1063,6 +1063,13 @@
     <DEF> he controls it
     <PA> *tepe·rentamwa
 
+# peeleʔθi
+    peeleʔθi
+    kipeeleʔθiimena
+
+    <CAT> NA
+    <DEF> eagle
+
 # aatot-
     nitaatota
     nehaatota
