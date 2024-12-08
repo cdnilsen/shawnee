@@ -657,6 +657,14 @@
 # kaʔkiθ- (TI)
     hokaʔkiθa
     
+# hokima
+    hokima <CIT>
+
+    <DEF> a chief>
+    <PA> 
+
+
+
 # haʔkalaamo
     haʔkalaamo
 
@@ -824,10 +832,63 @@
 
 # kiišaʔθwa
     kiišaʔθwa
+    kiišaʔθooki
 
     <CAT> NA
     <DEF> the sun
     <PA> *ki·šeʔθwa (with unexplained /a/ for *e?)
+
+# kalool-
+    nikaloola
+
+    <CAT> VTA
+    <DEF> he instructs him
+
+# kkinooloowe
+    kkinooloowe
+    kkinooloowena <PL>
+
+    <CAT> NI
+    <DEF> sign, bookmark
+
+# pakičkwaaθo
+    pakičkwaaθo
+    nipakičkwaaθo
+
+    <CAT> VAI
+    <DEF> he is clean
+
+# pakičkwaal-
+    nipakičkwaala
+
+    <CAT> VTA
+    <DEF> he cleans him
+
+# pakičkwaat-
+    nipakičkwaata
+
+    <CAT> VTI-1
+    <DEF> he cleans it
+
+# tepeʔt-
+    nitepeʔta
+
+    <CAT> VTI-1
+    <DEF> he understands it
+
+# nitehi
+    nitehi
+    hotehi
+
+    <CAT> DNI
+    <DEF> my heart
+
+# tepeʔtaw-
+
+    nitepeʔtawa
+
+    <CAT> VTA
+    <DEF> he understands him    
 
 # ᵉleelet-
     hoteleeleta
