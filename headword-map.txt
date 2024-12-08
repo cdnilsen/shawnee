@@ -974,6 +974,7 @@
     kikina
     kikinaaki
     hokeeli
+    kikiwa
 
     <CAT> DNA
     <DEF> my mother
