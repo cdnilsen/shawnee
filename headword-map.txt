@@ -987,6 +987,21 @@
     <CAT> NA
     <DEF> fire person
 
+# hašiškiiθa
+    hašiškiiθa
+
+    <CAT> NA
+    <DEF> earth person
+    <PA>
+    <NOTES> why not in -ʔθi...?
+
+# tepeelet-
+    nitepeeleta
+
+    <CAT> VTI-1
+    <DEF> he controls it
+    <PA> *tepe·rentamwa
+
 # aatot-
     nitaatota
     nehaatota
