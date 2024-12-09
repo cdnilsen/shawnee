@@ -30,7 +30,7 @@ allAlfordLinesList = []
 for line in alfordList:
     allAlfordLinesList.append(processAlfordWord(line))
 
-def processTextLine(line, dict, count):
+def processTextLine(line, dict):
     if "\\\\" in line:
         word = line.split("\\\\")[0].strip()
         spuriousChars = ["[", "]", "(", ")", "{", "}", "<", "="]
@@ -53,7 +53,7 @@ def getAllTextFiles():
         for entry in os.listdir(subFolder):
             fileLines = open(subFolder + "/" + entry, "r", encoding="utf-8").readlines()
             for line in fileLines:
-                if processTextLine(line, masterDict, allWordCount):
+                if processTextLine(line, masterDict):
                     allWordCount += 1
 
     allWords = list(masterDict.keys())
