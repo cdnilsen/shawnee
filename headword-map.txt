@@ -1070,6 +1070,28 @@
     <CAT> NA
     <DEF> eagle
 
+# halaakwa
+    halaakwa
+    halaakwaki
+
+    <CAT> NA
+    <DEF> a star>
+    <PA> *aθa·nkwa
+
+# nooše
+    nooše
+
+    <CAT> VAI
+    <DEF> she brought forth young
+    <PA> *no·nšye·wa
+
+# melonaamehi
+    melonaamehi
+
+    <CAT> PT
+    <DEF> easily
+    <PA> *
+
 # aatot-
     nitaatota
     nehaatota
